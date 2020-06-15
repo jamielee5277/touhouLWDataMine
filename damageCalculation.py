@@ -29,6 +29,9 @@ def sortByLwP3(item):
         return -1
     return item["LastWordDamage"]["P3"]
 
+def sortAllCard(item):
+    return item[2]
+
 def getSpellBuffAmount(spellEffectId, levelType, levelValue, timing):
     buffAmount = {}
     buffAmount["yin_buff"] = 0
@@ -81,10 +84,6 @@ def getSpellCardDamage(key, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, 
             yang_debuff_current += buff["yang_debuff"]
     
     damageMap = {}
-    damageMap["yin_buff"] = yin_buff_current
-    damageMap["yang_buff"] = yang_buff_current
-    damageMap["yin_debuff"] = yin_debuff_current
-    damageMap["yang_debuff"] = yang_debuff_current
     damageMap["P0"] = 0
     damageMap["P1"] = 0
     damageMap["P2"] = 0
@@ -163,6 +162,7 @@ def getPassiveBuff(ability):
 
 finalResult = {}
 finalList = []
+allCardList = []
 # 命中加成
 # done by hardcoding now, need to automate later
 specialIdYin = ["1003"]
@@ -189,15 +189,21 @@ with open('infoCompiled.json', encoding='utf-8') as json_file:
             yang_buff += 3
         if (key in specialIdYin):
             yin_buff += 3
-        unitResult["yin_buff"] = yin_buff
-        unitResult["yang_buff"] = yang_buff
-        unitResult["yin_debuff"] = yin_debuff
-        unitResult["yang_debuff"] = yang_debuff
-        unitResult["yin_boost"] = yin_boost
-        unitResult["yang_boost"] = yang_boost
-        unitResult["SpellCard1Damge"] = getSpellCardDamage(1, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, yin_boost, yang_boost)
-        unitResult["SpellCard2Damge"] = getSpellCardDamage(2, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, yin_boost, yang_boost)
-        unitResult["LastWordDamage"] = getSpellCardDamage(5, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, yin_boost, yang_boost)
+        card1Damage = getSpellCardDamage(1, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, yin_boost, yang_boost)
+        card2Damage = getSpellCardDamage(2, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, yin_boost, yang_boost)
+        lastwordDamage = getSpellCardDamage(5, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, yin_boost, yang_boost)
+        for i in range (0, 4):
+            if (card1Damage == "Missing"):
+                continue
+            cardEntry1 = (unit["name"] + " SC1", "P" + str(i) ,card1Damage["P" + str(i)])
+            cardEntry2 = (unit["name"] + " SC2", "P" + str(i) ,card2Damage["P" + str(i)])
+            cardEntry3 = (unit["name"] + " LW", "P" + str(i) ,lastwordDamage["P" + str(i)])
+            allCardList.append(cardEntry1)
+            allCardList.append(cardEntry2)
+            allCardList.append(cardEntry3)
+        unitResult["SpellCard1Damge"] = card1Damage
+        unitResult["SpellCard2Damge"] = card2Damage
+        unitResult["LastWordDamage"] = lastwordDamage
         finalResult[key] = unitResult
         finalList.append(unitResult)
     with open('damage.json', 'w', encoding='utf-8') as json_file:
@@ -214,3 +220,6 @@ with open('infoCompiled.json', encoding='utf-8') as json_file:
     with open('damageP3.json', 'w', encoding='utf-8') as json_file:
         finalList.sort(reverse=True, key=sortByLwP3)
         json.dump(finalList, json_file, ensure_ascii=False, indent=2)
+    with open('allCardDamage.json', 'w', encoding='utf-8') as json_file:
+        allCardList.sort(reverse=True, key=sortAllCard)
+        json.dump(allCardList, json_file, ensure_ascii=False, indent=2)
