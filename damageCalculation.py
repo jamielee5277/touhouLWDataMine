@@ -49,13 +49,13 @@ def getSpellBuffAmount(spellEffectId, levelType, levelValue, timing):
         if effects == None:
             return buffAmount
         if effects["subtype"] == 1 and  (effects["range"] == 1 or effects["range"] == 2):
-            buffAmount["yang_buff"] = effects["level" + str(level) + "_add_value"]
+            buffAmount["yang_buff"] = effects["level" + str(level) + "_value"]
         elif effects["subtype"] == 2 and (effects["range"] == 3 or effects["range"] == 4):
-            buffAmount["yang_debuff"] = effects["level" + str(level) + "_add_value"]
+            buffAmount["yang_debuff"] = effects["level" + str(level) + "_value"]
         elif effects["subtype"] == 3 and (effects["range"] == 1 or effects["range"] == 2):
-            buffAmount["yin_buff"] = effects["level" + str(level) + "_add_value"]
+            buffAmount["yin_buff"] = effects["level" + str(level) + "_value"]
         elif effects["subtype"] == 4 and (effects["range"] == 3 or effects["range"] == 4):
-            buffAmount["yin_debuff"] = effects["level" + str(level) + "_add_value"]
+            buffAmount["yin_debuff"] = effects["level" + str(level) + "_value"]
     return buffAmount
 
 def getSpellCardDamage(key, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, yin_boost, yang_boost):
@@ -81,6 +81,10 @@ def getSpellCardDamage(key, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, 
             yang_debuff_current += buff["yang_debuff"]
     
     damageMap = {}
+    damageMap["yin_buff"] = yin_buff_current
+    damageMap["yang_buff"] = yang_buff_current
+    damageMap["yin_debuff"] = yin_debuff_current
+    damageMap["yang_debuff"] = yang_debuff_current
     damageMap["P0"] = 0
     damageMap["P1"] = 0
     damageMap["P2"] = 0
@@ -99,7 +103,7 @@ def getSpellCardDamage(key, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, 
                 if (bullet["description"][0] == "陽"):
                     rawDamage *= yang_multiplier * yang_attack
                 else:
-                    rawDamage *= yin_multiplier * yang_attack
+                    rawDamage *= yin_multiplier * yin_attack
                 rawTotalDamage += rawDamage
         damageMap["P" + str(i)] = rawTotalDamage
     return damageMap
@@ -116,17 +120,17 @@ def getSkillBuff(unit):
         if skill == "Missing":
             continue
         for j in range(1, 4):
-            effects = skill.get("effect" + str(i), "Missing")
+            effects = skill.get("effect" + str(j), "Missing")
             if effects == "Missing":
                 continue
             if effects["subtype"] == 1 and  (effects["range"] == 1 or effects["range"] == 2):
-                buffAmount["yang_buff"] = effects["level" + str(level) + "_value"]
+                buffAmount["yang_buff"] += effects["level" + str(level) + "_value"]
             elif effects["subtype"] == 2 and (effects["range"] == 3 or effects["range"] == 4):
-                buffAmount["yang_debuff"] = effects["level" + str(level) + "_value"]
+                buffAmount["yang_debuff"] += effects["level" + str(level) + "_value"]
             elif effects["subtype"] == 3 and (effects["range"] == 1 or effects["range"] == 2):
-                buffAmount["yin_buff"] = effects["level" + str(level) + "_value"]
+                buffAmount["yin_buff"] += effects["level" + str(level) + "_value"]
             elif effects["subtype"] == 4 and (effects["range"] == 3 or effects["range"] == 4):
-                buffAmount["yin_debuff"] = effects["level" + str(level) + "_value"]
+                buffAmount["yin_debuff"] += effects["level" + str(level) + "_value"]
     return buffAmount
 
 def getPassiveBuff(ability):
@@ -188,7 +192,7 @@ with open('infoCompiled.json', encoding='utf-8') as json_file:
         unitResult["yin_buff"] = yin_buff
         unitResult["yang_buff"] = yang_buff
         unitResult["yin_debuff"] = yin_debuff
-        unitResult["yang_debuff"] = yin_debuff
+        unitResult["yang_debuff"] = yang_debuff
         unitResult["yin_boost"] = yin_boost
         unitResult["yang_boost"] = yang_boost
         unitResult["SpellCard1Damge"] = getSpellCardDamage(1, yin_buff, yang_buff, yin_debuff, yang_debuff, unit, yin_boost, yang_boost)
