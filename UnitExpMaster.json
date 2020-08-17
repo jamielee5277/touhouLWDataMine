@@ -1,0 +1,802 @@
+{
+ "4294967297": {
+  "exp": 0,
+  "exp_id": 1,
+  "growth_rate": 0.0,
+  "id": 1,
+  "level": 1,
+  "spec_actualize_limit_rate": 0.07810000330209732
+ },
+ "8589934593": {
+  "exp": 1,
+  "exp_id": 1,
+  "growth_rate": 0.4099999964237213,
+  "id": 2,
+  "level": 2,
+  "spec_actualize_limit_rate": 0.15620000660419464
+ },
+ "12884901889": {
+  "exp": 8,
+  "exp_id": 1,
+  "growth_rate": 0.8199999928474426,
+  "id": 3,
+  "level": 3,
+  "spec_actualize_limit_rate": 0.23430000245571136
+ },
+ "17179869185": {
+  "exp": 27,
+  "exp_id": 1,
+  "growth_rate": 1.2300000190734863,
+  "id": 4,
+  "level": 4,
+  "spec_actualize_limit_rate": 0.3124000132083893
+ },
+ "21474836481": {
+  "exp": 64,
+  "exp_id": 1,
+  "growth_rate": 1.6399999856948853,
+  "id": 5,
+  "level": 5,
+  "spec_actualize_limit_rate": 0.390500009059906
+ },
+ "25769803777": {
+  "exp": 125,
+  "exp_id": 1,
+  "growth_rate": 2.049999952316284,
+  "id": 6,
+  "level": 6,
+  "spec_actualize_limit_rate": 0.46860000491142273
+ },
+ "30064771073": {
+  "exp": 216,
+  "exp_id": 1,
+  "growth_rate": 2.4600000381469727,
+  "id": 7,
+  "level": 7,
+  "spec_actualize_limit_rate": 0.5467000007629395
+ },
+ "34359738369": {
+  "exp": 343,
+  "exp_id": 1,
+  "growth_rate": 2.869999885559082,
+  "id": 8,
+  "level": 8,
+  "spec_actualize_limit_rate": 0.6248000264167786
+ },
+ "38654705665": {
+  "exp": 512,
+  "exp_id": 1,
+  "growth_rate": 3.2799999713897705,
+  "id": 9,
+  "level": 9,
+  "spec_actualize_limit_rate": 0.7028999924659729
+ },
+ "42949672961": {
+  "exp": 729,
+  "exp_id": 1,
+  "growth_rate": 3.690000057220459,
+  "id": 10,
+  "level": 10,
+  "spec_actualize_limit_rate": 0.781000018119812
+ },
+ "47244640257": {
+  "exp": 1000,
+  "exp_id": 1,
+  "growth_rate": 4.099999904632568,
+  "id": 11,
+  "level": 11,
+  "spec_actualize_limit_rate": 0.8590999841690063
+ },
+ "51539607553": {
+  "exp": 1331,
+  "exp_id": 1,
+  "growth_rate": 4.510000228881836,
+  "id": 12,
+  "level": 12,
+  "spec_actualize_limit_rate": 0.9372000098228455
+ },
+ "55834574849": {
+  "exp": 1728,
+  "exp_id": 1,
+  "growth_rate": 4.920000076293945,
+  "id": 13,
+  "level": 13,
+  "spec_actualize_limit_rate": 1.0153000354766846
+ },
+ "60129542145": {
+  "exp": 2197,
+  "exp_id": 1,
+  "growth_rate": 5.329999923706055,
+  "id": 14,
+  "level": 14,
+  "spec_actualize_limit_rate": 1.093400001525879
+ },
+ "64424509441": {
+  "exp": 2744,
+  "exp_id": 1,
+  "growth_rate": 5.739999771118164,
+  "id": 15,
+  "level": 15,
+  "spec_actualize_limit_rate": 1.1714999675750732
+ },
+ "68719476737": {
+  "exp": 3375,
+  "exp_id": 1,
+  "growth_rate": 6.150000095367432,
+  "id": 16,
+  "level": 16,
+  "spec_actualize_limit_rate": 1.2496000528335571
+ },
+ "73014444033": {
+  "exp": 4096,
+  "exp_id": 1,
+  "growth_rate": 6.559999942779541,
+  "id": 17,
+  "level": 17,
+  "spec_actualize_limit_rate": 1.3277000188827515
+ },
+ "77309411329": {
+  "exp": 4913,
+  "exp_id": 1,
+  "growth_rate": 6.96999979019165,
+  "id": 18,
+  "level": 18,
+  "spec_actualize_limit_rate": 1.4057999849319458
+ },
+ "81604378625": {
+  "exp": 5832,
+  "exp_id": 1,
+  "growth_rate": 7.380000114440918,
+  "id": 19,
+  "level": 19,
+  "spec_actualize_limit_rate": 1.4838999509811401
+ },
+ "85899345921": {
+  "exp": 6859,
+  "exp_id": 1,
+  "growth_rate": 7.789999961853027,
+  "id": 20,
+  "level": 20,
+  "spec_actualize_limit_rate": 1.562000036239624
+ },
+ "90194313217": {
+  "exp": 8000,
+  "exp_id": 1,
+  "growth_rate": 8.199999809265137,
+  "id": 21,
+  "level": 21,
+  "spec_actualize_limit_rate": 1.6401000022888184
+ },
+ "94489280513": {
+  "exp": 9261,
+  "exp_id": 1,
+  "growth_rate": 8.609999656677246,
+  "id": 22,
+  "level": 22,
+  "spec_actualize_limit_rate": 1.7181999683380127
+ },
+ "98784247809": {
+  "exp": 10648,
+  "exp_id": 1,
+  "growth_rate": 9.020000457763672,
+  "id": 23,
+  "level": 23,
+  "spec_actualize_limit_rate": 1.7963000535964966
+ },
+ "103079215105": {
+  "exp": 12167,
+  "exp_id": 1,
+  "growth_rate": 9.430000305175781,
+  "id": 24,
+  "level": 24,
+  "spec_actualize_limit_rate": 1.874400019645691
+ },
+ "107374182401": {
+  "exp": 13824,
+  "exp_id": 1,
+  "growth_rate": 9.84000015258789,
+  "id": 25,
+  "level": 25,
+  "spec_actualize_limit_rate": 1.9524999856948853
+ },
+ "111669149697": {
+  "exp": 15625,
+  "exp_id": 1,
+  "growth_rate": 10.25,
+  "id": 26,
+  "level": 26,
+  "spec_actualize_limit_rate": 2.030600070953369
+ },
+ "115964116993": {
+  "exp": 17576,
+  "exp_id": 1,
+  "growth_rate": 10.65999984741211,
+  "id": 27,
+  "level": 27,
+  "spec_actualize_limit_rate": 2.1087000370025635
+ },
+ "120259084289": {
+  "exp": 19683,
+  "exp_id": 1,
+  "growth_rate": 11.069999694824219,
+  "id": 28,
+  "level": 28,
+  "spec_actualize_limit_rate": 2.186800003051758
+ },
+ "124554051585": {
+  "exp": 21952,
+  "exp_id": 1,
+  "growth_rate": 11.479999542236328,
+  "id": 29,
+  "level": 29,
+  "spec_actualize_limit_rate": 2.264899969100952
+ },
+ "128849018881": {
+  "exp": 24389,
+  "exp_id": 1,
+  "growth_rate": 11.890000343322754,
+  "id": 30,
+  "level": 30,
+  "spec_actualize_limit_rate": 2.3429999351501465
+ },
+ "133143986177": {
+  "exp": 27000,
+  "exp_id": 1,
+  "growth_rate": 12.300000190734863,
+  "id": 31,
+  "level": 31,
+  "spec_actualize_limit_rate": 2.421099901199341
+ },
+ "137438953473": {
+  "exp": 29791,
+  "exp_id": 1,
+  "growth_rate": 12.710000038146973,
+  "id": 32,
+  "level": 32,
+  "spec_actualize_limit_rate": 2.4992001056671143
+ },
+ "141733920769": {
+  "exp": 32768,
+  "exp_id": 1,
+  "growth_rate": 13.119999885559082,
+  "id": 33,
+  "level": 33,
+  "spec_actualize_limit_rate": 2.5773000717163086
+ },
+ "146028888065": {
+  "exp": 35937,
+  "exp_id": 1,
+  "growth_rate": 13.529999732971191,
+  "id": 34,
+  "level": 34,
+  "spec_actualize_limit_rate": 2.655400037765503
+ },
+ "150323855361": {
+  "exp": 39304,
+  "exp_id": 1,
+  "growth_rate": 13.9399995803833,
+  "id": 35,
+  "level": 35,
+  "spec_actualize_limit_rate": 2.7335000038146973
+ },
+ "154618822657": {
+  "exp": 42875,
+  "exp_id": 1,
+  "growth_rate": 14.350000381469727,
+  "id": 36,
+  "level": 36,
+  "spec_actualize_limit_rate": 2.8115999698638916
+ },
+ "158913789953": {
+  "exp": 46656,
+  "exp_id": 1,
+  "growth_rate": 14.760000228881836,
+  "id": 37,
+  "level": 37,
+  "spec_actualize_limit_rate": 2.889699935913086
+ },
+ "163208757249": {
+  "exp": 50653,
+  "exp_id": 1,
+  "growth_rate": 15.170000076293945,
+  "id": 38,
+  "level": 38,
+  "spec_actualize_limit_rate": 2.9677999019622803
+ },
+ "167503724545": {
+  "exp": 54872,
+  "exp_id": 1,
+  "growth_rate": 15.579999923706055,
+  "id": 39,
+  "level": 39,
+  "spec_actualize_limit_rate": 3.0459001064300537
+ },
+ "171798691841": {
+  "exp": 59319,
+  "exp_id": 1,
+  "growth_rate": 15.989999771118164,
+  "id": 40,
+  "level": 40,
+  "spec_actualize_limit_rate": 3.124000072479248
+ },
+ "176093659137": {
+  "exp": 64000,
+  "exp_id": 1,
+  "growth_rate": 16.399999618530273,
+  "id": 41,
+  "level": 41,
+  "spec_actualize_limit_rate": 3.2021000385284424
+ },
+ "180388626433": {
+  "exp": 68921,
+  "exp_id": 1,
+  "growth_rate": 16.809999465942383,
+  "id": 42,
+  "level": 42,
+  "spec_actualize_limit_rate": 3.2802000045776367
+ },
+ "184683593729": {
+  "exp": 74088,
+  "exp_id": 1,
+  "growth_rate": 17.219999313354492,
+  "id": 43,
+  "level": 43,
+  "spec_actualize_limit_rate": 3.358299970626831
+ },
+ "188978561025": {
+  "exp": 79507,
+  "exp_id": 1,
+  "growth_rate": 17.6299991607666,
+  "id": 44,
+  "level": 44,
+  "spec_actualize_limit_rate": 3.4363999366760254
+ },
+ "193273528321": {
+  "exp": 85184,
+  "exp_id": 1,
+  "growth_rate": 18.040000915527344,
+  "id": 45,
+  "level": 45,
+  "spec_actualize_limit_rate": 3.5144999027252197
+ },
+ "197568495617": {
+  "exp": 91125,
+  "exp_id": 1,
+  "growth_rate": 18.450000762939453,
+  "id": 46,
+  "level": 46,
+  "spec_actualize_limit_rate": 3.592600107192993
+ },
+ "201863462913": {
+  "exp": 97336,
+  "exp_id": 1,
+  "growth_rate": 18.860000610351562,
+  "id": 47,
+  "level": 47,
+  "spec_actualize_limit_rate": 3.6707000732421875
+ },
+ "206158430209": {
+  "exp": 103823,
+  "exp_id": 1,
+  "growth_rate": 19.270000457763672,
+  "id": 48,
+  "level": 48,
+  "spec_actualize_limit_rate": 3.748800039291382
+ },
+ "210453397505": {
+  "exp": 110592,
+  "exp_id": 1,
+  "growth_rate": 19.68000030517578,
+  "id": 49,
+  "level": 49,
+  "spec_actualize_limit_rate": 3.826900005340576
+ },
+ "214748364801": {
+  "exp": 117649,
+  "exp_id": 1,
+  "growth_rate": 20.09000015258789,
+  "id": 50,
+  "level": 50,
+  "spec_actualize_limit_rate": 3.9049999713897705
+ },
+ "219043332097": {
+  "exp": 125000,
+  "exp_id": 1,
+  "growth_rate": 20.5,
+  "id": 51,
+  "level": 51,
+  "spec_actualize_limit_rate": 3.983099937438965
+ },
+ "223338299393": {
+  "exp": 132651,
+  "exp_id": 1,
+  "growth_rate": 20.90999984741211,
+  "id": 52,
+  "level": 52,
+  "spec_actualize_limit_rate": 4.061200141906738
+ },
+ "227633266689": {
+  "exp": 140608,
+  "exp_id": 1,
+  "growth_rate": 21.31999969482422,
+  "id": 53,
+  "level": 53,
+  "spec_actualize_limit_rate": 4.1392998695373535
+ },
+ "231928233985": {
+  "exp": 148877,
+  "exp_id": 1,
+  "growth_rate": 21.729999542236328,
+  "id": 54,
+  "level": 54,
+  "spec_actualize_limit_rate": 4.217400074005127
+ },
+ "236223201281": {
+  "exp": 157464,
+  "exp_id": 1,
+  "growth_rate": 22.139999389648438,
+  "id": 55,
+  "level": 55,
+  "spec_actualize_limit_rate": 4.295499801635742
+ },
+ "240518168577": {
+  "exp": 166375,
+  "exp_id": 1,
+  "growth_rate": 22.549999237060547,
+  "id": 56,
+  "level": 56,
+  "spec_actualize_limit_rate": 4.373600006103516
+ },
+ "244813135873": {
+  "exp": 175616,
+  "exp_id": 1,
+  "growth_rate": 22.959999084472656,
+  "id": 57,
+  "level": 57,
+  "spec_actualize_limit_rate": 4.451700210571289
+ },
+ "249108103169": {
+  "exp": 185193,
+  "exp_id": 1,
+  "growth_rate": 23.3700008392334,
+  "id": 58,
+  "level": 58,
+  "spec_actualize_limit_rate": 4.529799938201904
+ },
+ "253403070465": {
+  "exp": 195112,
+  "exp_id": 1,
+  "growth_rate": 23.780000686645508,
+  "id": 59,
+  "level": 59,
+  "spec_actualize_limit_rate": 4.607900142669678
+ },
+ "257698037761": {
+  "exp": 205379,
+  "exp_id": 1,
+  "growth_rate": 24.190000534057617,
+  "id": 60,
+  "level": 60,
+  "spec_actualize_limit_rate": 4.685999870300293
+ },
+ "261993005057": {
+  "exp": 216000,
+  "exp_id": 1,
+  "growth_rate": 24.600000381469727,
+  "id": 61,
+  "level": 61,
+  "spec_actualize_limit_rate": 4.764100074768066
+ },
+ "266287972353": {
+  "exp": 226981,
+  "exp_id": 1,
+  "growth_rate": 25.010000228881836,
+  "id": 62,
+  "level": 62,
+  "spec_actualize_limit_rate": 4.842199802398682
+ },
+ "270582939649": {
+  "exp": 238328,
+  "exp_id": 1,
+  "growth_rate": 25.420000076293945,
+  "id": 63,
+  "level": 63,
+  "spec_actualize_limit_rate": 4.920300006866455
+ },
+ "274877906945": {
+  "exp": 250047,
+  "exp_id": 1,
+  "growth_rate": 25.829999923706055,
+  "id": 64,
+  "level": 64,
+  "spec_actualize_limit_rate": 4.9984002113342285
+ },
+ "279172874241": {
+  "exp": 262144,
+  "exp_id": 1,
+  "growth_rate": 26.239999771118164,
+  "id": 65,
+  "level": 65,
+  "spec_actualize_limit_rate": 5.076499938964844
+ },
+ "283467841537": {
+  "exp": 274625,
+  "exp_id": 1,
+  "growth_rate": 26.649999618530273,
+  "id": 66,
+  "level": 66,
+  "spec_actualize_limit_rate": 5.154600143432617
+ },
+ "287762808833": {
+  "exp": 287496,
+  "exp_id": 1,
+  "growth_rate": 27.059999465942383,
+  "id": 67,
+  "level": 67,
+  "spec_actualize_limit_rate": 5.232699871063232
+ },
+ "292057776129": {
+  "exp": 300763,
+  "exp_id": 1,
+  "growth_rate": 27.469999313354492,
+  "id": 68,
+  "level": 68,
+  "spec_actualize_limit_rate": 5.310800075531006
+ },
+ "296352743425": {
+  "exp": 314432,
+  "exp_id": 1,
+  "growth_rate": 27.8799991607666,
+  "id": 69,
+  "level": 69,
+  "spec_actualize_limit_rate": 5.388899803161621
+ },
+ "300647710721": {
+  "exp": 328509,
+  "exp_id": 1,
+  "growth_rate": 28.290000915527344,
+  "id": 70,
+  "level": 70,
+  "spec_actualize_limit_rate": 5.4670000076293945
+ },
+ "304942678017": {
+  "exp": 343000,
+  "exp_id": 1,
+  "growth_rate": 28.700000762939453,
+  "id": 71,
+  "level": 71,
+  "spec_actualize_limit_rate": 5.545100212097168
+ },
+ "309237645313": {
+  "exp": 357911,
+  "exp_id": 1,
+  "growth_rate": 29.110000610351562,
+  "id": 72,
+  "level": 72,
+  "spec_actualize_limit_rate": 5.623199939727783
+ },
+ "313532612609": {
+  "exp": 373248,
+  "exp_id": 1,
+  "growth_rate": 29.520000457763672,
+  "id": 73,
+  "level": 73,
+  "spec_actualize_limit_rate": 5.701300144195557
+ },
+ "317827579905": {
+  "exp": 389017,
+  "exp_id": 1,
+  "growth_rate": 29.93000030517578,
+  "id": 74,
+  "level": 74,
+  "spec_actualize_limit_rate": 5.779399871826172
+ },
+ "322122547201": {
+  "exp": 405224,
+  "exp_id": 1,
+  "growth_rate": 30.34000015258789,
+  "id": 75,
+  "level": 75,
+  "spec_actualize_limit_rate": 5.857500076293945
+ },
+ "326417514497": {
+  "exp": 421875,
+  "exp_id": 1,
+  "growth_rate": 30.75,
+  "id": 76,
+  "level": 76,
+  "spec_actualize_limit_rate": 5.9355998039245605
+ },
+ "330712481793": {
+  "exp": 438976,
+  "exp_id": 1,
+  "growth_rate": 31.15999984741211,
+  "id": 77,
+  "level": 77,
+  "spec_actualize_limit_rate": 6.013700008392334
+ },
+ "335007449089": {
+  "exp": 456533,
+  "exp_id": 1,
+  "growth_rate": 31.56999969482422,
+  "id": 78,
+  "level": 78,
+  "spec_actualize_limit_rate": 6.091800212860107
+ },
+ "339302416385": {
+  "exp": 474552,
+  "exp_id": 1,
+  "growth_rate": 31.979999542236328,
+  "id": 79,
+  "level": 79,
+  "spec_actualize_limit_rate": 6.169899940490723
+ },
+ "343597383681": {
+  "exp": 493039,
+  "exp_id": 1,
+  "growth_rate": 32.38999938964844,
+  "id": 80,
+  "level": 80,
+  "spec_actualize_limit_rate": 6.248000144958496
+ },
+ "347892350977": {
+  "exp": 512000,
+  "exp_id": 1,
+  "growth_rate": 32.79999923706055,
+  "id": 81,
+  "level": 81,
+  "spec_actualize_limit_rate": 6.326099872589111
+ },
+ "352187318273": {
+  "exp": 531441,
+  "exp_id": 1,
+  "growth_rate": 33.209999084472656,
+  "id": 82,
+  "level": 82,
+  "spec_actualize_limit_rate": 6.404200077056885
+ },
+ "356482285569": {
+  "exp": 551368,
+  "exp_id": 1,
+  "growth_rate": 33.619998931884766,
+  "id": 83,
+  "level": 83,
+  "spec_actualize_limit_rate": 6.4822998046875
+ },
+ "360777252865": {
+  "exp": 571787,
+  "exp_id": 1,
+  "growth_rate": 34.029998779296875,
+  "id": 84,
+  "level": 84,
+  "spec_actualize_limit_rate": 6.560400009155273
+ },
+ "365072220161": {
+  "exp": 592704,
+  "exp_id": 1,
+  "growth_rate": 34.439998626708984,
+  "id": 85,
+  "level": 85,
+  "spec_actualize_limit_rate": 6.638500213623047
+ },
+ "369367187457": {
+  "exp": 614125,
+  "exp_id": 1,
+  "growth_rate": 34.849998474121094,
+  "id": 86,
+  "level": 86,
+  "spec_actualize_limit_rate": 6.716599941253662
+ },
+ "373662154753": {
+  "exp": 636056,
+  "exp_id": 1,
+  "growth_rate": 35.2599983215332,
+  "id": 87,
+  "level": 87,
+  "spec_actualize_limit_rate": 6.7947001457214355
+ },
+ "377957122049": {
+  "exp": 658503,
+  "exp_id": 1,
+  "growth_rate": 35.66999816894531,
+  "id": 88,
+  "level": 88,
+  "spec_actualize_limit_rate": 6.872799873352051
+ },
+ "382252089345": {
+  "exp": 681472,
+  "exp_id": 1,
+  "growth_rate": 36.08000183105469,
+  "id": 89,
+  "level": 89,
+  "spec_actualize_limit_rate": 6.950900077819824
+ },
+ "386547056641": {
+  "exp": 704969,
+  "exp_id": 1,
+  "growth_rate": 36.4900016784668,
+  "id": 90,
+  "level": 90,
+  "spec_actualize_limit_rate": 7.0289998054504395
+ },
+ "390842023937": {
+  "exp": 728969,
+  "exp_id": 1,
+  "growth_rate": 36.900001525878906,
+  "id": 91,
+  "level": 91,
+  "spec_actualize_limit_rate": 7.107100009918213
+ },
+ "395136991233": {
+  "exp": 754169,
+  "exp_id": 1,
+  "growth_rate": 37.310001373291016,
+  "id": 92,
+  "level": 92,
+  "spec_actualize_limit_rate": 7.185200214385986
+ },
+ "399431958529": {
+  "exp": 780569,
+  "exp_id": 1,
+  "growth_rate": 37.720001220703125,
+  "id": 93,
+  "level": 93,
+  "spec_actualize_limit_rate": 7.263299942016602
+ },
+ "403726925825": {
+  "exp": 809369,
+  "exp_id": 1,
+  "growth_rate": 38.130001068115234,
+  "id": 94,
+  "level": 94,
+  "spec_actualize_limit_rate": 7.341400146484375
+ },
+ "408021893121": {
+  "exp": 840569,
+  "exp_id": 1,
+  "growth_rate": 38.540000915527344,
+  "id": 95,
+  "level": 95,
+  "spec_actualize_limit_rate": 7.41949987411499
+ },
+ "412316860417": {
+  "exp": 876569,
+  "exp_id": 1,
+  "growth_rate": 38.95000076293945,
+  "id": 96,
+  "level": 96,
+  "spec_actualize_limit_rate": 7.497600078582764
+ },
+ "416611827713": {
+  "exp": 918569,
+  "exp_id": 1,
+  "growth_rate": 39.36000061035156,
+  "id": 97,
+  "level": 97,
+  "spec_actualize_limit_rate": 7.575699806213379
+ },
+ "420906795009": {
+  "exp": 966569,
+  "exp_id": 1,
+  "growth_rate": 39.77000045776367,
+  "id": 98,
+  "level": 98,
+  "spec_actualize_limit_rate": 7.653800010681152
+ },
+ "425201762305": {
+  "exp": 1038569,
+  "exp_id": 1,
+  "growth_rate": 40.18000030517578,
+  "id": 99,
+  "level": 99,
+  "spec_actualize_limit_rate": 7.731900215148926
+ },
+ "429496729601": {
+  "exp": 1196969,
+  "exp_id": 1,
+  "growth_rate": 40.59000015258789,
+  "id": 100,
+  "level": 100,
+  "spec_actualize_limit_rate": 7.809999942779541
+ }
+}

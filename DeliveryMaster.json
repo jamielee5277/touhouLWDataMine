@@ -1,0 +1,12 @@
+{
+ "1001": {
+  "banner_image": "shop_delivery_01.png",
+  "display_order": 1,
+  "end_at": "2025-05-20 10:00:00",
+  "id": 1001,
+  "name": "にとりの宅配便",
+  "price_id": 70,
+  "start_at": "2019-05-07 08:00:00",
+  "valid_days": 30
+ }
+}

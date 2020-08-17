@@ -1,0 +1,4175 @@
+[
+  {
+    "name": "西行寺幽々子",
+    "SpellCard1Damge": {
+      "P0": 562190.265,
+      "P1": 781950.2268,
+      "P2": 1029746.8990999999,
+      "P3": 1145918.1043999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 427351.17984000006,
+      "P1": 738142.8925200001,
+      "P2": 1099537.425,
+      "P3": 1317653.7528,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 1456632.4734,
+      "P1": 2232514.7059500003,
+      "P2": 3089235.37545,
+      "P3": 3297518.77545,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "綿月豊姫",
+    "SpellCard1Damge": {
+      "P0": 456270.36000000004,
+      "P1": 635812.8,
+      "P2": 784098.0000000001,
+      "P3": 846505.8000000002,
+      "buff": {
+        "yin_buff": 6,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 831653.2769999999,
+      "P1": 1158612.237,
+      "P2": 1428638.367,
+      "P3": 1542309.7170000002,
+      "buff": {
+        "yin_buff": 6,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 1461157.10325,
+      "P1": 2046169.7167500001,
+      "P2": 2541064.34925,
+      "P3": 2753193.49725,
+      "buff": {
+        "yin_buff": 6,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "八雲藍",
+    "SpellCard1Damge": {
+      "P0": 680066.4528,
+      "P1": 1088242.7346,
+      "P2": 1169902.7928000002,
+      "P3": 1224342.8316000002,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 9,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 483753.984,
+      "P1": 516794.88,
+      "P2": 734974.1056,
+      "P3": 986362.6751999999,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 9,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 1255068.864,
+      "P1": 2007986.6519999998,
+      "P2": 2158556.4839999997,
+      "P3": 2258959.2479999997,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 9,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "ルナチャイルド",
+    "SpellCard1Damge": {
+      "P0": 379688.4,
+      "P1": 573721.47,
+      "P2": 733859.2799999999,
+      "P3": 801342.3599999999,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 252830.96999999997,
+      "P1": 382147.92,
+      "P2": 492753.39119999995,
+      "P3": 541136.6351999999,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 963897.6,
+      "P1": 1487783.7312000003,
+      "P2": 1948863.8976000003,
+      "P3": 2143019.2128000003,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "レミリア・スカーレット",
+    "SpellCard1Damge": {
+      "P0": 346353.27999999997,
+      "P1": 485147.51999999996,
+      "P2": 511361.92,
+      "P3": 961235.52,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 2,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 543241.4208,
+      "P1": 576956.6207999999,
+      "P2": 830502.2975999999,
+      "P3": 1257607.5776,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 2,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 1020591.0000000002,
+      "P1": 1428548.5500000003,
+      "P2": 1904545.5000000005,
+      "P3": 3739936.2000000007,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 2,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "洩矢諏訪子",
+    "SpellCard1Damge": {
+      "P0": 332990.27999999997,
+      "P1": 409442.13,
+      "P2": 633752.748,
+      "P3": 1274980.53,
+      "buff": {
+        "yin_buff": 6,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 355351.44960000005,
+      "P1": 550723.0848000001,
+      "P2": 805227.4944,
+      "P3": 1720800.1439999999,
+      "buff": {
+        "yin_buff": 6,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 851292.2880000001,
+      "P1": 1319571.7920000004,
+      "P2": 1929822.0480000002,
+      "P3": 4125534.3360000006,
+      "buff": {
+        "yin_buff": 6,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "魂魄妖夢",
+    "SpellCard1Damge": {
+      "P0": 259194.808,
+      "P1": 475277.89119999995,
+      "P2": 679301.3592000001,
+      "P3": 806305.9312,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 6,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 254427.53279999996,
+      "P1": 369979.448,
+      "P2": 478686.876,
+      "P3": 537317.2896,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 6,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 840728.3976,
+      "P1": 1222209.54024,
+      "P2": 1581017.97828,
+      "P3": 1774435.3099200004,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 6,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "スターサファイア",
+    "SpellCard1Damge": {
+      "P0": 292996.87200000003,
+      "P1": 454278.2160000001,
+      "P2": 615626.396,
+      "P3": 703787.9408,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 79948.00799999999,
+      "P1": 159871.36479999998,
+      "P2": 241251.052,
+      "P3": 307523.37279999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 750426.5915999999,
+      "P1": 1163257.9224,
+      "P2": 1576496.5929999999,
+      "P3": 1802277.8787999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "フランドール・スカーレット",
+    "SpellCard1Damge": {
+      "P0": 369355.896,
+      "P1": 492859.98,
+      "P2": 835461.3792000001,
+      "P3": 1474338.84312,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 3,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 165398.382,
+      "P1": 240529.96860000002,
+      "P2": 418132.8084,
+      "P3": 697552.23156,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 3,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 654136.5599999999,
+      "P1": 1144016.28,
+      "P2": 2813706.38208,
+      "P3": 4322809.809119999,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 3,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "藤原妹紅",
+    "SpellCard1Damge": {
+      "P0": 429144.09472,
+      "P1": 602422.6508800001,
+      "P2": 963918.4582400002,
+      "P3": 1365064.1126400002,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 2,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 316515.86176000006,
+      "P1": 425087.40992000006,
+      "P2": 669308.6131200001,
+      "P3": 949677.1456000002,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 2,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 798693.376,
+      "P1": 1072699.264,
+      "P2": 1689027.2256,
+      "P3": 2396690.4832,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 2,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "綿月依姫",
+    "SpellCard1Damge": {
+      "P0": 347934.08,
+      "P1": 506037.71392,
+      "P2": 698222.0339200001,
+      "P3": 1429626.1632,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 4,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 194256.0,
+      "P1": 269050.24,
+      "P2": 371109.45279999997,
+      "P3": 760439.296,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 4,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 688846.9770000001,
+      "P1": 964506.4065,
+      "P2": 1295613.2865,
+      "P3": 2609132.7716999995,
+      "buff": {
+        "yin_buff": 5,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 4,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "霧雨魔理沙",
+    "SpellCard1Damge": {
+      "P0": 183719.1168,
+      "P1": 340269.3888,
+      "P2": 459157.43999999994,
+      "P3": 676628.7359999999,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 89825.28,
+      "P1": 143769.6,
+      "P2": 170741.76,
+      "P3": 224686.08000000002,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 424616.4,
+      "P1": 911195.8344000002,
+      "P2": 1016931.5100000001,
+      "P3": 1174029.2064,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "本居小鈴",
+    "SpellCard1Damge": {
+      "P0": 172700.46719999998,
+      "P1": 231840.0512,
+      "P2": 280471.59138461534,
+      "P3": 291761.1913846153,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": -1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 348048.5888,
+      "P1": 460416.5356307693,
+      "P2": 552750.0800000001,
+      "P3": 570890.633846154,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": -1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 529499.904,
+      "P1": 824611.6735999999,
+      "P2": 1068430.1312,
+      "P3": 1171080.4736,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": -1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "鈴仙・優曇華院・イナバ",
+    "SpellCard1Damge": {
+      "P0": 146910.24000000002,
+      "P1": 301398.7524,
+      "P2": 319022.6244,
+      "P3": 344052.2972,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 222469.63199999998,
+      "P1": 258299.49599999998,
+      "P2": 382747.26420000003,
+      "P3": 525872.025,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 373213.00800000003,
+      "P1": 765667.8414,
+      "P2": 810451.7694,
+      "P3": 840307.7214,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "鈴瑚",
+    "SpellCard1Damge": {
+      "P0": 253214.8696,
+      "P1": 408464.87840000005,
+      "P2": 496455.0800000001,
+      "P3": 560558.7648,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 1,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 168825.30560000002,
+      "P1": 272301.32159999997,
+      "P2": 330961.456,
+      "P3": 373692.9472,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 1,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 548588.5650000001,
+      "P1": 764241.0930000001,
+      "P2": 807366.3570000001,
+      "P3": 851251.8420000001,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 1,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "清蘭",
+    "SpellCard1Damge": {
+      "P0": 100711.18800000001,
+      "P1": 157857.084,
+      "P2": 169955.64,
+      "P3": 177354.72,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 150977.31600000002,
+      "P1": 236700.252,
+      "P2": 253345.02000000002,
+      "P3": 265429.81200000003,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 383580.036,
+      "P1": 613747.638,
+      "P2": 659789.55,
+      "P3": 690474.834,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "パチュリー・ノーレッジ",
+    "SpellCard1Damge": {
+      "P0": 400488.97199999995,
+      "P1": 527215.916,
+      "P2": 575287.733,
+      "P3": 607335.611,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 400452.4709999999,
+      "P1": 527168.7899999999,
+      "P2": 575240.607,
+      "P3": 607288.485,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 197386.575,
+      "P1": 604283.370552,
+      "P2": 685647.895656,
+      "P3": 739903.274064,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "紅美鈴",
+    "SpellCard1Damge": {
+      "P0": 293237.412,
+      "P1": 443061.54720000003,
+      "P2": 506067.64420000004,
+      "P3": 558155.8687,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 149210.649,
+      "P1": 237810.1162,
+      "P2": 371711.3089,
+      "P3": 402514.0159,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 280785.141,
+      "P1": 568176.3462,
+      "P2": 634289.3751000001,
+      "P3": 656763.2391000001,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "八坂神奈子",
+    "SpellCard1Damge": {
+      "P0": 84218.94000000002,
+      "P1": 123823.54800000002,
+      "P2": 156818.08800000002,
+      "P3": 171804.852,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 84218.94000000002,
+      "P1": 123823.54800000002,
+      "P2": 156818.08800000002,
+      "P3": 171804.852,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 323569.58400000003,
+      "P1": 488994.831,
+      "P2": 625638.1950000001,
+      "P3": 683172.243,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "アリス・マーガトロイド",
+    "SpellCard1Damge": {
+      "P0": 173037.77279999998,
+      "P1": 277176.23808,
+      "P2": 410666.31168,
+      "P3": 833955.18464,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 320230.1952,
+      "P1": 418428.22080000007,
+      "P2": 681019.5168000001,
+      "P3": 1016122.2451200002,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 341452.8,
+      "P1": 476615.568,
+      "P2": 792211.108,
+      "P3": 1190150.6239999998,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "茨木華扇",
+    "SpellCard1Damge": {
+      "P0": 238134.144,
+      "P1": 278261.064,
+      "P2": 413541.45765,
+      "P3": 569093.2992,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 162933.88800000004,
+      "P1": 227136.96000000002,
+      "P2": 362572.00155,
+      "P3": 518003.9424,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 364837.2,
+      "P1": 454693.2,
+      "P2": 695036.16,
+      "P3": 971202.96,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "橙",
+    "SpellCard1Damge": {
+      "P0": 167335.19999999998,
+      "P1": 224693.98799999998,
+      "P2": 353789.996,
+      "P3": 502005.6,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 1,
+        "speed_boost": 1
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 167335.19999999998,
+      "P1": 208708.75199999998,
+      "P2": 319151.0,
+      "P3": 446044.32,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 1,
+        "speed_boost": 1
+      }
+    },
+    "LastWordDamage": {
+      "P0": 285480.0,
+      "P1": 427635.15599999996,
+      "P2": 810117.048,
+      "P3": 1339416.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 1,
+        "speed_boost": 1
+      }
+    }
+  },
+  {
+    "name": "稗田阿求",
+    "SpellCard1Damge": {
+      "P0": 83559.357,
+      "P1": 116780.9454,
+      "P2": 203169.67020000002,
+      "P3": 320279.6898,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 125314.56000000001,
+      "P1": 175146.9426,
+      "P2": 304713.7128,
+      "P3": 480395.0592,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 318143.16799999995,
+      "P1": 427246.39999999997,
+      "P2": 672753.536,
+      "P3": 954644.992,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 1,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "サニーミルク",
+    "SpellCard1Damge": {
+      "P0": 123830.784,
+      "P1": 166311.936,
+      "P2": 261854.20799999998,
+      "P3": 371556.864,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 82543.10399999999,
+      "P1": 110863.87199999999,
+      "P2": 174569.47199999998,
+      "P3": 247693.82399999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 316816.164,
+      "P1": 425458.65599999996,
+      "P2": 669945.5279999999,
+      "P3": 950630.058,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "リリーホワイト",
+    "SpellCard1Damge": {
+      "P0": 156432.2,
+      "P1": 250320.04,
+      "P2": 269100.46,
+      "P3": 281620.74000000005,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 104311.9,
+      "P1": 166884.78,
+      "P2": 179405.06,
+      "P3": 187747.16,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 265036.59,
+      "P1": 424035.36,
+      "P2": 455826.42,
+      "P3": 477025.29,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "聖白蓮",
+    "SpellCard1Damge": {
+      "P0": 142248.96000000002,
+      "P1": 230022.828,
+      "P2": 423519.516,
+      "P3": 688020.4800000001,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 1
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 62180.99999999999,
+      "P1": 87072.29999999999,
+      "P2": 116102.69999999998,
+      "P3": 228066.3,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 1
+      }
+    },
+    "LastWordDamage": {
+      "P0": 273634.176,
+      "P1": 421290.24,
+      "P2": 742400.64,
+      "P3": 1164998.528,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 1
+      }
+    }
+  },
+  {
+    "name": "秋穣子",
+    "SpellCard1Damge": {
+      "P0": 90675.00000000001,
+      "P1": 141815.7,
+      "P2": 192956.40000000002,
+      "P3": 220158.90000000002,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 90643.99999999999,
+      "P1": 141798.34,
+      "P2": 192968.18,
+      "P3": 220186.18,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 230343.75,
+      "P1": 421177.05000000005,
+      "P2": 515210.85000000003,
+      "P3": 614222.91,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "蓬莱山輝夜",
+    "SpellCard1Damge": {
+      "P0": 176748.13439999998,
+      "P1": 246336.30719999998,
+      "P2": 328754.3808,
+      "P3": 643386.9824,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 176506.67519999997,
+      "P1": 263795.328,
+      "P2": 366857.24159999995,
+      "P3": 761108.4032000001,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 299074.048,
+      "P1": 416839.696,
+      "P2": 556376.704,
+      "P3": 1088939.488,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": 2,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "メディスン・メランコリー",
+    "SpellCard1Damge": {
+      "P0": 97905.77999999998,
+      "P1": 143717.868,
+      "P2": 181560.96,
+      "P3": 196155.53999999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 146747.16,
+      "P1": 215495.028,
+      "P2": 272212.41599999997,
+      "P3": 294116.75999999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 248551.424,
+      "P1": 364934.656,
+      "P2": 460970.75200000004,
+      "P3": 498036.352,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "十六夜咲夜",
+    "SpellCard1Damge": {
+      "P0": 165756.36479999998,
+      "P1": 203506.89279999997,
+      "P2": 321158.3488,
+      "P3": 782206.1952,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 1
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 62958.336,
+      "P1": 124300.1472,
+      "P2": 186404.7232,
+      "P3": 471036.4544,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 1
+      }
+    },
+    "LastWordDamage": {
+      "P0": 280659.0605,
+      "P1": 344570.0505,
+      "P2": 487278.8505,
+      "P3": 1340368.6724999999,
+      "buff": {
+        "yin_buff": 3,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 1
+      }
+    }
+  },
+  {
+    "name": "河城にとり",
+    "SpellCard1Damge": {
+      "P0": 151224.19199999998,
+      "P1": 188366.976,
+      "P2": 258968.90879999998,
+      "P3": 461262.4128,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 92856.95999999999,
+      "P1": 153392.6016,
+      "P2": 196744.6656,
+      "P3": 434002.06080000004,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 258355.008,
+      "P1": 321767.28,
+      "P2": 442262.36160000006,
+      "P3": 787327.6608000002,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 3,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "チルノ",
+    "SpellCard1Damge": {
+      "P0": 114989.056,
+      "P1": 182576.7424,
+      "P2": 238449.8688,
+      "P3": 264759.7056,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": -1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 1
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 221836.49279999998,
+      "P1": 335174.8608,
+      "P2": 428864.7168,
+      "P3": 468305.51039999997,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": -1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 1
+      }
+    },
+    "LastWordDamage": {
+      "P0": 174201.7846153846,
+      "P1": 317710.6481230769,
+      "P2": 436641.0578461538,
+      "P3": 503883.6722461538,
+      "buff": {
+        "yin_buff": 2,
+        "yang_buff": -1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 1
+      }
+    }
+  },
+  {
+    "name": "因幡てゐ",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "宇佐見菫子",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "射命丸文",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "姫海棠はたて",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "犬走椛",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "坂田ネムノ",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "伊吹萃香",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "星熊勇儀",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "古明地さとり",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "古明地こいし",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "火焔猫燐",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "霊烏路空",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "小野塚小町",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "四季映姫・ヤマザナドゥ",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "ヘカーティア・ラピスラズリ",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "純狐",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "クラウンピース",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "秋静葉",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "摩多羅隠岐奈",
+    "SpellCard1Damge": {
+      "P0": 127521.59999999999,
+      "P1": 199528.4,
+      "P2": 213143.6,
+      "P3": 222220.4,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 77792.4,
+      "P1": 107074.79999999999,
+      "P2": 139318.19999999998,
+      "P3": 263718.0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 175564.8,
+      "P1": 274636.8,
+      "P2": 321420.8,
+      "P3": 414988.8,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "博麗霊夢",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": " ",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "メルラン・プリズムリバー",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "リリカ・プリズムリバー",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "依神女苑",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "依神紫苑",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "九十九弁々",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "九十九八橋",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "上白沢慧音",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "ルーミア",
+    "SpellCard1Damge": {
+      "P0": 118595.08799999999,
+      "P1": 183761.86199999996,
+      "P2": 195402.85799999995,
+      "P3": 203844.28199999995,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 66512.50200000001,
+      "P1": 91548.954,
+      "P2": 121535.31599999999,
+      "P3": 231008.08499999996,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 163275.264,
+      "P1": 255412.22400000002,
+      "P2": 295412.544,
+      "P3": 378921.984,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "東風谷早苗",
+    "SpellCard1Damge": {
+      "P0": 72500.40000000001,
+      "P1": 99788.97600000001,
+      "P2": 133657.776,
+      "P3": 259069.10400000002,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 45480.96000000001,
+      "P1": 64834.560000000005,
+      "P2": 86059.008,
+      "P3": 171408.38400000002,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 174150.0,
+      "P1": 237011.184,
+      "P2": 312011.784,
+      "P3": 574829.676,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "八意永琳",
+    "SpellCard1Damge": {
+      "P0": 48898.08,
+      "P1": 69383.16,
+      "P2": 92191.68,
+      "P3": 183018.78,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 76839.84,
+      "P1": 106183.98,
+      "P2": 142053.65999999997,
+      "P3": 276184.43999999994,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 125155.8,
+      "P1": 177602.04,
+      "P2": 238789.32,
+      "P3": 470824.2,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "八雲紫",
+    "SpellCard1Damge": {
+      "P0": 65345.616,
+      "P1": 92578.24799999999,
+      "P2": 119673.288,
+      "P3": 231667.12800000003,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 48184.416,
+      "P1": 66335.598,
+      "P2": 86338.224,
+      "P3": 163466.09999999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 123305.16600000001,
+      "P1": 169769.54700000002,
+      "P2": 220948.749,
+      "P3": 418395.375,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "霧雨魔理沙",
+    "SpellCard1Damge": {
+      "P0": 20259.45,
+      "P1": 26900.37,
+      "P2": 40932.99,
+      "P3": 54686.97,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 20278.800000000003,
+      "P1": 26919.72,
+      "P2": 40952.340000000004,
+      "P3": 54714.060000000005,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 3978.0,
+      "P1": 59974.2,
+      "P2": 81361.8,
+      "P3": 102749.40000000001,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "黒い妖夢　ボス",
+    "SpellCard1Damge": {
+      "P0": 38256.479999999996,
+      "P1": 59858.51999999999,
+      "P2": 63943.07999999999,
+      "P3": 66666.11999999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 38256.479999999996,
+      "P1": 59858.51999999999,
+      "P2": 63943.07999999999,
+      "P3": 66666.11999999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 38256.479999999996,
+      "P1": 59858.51999999999,
+      "P2": 63943.07999999999,
+      "P3": 66666.11999999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "緋蒼の永琳　ボス",
+    "SpellCard1Damge": {
+      "P0": 38256.479999999996,
+      "P1": 59858.51999999999,
+      "P2": 63943.07999999999,
+      "P3": 66666.11999999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 38256.479999999996,
+      "P1": 59858.51999999999,
+      "P2": 63943.07999999999,
+      "P3": 66666.11999999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 38256.479999999996,
+      "P1": 59858.51999999999,
+      "P2": 63943.07999999999,
+      "P3": 66666.11999999998,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 0,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 0,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "レイセン",
+    "SpellCard1Damge": {
+      "P0": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 1
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 138333.47999999998,
+      "P1": 213040.46799999996,
+      "P2": 229647.11499999996,
+      "P3": 239055.17339999997,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 1
+      }
+    },
+    "LastWordDamage": {
+      "P0": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 0,
+        "speed_buff": 3,
+        "speed_boost": 1
+      }
+    }
+  },
+  {
+    "name": "大妖精",
+    "SpellCard1Damge": {
+      "P0": 86263.63200000001,
+      "P1": 137355.87600000002,
+      "P2": 216097.81200000003,
+      "P3": 426445.48800000007,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    },
+    "SpellCard2Damge": {
+      "P0": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    },
+    "LastWordDamage": {
+      "P0": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "buff": {
+        "yin_buff": 0,
+        "yang_buff": 1,
+        "yin_debuff": 0,
+        "yang_debuff": 0,
+        "yin_boost": 0,
+        "yang_boost": 1,
+        "speed_buff": 3,
+        "speed_boost": 0
+      }
+    }
+  },
+  {
+    "name": "小悪魔",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(日）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(月）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(火）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(水）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(木）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(金）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(土）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(星）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "妖精(無）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(日）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(月）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(火）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(水）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(木）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(金）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(土）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(星）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "小々悪魔(無）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(日）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(月）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(火）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(水）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(木）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(金）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(土）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(星）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "メイド妖精(無）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(日）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(月）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(火）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(水）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(木）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(金）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(土）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(星）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "幽霊(無）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(日）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(月）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(火）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(水）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(木）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(金）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(土）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(星）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "精霊(無）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(日）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(月）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(火）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(水）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(木）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(金）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(土）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(星）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "中妖精(無）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（日）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（月）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（火）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（水）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（木）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（金）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（土）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（星）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵A（無）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（日）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（月）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（火）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（水）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（木）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（金）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（土）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（星）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵B（無）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（日）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（月）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（火）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（水）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（木）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（金）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（土）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（星）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎一般兵C（無）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（日）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（月）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（火）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（水）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（木）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（金）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（土）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（星）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "玉兎士官兵（無）中",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(日）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(月）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(火）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(水）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(木）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(金）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(土）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(星）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "河童(無）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(日）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(月）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(火）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(水）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(木）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(金）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(土）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(星）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  },
+  {
+    "name": "鴉天狗(無）小",
+    "SpellCard1Damge": "Missing",
+    "SpellCard2Damge": "Missing",
+    "LastWordDamage": "Missing"
+  }
+]

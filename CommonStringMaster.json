@@ -1,0 +1,1388 @@
+{
+ "ALBUM_GRAND_STORIES_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "物語",
+  "text_key": "ALBUM_GRAND_STORIES_TITLE"
+ },
+ "ALBUM_PICTURE_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "図録",
+  "text_key": "ALBUM_PICTURE_TITLE"
+ },
+ "ALBUM_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "図鑑",
+  "text_key": "ALBUM_TITLE"
+ },
+ "ALBUM_UNIT_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "名簿",
+  "text_key": "ALBUM_UNIT_TITLE"
+ },
+ "BAN_DIALOG_TEXT": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "不正行為を確認したため\\n\\nこのアカウントは停止されています。\\n\\nID：{}",
+  "text_key": "BAN_DIALOG_TEXT"
+ },
+ "BARRIER_NAME_EMPTY": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "正常",
+  "text_key": "BARRIER_NAME_EMPTY"
+ },
+ "BARRIER_NAME_NONE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "なし",
+  "text_key": "BARRIER_NAME_NONE"
+ },
+ "BARRIER_NAME_TYPE1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "燃焼",
+  "text_key": "BARRIER_NAME_TYPE1"
+ },
+ "BARRIER_NAME_TYPE2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "凍結",
+  "text_key": "BARRIER_NAME_TYPE2"
+ },
+ "BARRIER_NAME_TYPE3": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "帯電",
+  "text_key": "BARRIER_NAME_TYPE3"
+ },
+ "BARRIER_NAME_TYPE4": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "毒霧",
+  "text_key": "BARRIER_NAME_TYPE4"
+ },
+ "BARRIER_NAME_TYPE5": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "暗闇",
+  "text_key": "BARRIER_NAME_TYPE5"
+ },
+ "BARRIER_TEXT_EMPTY": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "異常なし。",
+  "text_key": "BARRIER_TEXT_EMPTY"
+ },
+ "BARRIER_TEXT_NONE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "結界はありません。",
+  "text_key": "BARRIER_TEXT_NONE"
+ },
+ "BARRIER_TEXT_TYPE1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰気が低下。ターン経過でダメージ。",
+  "text_key": "BARRIER_TEXT_TYPE1"
+ },
+ "BARRIER_TEXT_TYPE2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "速力が低下。確率でディレイ発生。",
+  "text_key": "BARRIER_TEXT_TYPE2"
+ },
+ "BARRIER_TEXT_TYPE3": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "回避が低下。確率でスタン発生。",
+  "text_key": "BARRIER_TEXT_TYPE3"
+ },
+ "BARRIER_TEXT_TYPE4": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽気が低下。ターン経過でダメージ。",
+  "text_key": "BARRIER_TEXT_TYPE4"
+ },
+ "BARRIER_TEXT_TYPE5": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "命中が低下。",
+  "text_key": "BARRIER_TEXT_TYPE5"
+ },
+ "BATTLE_CHALLENGE_TEXT_1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "ステージをクリア",
+  "text_key": "BATTLE_CHALLENGE_TEXT_1"
+ },
+ "BATTLE_CHALLENGE_TEXT_2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "倒れた仲間が{0}人以内でクリア",
+  "text_key": "BATTLE_CHALLENGE_TEXT_2"
+ },
+ "BATTLE_CHALLENGE_TEXT_2_0": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "1人も倒れずにクリア",
+  "text_key": "BATTLE_CHALLENGE_TEXT_2_0"
+ },
+ "BUFF_NAME_1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽攻UP",
+  "text_key": "BUFF_NAME_1"
+ },
+ "BUFF_NAME_10": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI命中UP",
+  "text_key": "BUFF_NAME_10"
+ },
+ "BUFF_NAME_11": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI回避UP",
+  "text_key": "BUFF_NAME_11"
+ },
+ "BUFF_NAME_12": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "注目UP",
+  "text_key": "BUFF_NAME_12"
+ },
+ "BUFF_NAME_2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽防UP",
+  "text_key": "BUFF_NAME_2"
+ },
+ "BUFF_NAME_3": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰攻UP",
+  "text_key": "BUFF_NAME_3"
+ },
+ "BUFF_NAME_4": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰防UP",
+  "text_key": "BUFF_NAME_4"
+ },
+ "BUFF_NAME_5": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "速力UP",
+  "text_key": "BUFF_NAME_5"
+ },
+ "BUFF_NAME_6": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "命中UP",
+  "text_key": "BUFF_NAME_6"
+ },
+ "BUFF_NAME_7": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "回避UP",
+  "text_key": "BUFF_NAME_7"
+ },
+ "BUFF_NAME_8": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI攻撃UP",
+  "text_key": "BUFF_NAME_8"
+ },
+ "BUFF_NAME_9": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI防御UP",
+  "text_key": "BUFF_NAME_9"
+ },
+ "BULLET_TYPE_NAME_0": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "なし",
+  "text_key": "BULLET_TYPE_NAME_0"
+ },
+ "BULLET_TYPE_NAME_1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "通常弾",
+  "text_key": "BULLET_TYPE_NAME_1"
+ },
+ "BULLET_TYPE_NAME_10": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "尖弾",
+  "text_key": "BULLET_TYPE_NAME_10"
+ },
+ "BULLET_TYPE_NAME_11": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "ミサイル弾",
+  "text_key": "BULLET_TYPE_NAME_11"
+ },
+ "BULLET_TYPE_NAME_2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "レーザー弾",
+  "text_key": "BULLET_TYPE_NAME_2"
+ },
+ "BULLET_TYPE_NAME_3": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "肉弾",
+  "text_key": "BULLET_TYPE_NAME_3"
+ },
+ "BULLET_TYPE_NAME_4": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "斬撃弾",
+  "text_key": "BULLET_TYPE_NAME_4"
+ },
+ "BULLET_TYPE_NAME_5": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "質量弾",
+  "text_key": "BULLET_TYPE_NAME_5"
+ },
+ "BULLET_TYPE_NAME_6": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "流体弾",
+  "text_key": "BULLET_TYPE_NAME_6"
+ },
+ "BULLET_TYPE_NAME_7": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "エネルギー弾",
+  "text_key": "BULLET_TYPE_NAME_7"
+ },
+ "BULLET_TYPE_NAME_8": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "御札弾",
+  "text_key": "BULLET_TYPE_NAME_8"
+ },
+ "BULLET_TYPE_NAME_9": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "光弾",
+  "text_key": "BULLET_TYPE_NAME_9"
+ },
+ "COMMON_MAIL_SENDER": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "東方LostWord",
+  "text_key": "COMMON_MAIL_SENDER"
+ },
+ "CONDITION_NAME_ATTRACT_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "注目ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_ATTRACT_DOWN"
+ },
+ "CONDITION_NAME_ATTRACT_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "注目アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_ATTRACT_UP"
+ },
+ "CONDITION_NAME_CRI_ATK_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI攻撃ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_CRI_ATK_DOWN"
+ },
+ "CONDITION_NAME_CRI_ATK_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI攻撃アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_CRI_ATK_UP"
+ },
+ "CONDITION_NAME_CRI_DEF_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI防御ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_CRI_DEF_DOWN"
+ },
+ "CONDITION_NAME_CRI_DEF_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI防御アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_CRI_DEF_UP"
+ },
+ "CONDITION_NAME_CRI_DODGE_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI回避ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_CRI_DODGE_DOWN"
+ },
+ "CONDITION_NAME_CRI_DODGE_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI回避アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_CRI_DODGE_UP"
+ },
+ "CONDITION_NAME_CRI_HIT_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI命中ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_CRI_HIT_DOWN"
+ },
+ "CONDITION_NAME_CRI_HIT_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRI命中アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_CRI_HIT_UP"
+ },
+ "CONDITION_NAME_DODGE_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "回避ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_DODGE_DOWN"
+ },
+ "CONDITION_NAME_DODGE_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "回避アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_DODGE_UP"
+ },
+ "CONDITION_NAME_HIT_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "命中ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_HIT_DOWN"
+ },
+ "CONDITION_NAME_HIT_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "命中アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_HIT_UP"
+ },
+ "CONDITION_NAME_RESIST_BULLET": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "弾種特防：{0}",
+  "text_key": "CONDITION_NAME_RESIST_BULLET"
+ },
+ "CONDITION_NAME_RESIST_TRIBE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "種族特防：{0}",
+  "text_key": "CONDITION_NAME_RESIST_TRIBE"
+ },
+ "CONDITION_NAME_RESIST_TYPE1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性特防：日属性",
+  "text_key": "CONDITION_NAME_RESIST_TYPE1"
+ },
+ "CONDITION_NAME_RESIST_TYPE2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性特防：月属性",
+  "text_key": "CONDITION_NAME_RESIST_TYPE2"
+ },
+ "CONDITION_NAME_RESIST_TYPE3": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性特防：火属性",
+  "text_key": "CONDITION_NAME_RESIST_TYPE3"
+ },
+ "CONDITION_NAME_RESIST_TYPE4": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性特防：水属性",
+  "text_key": "CONDITION_NAME_RESIST_TYPE4"
+ },
+ "CONDITION_NAME_RESIST_TYPE5": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性特防：木属性",
+  "text_key": "CONDITION_NAME_RESIST_TYPE5"
+ },
+ "CONDITION_NAME_RESIST_TYPE6": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性特防：金属性",
+  "text_key": "CONDITION_NAME_RESIST_TYPE6"
+ },
+ "CONDITION_NAME_RESIST_TYPE7": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性特防：土属性",
+  "text_key": "CONDITION_NAME_RESIST_TYPE7"
+ },
+ "CONDITION_NAME_RESIST_TYPE8": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性特防：星属性",
+  "text_key": "CONDITION_NAME_RESIST_TYPE8"
+ },
+ "CONDITION_NAME_SPEED_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "速力ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_SPEED_DOWN"
+ },
+ "CONDITION_NAME_SPEED_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "速力アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_SPEED_UP"
+ },
+ "CONDITION_NAME_YANG_ATK_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽攻ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_YANG_ATK_DOWN"
+ },
+ "CONDITION_NAME_YANG_ATK_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽攻アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_YANG_ATK_UP"
+ },
+ "CONDITION_NAME_YANG_DEF_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽防ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_YANG_DEF_DOWN"
+ },
+ "CONDITION_NAME_YANG_DEF_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽防アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_YANG_DEF_UP"
+ },
+ "CONDITION_NAME_YIN_ATK_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰攻ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_YIN_ATK_DOWN"
+ },
+ "CONDITION_NAME_YIN_ATK_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰攻アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_YIN_ATK_UP"
+ },
+ "CONDITION_NAME_YIN_DEF_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰防ダウン「Rank {0}」",
+  "text_key": "CONDITION_NAME_YIN_DEF_DOWN"
+ },
+ "CONDITION_NAME_YIN_DEF_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰防アップ「Rank {0}」",
+  "text_key": "CONDITION_NAME_YIN_DEF_UP"
+ },
+ "CONDITION_TEXT_ATTRACT_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "普段より攻撃されにくい。",
+  "text_key": "CONDITION_TEXT_ATTRACT_DOWN"
+ },
+ "CONDITION_TEXT_ATTRACT_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "普段より攻撃されやすい。",
+  "text_key": "CONDITION_TEXT_ATTRACT_UP"
+ },
+ "CONDITION_TEXT_CRI_ATK_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRIダメージを普段より少なく与える。",
+  "text_key": "CONDITION_TEXT_CRI_ATK_DOWN"
+ },
+ "CONDITION_TEXT_CRI_ATK_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRIダメージを普段より多く与える。",
+  "text_key": "CONDITION_TEXT_CRI_ATK_UP"
+ },
+ "CONDITION_TEXT_CRI_DEF_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRIダメージを普段より多く受ける。",
+  "text_key": "CONDITION_TEXT_CRI_DEF_DOWN"
+ },
+ "CONDITION_TEXT_CRI_DEF_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "CRIダメージを普段より少なく受ける。",
+  "text_key": "CONDITION_TEXT_CRI_DEF_UP"
+ },
+ "CONDITION_TEXT_CRI_DODGE_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "被攻撃時CRIが普段より発生しやすい。",
+  "text_key": "CONDITION_TEXT_CRI_DODGE_DOWN"
+ },
+ "CONDITION_TEXT_CRI_DODGE_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "被攻撃時CRIが普段より発生しにくい。",
+  "text_key": "CONDITION_TEXT_CRI_DODGE_UP"
+ },
+ "CONDITION_TEXT_CRI_HIT_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "攻撃時CRIが普段より発生しにくい。",
+  "text_key": "CONDITION_TEXT_CRI_HIT_DOWN"
+ },
+ "CONDITION_TEXT_CRI_HIT_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "攻撃時CRIが普段より発生しやすい。",
+  "text_key": "CONDITION_TEXT_CRI_HIT_UP"
+ },
+ "CONDITION_TEXT_DODGE_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "普段より弾を回避しにくい。",
+  "text_key": "CONDITION_TEXT_DODGE_DOWN"
+ },
+ "CONDITION_TEXT_DODGE_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "普段より弾を回避しやすい。",
+  "text_key": "CONDITION_TEXT_DODGE_UP"
+ },
+ "CONDITION_TEXT_HIT_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "普段より弾を命中させにくい。",
+  "text_key": "CONDITION_TEXT_HIT_DOWN"
+ },
+ "CONDITION_TEXT_HIT_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "普段より弾を命中させやすい。",
+  "text_key": "CONDITION_TEXT_HIT_UP"
+ },
+ "CONDITION_TEXT_RESIST_BULLET": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "{0}ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_BULLET"
+ },
+ "CONDITION_TEXT_RESIST_TRIBE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "「{0}」からのダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TRIBE"
+ },
+ "CONDITION_TEXT_RESIST_TYPE1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "日属性ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TYPE1"
+ },
+ "CONDITION_TEXT_RESIST_TYPE2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "月属性ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TYPE2"
+ },
+ "CONDITION_TEXT_RESIST_TYPE3": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "火属性ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TYPE3"
+ },
+ "CONDITION_TEXT_RESIST_TYPE4": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "水属性ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TYPE4"
+ },
+ "CONDITION_TEXT_RESIST_TYPE5": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "木属性ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TYPE5"
+ },
+ "CONDITION_TEXT_RESIST_TYPE6": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "金属性ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TYPE6"
+ },
+ "CONDITION_TEXT_RESIST_TYPE7": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "土属性ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TYPE7"
+ },
+ "CONDITION_TEXT_RESIST_TYPE8": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "星属性ダメージを軽減。",
+  "text_key": "CONDITION_TEXT_RESIST_TYPE8"
+ },
+ "CONDITION_TEXT_SPEED_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "普段より行動が遅い。",
+  "text_key": "CONDITION_TEXT_SPEED_DOWN"
+ },
+ "CONDITION_TEXT_SPEED_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "普段より行動が速い。",
+  "text_key": "CONDITION_TEXT_SPEED_UP"
+ },
+ "CONDITION_TEXT_YANG_ATK_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽気攻撃力が普段より下がっている。",
+  "text_key": "CONDITION_TEXT_YANG_ATK_DOWN"
+ },
+ "CONDITION_TEXT_YANG_ATK_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽気攻撃力が普段より上がっている。",
+  "text_key": "CONDITION_TEXT_YANG_ATK_UP"
+ },
+ "CONDITION_TEXT_YANG_DEF_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽気防御力が普段より下がっている。",
+  "text_key": "CONDITION_TEXT_YANG_DEF_DOWN"
+ },
+ "CONDITION_TEXT_YANG_DEF_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陽気防御力が普段より上がっている。",
+  "text_key": "CONDITION_TEXT_YANG_DEF_UP"
+ },
+ "CONDITION_TEXT_YIN_ATK_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰気攻撃力が普段より下がっている。",
+  "text_key": "CONDITION_TEXT_YIN_ATK_DOWN"
+ },
+ "CONDITION_TEXT_YIN_ATK_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰気攻撃力が普段より上がっている。",
+  "text_key": "CONDITION_TEXT_YIN_ATK_UP"
+ },
+ "CONDITION_TEXT_YIN_DEF_DOWN": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰気防御力が普段より下がっている。",
+  "text_key": "CONDITION_TEXT_YIN_DEF_DOWN"
+ },
+ "CONDITION_TEXT_YIN_DEF_UP": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "陰気防御力が普段より上がっている。",
+  "text_key": "CONDITION_TEXT_YIN_DEF_UP"
+ },
+ "DELIVERY_MAIL_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "「{name}」{day}日目です。",
+  "text_key": "DELIVERY_MAIL_MESSAGE"
+ },
+ "DELIVERY_MAIL_SUBJECT": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "にとりの宅配便",
+  "text_key": "DELIVERY_MAIL_SUBJECT"
+ },
+ "ELEMENT_1_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "月属性",
+  "text_key": "ELEMENT_1_NAME"
+ },
+ "ELEMENT_2_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "火属性",
+  "text_key": "ELEMENT_2_NAME"
+ },
+ "ELEMENT_3_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "水属性",
+  "text_key": "ELEMENT_3_NAME"
+ },
+ "ELEMENT_4_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "木属性",
+  "text_key": "ELEMENT_4_NAME"
+ },
+ "ELEMENT_5_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "金属性",
+  "text_key": "ELEMENT_5_NAME"
+ },
+ "ELEMENT_6_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "土属性",
+  "text_key": "ELEMENT_6_NAME"
+ },
+ "ELEMENT_7_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "日属性",
+  "text_key": "ELEMENT_7_NAME"
+ },
+ "ELEMENT_8_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "星属性",
+  "text_key": "ELEMENT_8_NAME"
+ },
+ "ELEMENT_9_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "無属性",
+  "text_key": "ELEMENT_9_NAME"
+ },
+ "ELEMENT_NAME_0": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "属性なし",
+  "text_key": "ELEMENT_NAME_0"
+ },
+ "ELEMENT_NAME_1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "日属性",
+  "text_key": "ELEMENT_NAME_1"
+ },
+ "ELEMENT_NAME_2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "月属性",
+  "text_key": "ELEMENT_NAME_2"
+ },
+ "ELEMENT_NAME_3": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "火属性",
+  "text_key": "ELEMENT_NAME_3"
+ },
+ "ELEMENT_NAME_4": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "水属性",
+  "text_key": "ELEMENT_NAME_4"
+ },
+ "ELEMENT_NAME_5": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "木属性",
+  "text_key": "ELEMENT_NAME_5"
+ },
+ "ELEMENT_NAME_6": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "金属性",
+  "text_key": "ELEMENT_NAME_6"
+ },
+ "ELEMENT_NAME_7": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "土属性",
+  "text_key": "ELEMENT_NAME_7"
+ },
+ "ELEMENT_NAME_8": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "星属性",
+  "text_key": "ELEMENT_NAME_8"
+ },
+ "ERRAND_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おつかい",
+  "text_key": "ERRAND_TITLE"
+ },
+ "EVENT_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "イベント",
+  "text_key": "EVENT_TITLE"
+ },
+ "FORMATION_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "パーティ編成",
+  "text_key": "FORMATION_TITLE"
+ },
+ "GACHA_DIALOG_HEADER_TEXT_1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おいのり",
+  "text_key": "GACHA_DIALOG_HEADER_TEXT_1"
+ },
+ "GACHA_DIALOG_HEADER_TEXT_N": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "一括おいのり",
+  "text_key": "GACHA_DIALOG_HEADER_TEXT_N"
+ },
+ "GACHA_DIALOG_INNER_TEXT_1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おいのり1回には下記のアイテムを消費します。",
+  "text_key": "GACHA_DIALOG_INNER_TEXT_1"
+ },
+ "GACHA_DIALOG_INNER_TEXT_10": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おいのり10回には下記のアイテムを消費します。",
+  "text_key": "GACHA_DIALOG_INNER_TEXT_10"
+ },
+ "GACHA_DIALOG_INNER_TEXT_N": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おいのり{0}回には下記のアイテムを消費します。",
+  "text_key": "GACHA_DIALOG_INNER_TEXT_N"
+ },
+ "GACHA_POINT_INFO": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おいのりをすると、交換Pが入手できます。\n交換Pを150使用すると、ピックアップされたキャラクターと交換することができます。\n※交換Pは使用期限があります。期限を過ぎた交換Pは、霊Pに変換され伝書に送られます。\n\n交換期限 {0}まで",
+  "text_key": "GACHA_POINT_INFO"
+ },
+ "GACHA_POINT_MAIL_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "交換期限が過ぎた「{gacha_name}」の交換Pを、霊Pに変換しました。",
+  "text_key": "GACHA_POINT_MAIL_MESSAGE"
+ },
+ "GACHA_POINT_MAIL_SUBJECT": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "期限切れ交換Pの変換",
+  "text_key": "GACHA_POINT_MAIL_SUBJECT"
+ },
+ "GACHA_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おいのり",
+  "text_key": "GACHA_TITLE"
+ },
+ "ITEM_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "素材",
+  "text_key": "ITEM_TITLE"
+ },
+ "LECTURE_ROOM_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "寺子屋",
+  "text_key": "LECTURE_ROOM_TITLE"
+ },
+ "LOGINBONUS_MAIL_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "「{name}」{day}日目の報酬です。",
+  "text_key": "LOGINBONUS_MAIL_MESSAGE"
+ },
+ "LOGINBONUS_MAIL_SENDER": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "ロストワード",
+  "text_key": "LOGINBONUS_MAIL_SENDER"
+ },
+ "LOGINBONUS_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "ログインスタンプ",
+  "text_key": "LOGINBONUS_NAME"
+ },
+ "MEMBER_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "仲間一覧",
+  "text_key": "MEMBER_TITLE"
+ },
+ "MENU_CONFIG_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "設定",
+  "text_key": "MENU_CONFIG_TITLE"
+ },
+ "MENU_GET_SWITCH_CODE_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "引き継ぎ",
+  "text_key": "MENU_GET_SWITCH_CODE_TITLE"
+ },
+ "MENU_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "メニュー",
+  "text_key": "MENU_TITLE"
+ },
+ "MISSION_REWARD_NOT_RECEIVE_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "課題達成時の報酬です。",
+  "text_key": "MISSION_REWARD_NOT_RECEIVE_MESSAGE"
+ },
+ "MISSION_REWARD_NOT_RECEIVE_SUBJECT": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "課題達成時の報酬",
+  "text_key": "MISSION_REWARD_NOT_RECEIVE_SUBJECT"
+ },
+ "MISSION_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "課題",
+  "text_key": "MISSION_TITLE"
+ },
+ "NOTIFICATION_DISPATCH_END_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おつかいから帰ってきた仲間を出迎えよう！",
+  "text_key": "NOTIFICATION_DISPATCH_END_MESSAGE"
+ },
+ "NOTIFICATION_DISPATCH_END_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おつかい完了！",
+  "text_key": "NOTIFICATION_DISPATCH_END_TITLE"
+ },
+ "NOTIFICATION_FOOD_EMPTY_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "寺子屋でつまむたべものがない！ つらい……！",
+  "text_key": "NOTIFICATION_FOOD_EMPTY_MESSAGE"
+ },
+ "NOTIFICATION_FOOD_EMPTY_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "たべものがすっからかん！",
+  "text_key": "NOTIFICATION_FOOD_EMPTY_TITLE"
+ },
+ "NOTIFICATION_GOLD_BOX_FULL_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "なんと賽銭箱がいっぱいだ！ ありがたい！",
+  "text_key": "NOTIFICATION_GOLD_BOX_FULL_MESSAGE"
+ },
+ "NOTIFICATION_GOLD_BOX_FULL_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "賽銭箱満タン！",
+  "text_key": "NOTIFICATION_GOLD_BOX_FULL_TITLE"
+ },
+ "NOTIFICATION_PHANTASM_BOX_FULL_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おやしろが霊Pであふれそう……！ 早く……！",
+  "text_key": "NOTIFICATION_PHANTASM_BOX_FULL_MESSAGE"
+ },
+ "NOTIFICATION_PHANTASM_BOX_FULL_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "おやしろ満タン！",
+  "text_key": "NOTIFICATION_PHANTASM_BOX_FULL_TITLE"
+ },
+ "NOTIFICATION_TRAINING_ROOM_END_MESSAGE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "道場で特訓を終えた仲間をねぎらってあげよう！",
+  "text_key": "NOTIFICATION_TRAINING_ROOM_END_MESSAGE"
+ },
+ "NOTIFICATION_TRAINING_ROOM_END_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "特訓完了！",
+  "text_key": "NOTIFICATION_TRAINING_ROOM_END_TITLE"
+ },
+ "NOT_RECEIVE_MESSAGE_MULTIPLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "これ以上入手できないものが含まれています",
+  "text_key": "NOT_RECEIVE_MESSAGE_MULTIPLE"
+ },
+ "NOT_RECEIVE_MESSAGE_SEND_MAIL": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "受け取れない報酬は伝書にお送りしました",
+  "text_key": "NOT_RECEIVE_MESSAGE_SEND_MAIL"
+ },
+ "NOT_RECEIVE_MESSAGE_SINGLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "これ以上入手できません",
+  "text_key": "NOT_RECEIVE_MESSAGE_SINGLE"
+ },
+ "PICTURE_CHARACTERISTIC_EFFECT_TEXT_1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "装備したスペカのバレット威力アップ（{0}）",
+  "text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_1"
+ },
+ "PICTURE_CHARACTERISTIC_EFFECT_TEXT_2": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "装備したスペカのバレット威力アップ（{0}）",
+  "text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_2"
+ },
+ "PICTURE_CHARACTERISTIC_EFFECT_TEXT_3": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "装備したスペカの霊力回収効率アップ",
+  "text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_3"
+ },
+ "PICTURE_CHARACTERISTIC_EFFECT_TEXT_4": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "装備したスペカを使用時に自分の体力回復",
+  "text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_4"
+ },
+ "PICTURE_CHARACTERISTIC_EFFECT_TEXT_5": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "装備したスペカを使用時に自分の霊力上昇",
+  "text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_5"
+ },
+ "PICTURE_CHARACTERISTIC_EFFECT_TEXT_6": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "装備したスペカを使用時に自分の結界を増加",
+  "text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_6"
+ },
+ "PICTURE_CHARACTERISTIC_EFFECT_TEXT_7": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "装備したスペカを使用時に自分にバフ効果（{0}）",
+  "text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_7"
+ },
+ "PICTURE_CHARACTERISTIC_EFFECT_TEXT_8": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "イベントポイント獲得量UP",
+  "text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_8"
+ },
+ "PICTURE_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "絵札一覧",
+  "text_key": "PICTURE_TITLE"
+ },
+ "PROFILE_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "プロフィール",
+  "text_key": "PROFILE_TITLE"
+ },
+ "QUEST_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "探索",
+  "text_key": "QUEST_TITLE"
+ },
+ "ROLE_1_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "防御式",
+  "text_key": "ROLE_1_NAME"
+ },
+ "ROLE_2_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "支援式",
+  "text_key": "ROLE_2_NAME"
+ },
+ "ROLE_3_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "回復式",
+  "text_key": "ROLE_3_NAME"
+ },
+ "ROLE_4_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "妨害式",
+  "text_key": "ROLE_4_NAME"
+ },
+ "ROLE_5_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "攻撃式",
+  "text_key": "ROLE_5_NAME"
+ },
+ "ROLE_6_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "技巧式",
+  "text_key": "ROLE_6_NAME"
+ },
+ "ROLE_7_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "速攻式",
+  "text_key": "ROLE_7_NAME"
+ },
+ "ROLE_8_NAME": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "破壊式",
+  "text_key": "ROLE_8_NAME"
+ },
+ "SHOP_DELIVERY_ATTENTION": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "■注意事項 \n・にとりの宅配便の有効期限は購入日から30日後の\n　23:59までとなります。 \n・購入から31日目以降も継続してサービスを受ける場合は\n　再度、にとりの宅配便を購入する必要があります。 \n・ログイン時の特典は伝書に付与されます。\n・ログインしていない日は、ログイン時の特典は入手できません。",
+  "text_key": "SHOP_DELIVERY_ATTENTION"
+ },
+ "SHOP_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "ショップ",
+  "text_key": "SHOP_TITLE"
+ },
+ "SHOP_UNIT_LIST": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "着替え選択",
+  "text_key": "SHOP_UNIT_LIST"
+ },
+ "TICKET_GACHA_DIALOG_HEADER_TEXT_1": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "ガチャ",
+  "text_key": "TICKET_GACHA_DIALOG_HEADER_TEXT_1"
+ },
+ "TICKET_GACHA_DIALOG_HEADER_TEXT_N": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "一括ガチャ",
+  "text_key": "TICKET_GACHA_DIALOG_HEADER_TEXT_N"
+ },
+ "TRAINING_ROOM_TITLE": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "道場",
+  "text_key": "TRAINING_ROOM_TITLE"
+ },
+ "TXT_IP_CREATE_ERROR": {
+  "chinese_value": "",
+  "english_value": "",
+  "french_value": "",
+  "japanese_value": "しばらく時間をおいてからアクセスしてください",
+  "text_key": "TXT_IP_CREATE_ERROR"
+ }
+}

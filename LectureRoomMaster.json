@@ -1,0 +1,37 @@
+{
+ "1": {
+  "consume_food": 5,
+  "consume_time": 15,
+  "exp_rate": 100,
+  "id": 1,
+  "unit_count": 1
+ },
+ "2": {
+  "consume_food": 9,
+  "consume_time": 15,
+  "exp_rate": 90,
+  "id": 2,
+  "unit_count": 2
+ },
+ "3": {
+  "consume_food": 12,
+  "consume_time": 15,
+  "exp_rate": 80,
+  "id": 3,
+  "unit_count": 3
+ },
+ "4": {
+  "consume_food": 14,
+  "consume_time": 15,
+  "exp_rate": 70,
+  "id": 4,
+  "unit_count": 4
+ },
+ "5": {
+  "consume_food": 16,
+  "consume_time": 15,
+  "exp_rate": 64,
+  "id": 5,
+  "unit_count": 5
+ }
+}

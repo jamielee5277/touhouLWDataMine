@@ -1,0 +1,202 @@
+{
+ "1": {
+  "consume_gold": 0,
+  "consume_same_picture_count": 0,
+  "id": 1,
+  "potential_limitbreak": 0,
+  "rare": 1,
+  "spec_actualize_limit": 6
+ },
+ "4294967297": {
+  "consume_gold": 80,
+  "consume_same_picture_count": 1,
+  "id": 2,
+  "potential_limitbreak": 1,
+  "rare": 1,
+  "spec_actualize_limit": 7
+ },
+ "8589934593": {
+  "consume_gold": 190,
+  "consume_same_picture_count": 1,
+  "id": 3,
+  "potential_limitbreak": 2,
+  "rare": 1,
+  "spec_actualize_limit": 8
+ },
+ "12884901889": {
+  "consume_gold": 320,
+  "consume_same_picture_count": 1,
+  "id": 4,
+  "potential_limitbreak": 3,
+  "rare": 1,
+  "spec_actualize_limit": 9
+ },
+ "17179869185": {
+  "consume_gold": 480,
+  "consume_same_picture_count": 1,
+  "id": 5,
+  "potential_limitbreak": 4,
+  "rare": 1,
+  "spec_actualize_limit": 10
+ },
+ "2": {
+  "consume_gold": 0,
+  "consume_same_picture_count": 0,
+  "id": 6,
+  "potential_limitbreak": 0,
+  "rare": 2,
+  "spec_actualize_limit": 6
+ },
+ "4294967298": {
+  "consume_gold": 80,
+  "consume_same_picture_count": 1,
+  "id": 7,
+  "potential_limitbreak": 1,
+  "rare": 2,
+  "spec_actualize_limit": 7
+ },
+ "8589934594": {
+  "consume_gold": 190,
+  "consume_same_picture_count": 1,
+  "id": 8,
+  "potential_limitbreak": 2,
+  "rare": 2,
+  "spec_actualize_limit": 8
+ },
+ "12884901890": {
+  "consume_gold": 320,
+  "consume_same_picture_count": 1,
+  "id": 9,
+  "potential_limitbreak": 3,
+  "rare": 2,
+  "spec_actualize_limit": 9
+ },
+ "17179869186": {
+  "consume_gold": 480,
+  "consume_same_picture_count": 1,
+  "id": 10,
+  "potential_limitbreak": 4,
+  "rare": 2,
+  "spec_actualize_limit": 10
+ },
+ "3": {
+  "consume_gold": 0,
+  "consume_same_picture_count": 0,
+  "id": 11,
+  "potential_limitbreak": 0,
+  "rare": 3,
+  "spec_actualize_limit": 6
+ },
+ "4294967299": {
+  "consume_gold": 80,
+  "consume_same_picture_count": 1,
+  "id": 12,
+  "potential_limitbreak": 1,
+  "rare": 3,
+  "spec_actualize_limit": 7
+ },
+ "8589934595": {
+  "consume_gold": 190,
+  "consume_same_picture_count": 1,
+  "id": 13,
+  "potential_limitbreak": 2,
+  "rare": 3,
+  "spec_actualize_limit": 8
+ },
+ "12884901891": {
+  "consume_gold": 320,
+  "consume_same_picture_count": 1,
+  "id": 14,
+  "potential_limitbreak": 3,
+  "rare": 3,
+  "spec_actualize_limit": 9
+ },
+ "17179869187": {
+  "consume_gold": 480,
+  "consume_same_picture_count": 1,
+  "id": 15,
+  "potential_limitbreak": 4,
+  "rare": 3,
+  "spec_actualize_limit": 10
+ },
+ "4": {
+  "consume_gold": 0,
+  "consume_same_picture_count": 0,
+  "id": 16,
+  "potential_limitbreak": 0,
+  "rare": 4,
+  "spec_actualize_limit": 6
+ },
+ "4294967300": {
+  "consume_gold": 120,
+  "consume_same_picture_count": 1,
+  "id": 17,
+  "potential_limitbreak": 1,
+  "rare": 4,
+  "spec_actualize_limit": 7
+ },
+ "8589934596": {
+  "consume_gold": 285,
+  "consume_same_picture_count": 1,
+  "id": 18,
+  "potential_limitbreak": 2,
+  "rare": 4,
+  "spec_actualize_limit": 8
+ },
+ "12884901892": {
+  "consume_gold": 480,
+  "consume_same_picture_count": 1,
+  "id": 19,
+  "potential_limitbreak": 3,
+  "rare": 4,
+  "spec_actualize_limit": 9
+ },
+ "17179869188": {
+  "consume_gold": 720,
+  "consume_same_picture_count": 1,
+  "id": 20,
+  "potential_limitbreak": 4,
+  "rare": 4,
+  "spec_actualize_limit": 10
+ },
+ "5": {
+  "consume_gold": 0,
+  "consume_same_picture_count": 0,
+  "id": 21,
+  "potential_limitbreak": 0,
+  "rare": 5,
+  "spec_actualize_limit": 6
+ },
+ "4294967301": {
+  "consume_gold": 240,
+  "consume_same_picture_count": 1,
+  "id": 22,
+  "potential_limitbreak": 1,
+  "rare": 5,
+  "spec_actualize_limit": 7
+ },
+ "8589934597": {
+  "consume_gold": 570,
+  "consume_same_picture_count": 1,
+  "id": 23,
+  "potential_limitbreak": 2,
+  "rare": 5,
+  "spec_actualize_limit": 8
+ },
+ "12884901893": {
+  "consume_gold": 960,
+  "consume_same_picture_count": 1,
+  "id": 24,
+  "potential_limitbreak": 3,
+  "rare": 5,
+  "spec_actualize_limit": 9
+ },
+ "17179869189": {
+  "consume_gold": 1440,
+  "consume_same_picture_count": 1,
+  "id": 25,
+  "potential_limitbreak": 4,
+  "rare": 5,
+  "spec_actualize_limit": 10
+ }
+}

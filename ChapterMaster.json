@@ -1,0 +1,79 @@
+{
+ "1001": {
+  "costume_id": 100101,
+  "event_id": 0,
+  "extra_costume_id": 0,
+  "extra_unit_speech_group_id": 0,
+  "id": 1001,
+  "number": 1,
+  "open_type": 0,
+  "title": "序章　はじまりの幻想郷",
+  "unit_speech_group_id": 15
+ },
+ "1002": {
+  "costume_id": 100901,
+  "event_id": 0,
+  "extra_costume_id": 100902,
+  "extra_unit_speech_group_id": 46,
+  "id": 1002,
+  "number": 2,
+  "open_type": 1,
+  "title": "第1章　幻想孤島",
+  "unit_speech_group_id": 21
+ },
+ "1003": {
+  "costume_id": 100901,
+  "event_id": 0,
+  "extra_costume_id": 0,
+  "extra_unit_speech_group_id": 0,
+  "id": 1003,
+  "number": 3,
+  "open_type": 1,
+  "title": "第2章　紅魔塔（前編）",
+  "unit_speech_group_id": 37
+ },
+ "1004": {
+  "costume_id": 100901,
+  "event_id": 0,
+  "extra_costume_id": 0,
+  "extra_unit_speech_group_id": 0,
+  "id": 1004,
+  "number": 4,
+  "open_type": 1,
+  "title": "第2章　紅魔塔（後編）",
+  "unit_speech_group_id": 53
+ },
+ "2001": {
+  "costume_id": 100201,
+  "event_id": 1040,
+  "extra_costume_id": 0,
+  "extra_unit_speech_group_id": 0,
+  "id": 2001,
+  "number": 1,
+  "open_type": 0,
+  "title": "半人半霊の一日メイド",
+  "unit_speech_group_id": 2
+ },
+ "2002": {
+  "costume_id": 104001,
+  "event_id": 1090,
+  "extra_costume_id": 0,
+  "extra_unit_speech_group_id": 0,
+  "id": 2002,
+  "number": 1,
+  "open_type": 0,
+  "title": "玉兎VS河童！大サバゲー祭り",
+  "unit_speech_group_id": 36
+ },
+ "2003": {
+  "costume_id": 102901,
+  "event_id": 2070,
+  "extra_costume_id": 0,
+  "extra_unit_speech_group_id": 0,
+  "id": 2003,
+  "number": 1,
+  "open_type": 0,
+  "title": "本居小鈴の事件簿",
+  "unit_speech_group_id": 43
+ }
+}

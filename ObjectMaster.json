@@ -1,0 +1,107 @@
+{
+ "1": {
+  "description": "主人公の経験値。溜めると主人公のレベルが上がる。千里の道も一歩から。",
+  "display_order": 2,
+  "id": 1,
+  "name": "主人公経験値",
+  "rare": 0
+ },
+ "2": {
+  "description": "神社へ寄せられた信仰の形。探索に出発する際などに必要。鰯の頭も信心から。",
+  "display_order": 4,
+  "id": 2,
+  "name": "霊P",
+  "rare": 0
+ },
+ "3": {
+  "description": "普通のお賽銭。信仰の依代なので各種強化に活用できる。通貨としても使える。",
+  "display_order": 3,
+  "id": 3,
+  "name": "賽銭",
+  "rare": 0
+ },
+ "4": {
+  "description": "封結晶よりも珍しい不思議な結晶石。希少なため、様々な取引に使われる。",
+  "display_order": 11,
+  "id": 4,
+  "name": "神結晶",
+  "rare": 4
+ },
+ "5": {
+  "description": "信用の証明であるこの物品から信仰心を抽出し、「覚醒」に用いることが可能。",
+  "display_order": 13,
+  "id": 5,
+  "name": "割符",
+  "rare": 3
+ },
+ "6": {
+  "description": "不思議な結晶石。神社に奉納し、巫女の祈祷（おいのり）で鎮めるのが一般的。",
+  "display_order": 12,
+  "id": 6,
+  "name": "封結晶",
+  "rare": 4
+ },
+ "7": {
+  "description": "様々なものに交換できる、功績の証。溜めているだけでは宝の持ち腐れ。",
+  "display_order": 14,
+  "id": 7,
+  "name": "交換用ポイント",
+  "rare": 3
+ },
+ "8": {
+  "description": "",
+  "display_order": 5,
+  "id": 8,
+  "name": "イベントP",
+  "rare": 0
+ },
+ "9": {
+  "description": "幻想郷や周囲の異界にいる、幻想的な少女たち……彼女たちと結ぶ『縁』。",
+  "display_order": 21,
+  "id": 9,
+  "name": "ユニット",
+  "rare": 0
+ },
+ "10": {
+  "description": "いつかどこかであったかもしれない光景の記録。または、誰かの心象風景。",
+  "display_order": 23,
+  "id": 10,
+  "name": "絵札",
+  "rare": 0
+ },
+ "11": {
+  "description": "誰かの手で紡がれた、誰かのための衣服。つよさ的な意味では変化しない。",
+  "display_order": 22,
+  "id": 11,
+  "name": "衣装",
+  "rare": 0
+ },
+ "12": {
+  "description": "",
+  "display_order": 24,
+  "id": 12,
+  "name": "アイテム",
+  "rare": 0
+ },
+ "13": {
+  "description": "筆記帳に収録される「仲間」の縁の上限を増やせる。一期一会の精神。",
+  "display_order": 31,
+  "id": 13,
+  "name": "仲間上限+10",
+  "rare": 0
+ },
+ "14": {
+  "description": "筆記帳に収録される「絵札」の上限を増やせる。思い出の一枚、永遠の一枚。",
+  "display_order": 32,
+  "id": 14,
+  "name": "絵札上限+20",
+  "rare": 0
+ },
+ "15": {
+  "description": "仲間の経験値。一定まで溜めると仲間のレベルが上がる。ちりつも。",
+  "display_order": 1,
+  "id": 15,
+  "name": "仲間経験値",
+  "rare": 0
+ }
+}

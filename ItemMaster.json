@@ -1,0 +1,542 @@
+{
+ "111": {
+  "description": "攻性スキルに対して効果が高い本型アイテム。魂に温かさを教えてくれる。",
+  "display_order": 2001,
+  "effect_type": 0,
+  "id": 111,
+  "name": "攻性指南書[初]",
+  "rare": 1,
+  "type": 1
+ },
+ "112": {
+  "description": "攻性スキルに対して効果が高い本型アイテム。魂に情熱を教えてくれる。",
+  "display_order": 2002,
+  "effect_type": 0,
+  "id": 112,
+  "name": "攻性指南書[弐]",
+  "rare": 2,
+  "type": 1
+ },
+ "113": {
+  "description": "攻性スキルに対して効果が高い本型アイテム。魂に熱血を教えてくれる。",
+  "display_order": 2003,
+  "effect_type": 0,
+  "id": 113,
+  "name": "攻性指南書[参]",
+  "rare": 3,
+  "type": 1
+ },
+ "121": {
+  "description": "防性スキルに対して効果が高い本型アイテム。魂に冷静さを教えてくれる。",
+  "display_order": 2004,
+  "effect_type": 0,
+  "id": 121,
+  "name": "防性指南書[初]",
+  "rare": 1,
+  "type": 1
+ },
+ "122": {
+  "description": "防性スキルに対して効果が高い本型アイテム。魂に忍耐を教えてくれる。",
+  "display_order": 2005,
+  "effect_type": 0,
+  "id": 122,
+  "name": "防性指南書[弐]",
+  "rare": 2,
+  "type": 1
+ },
+ "123": {
+  "description": "防性スキルに対して効果が高い本型アイテム。魂に慈悲を教えてくれる。",
+  "display_order": 2006,
+  "effect_type": 0,
+  "id": 123,
+  "name": "防性指南書[参]",
+  "rare": 3,
+  "type": 1
+ },
+ "131": {
+  "description": "補性スキルに対して効果が高い本型アイテム。魂に安らぎを教えてくれる。",
+  "display_order": 2007,
+  "effect_type": 0,
+  "id": 131,
+  "name": "補性指南書[初]",
+  "rare": 1,
+  "type": 1
+ },
+ "132": {
+  "description": "補性スキルに対して効果が高い本型アイテム。魂に平穏を教えてくれる。",
+  "display_order": 2008,
+  "effect_type": 0,
+  "id": 132,
+  "name": "補性指南書[弐]",
+  "rare": 2,
+  "type": 1
+ },
+ "133": {
+  "description": "補性スキルに対して効果が高い本型アイテム。魂に平和を教えてくれる。",
+  "display_order": 2009,
+  "effect_type": 0,
+  "id": 133,
+  "name": "補性指南書[参]",
+  "rare": 3,
+  "type": 1
+ },
+ "211": {
+  "description": "梅カテゴリ絵札の強化に用いるタイル型アイテム。微かに梅が彫られている。",
+  "display_order": 3001,
+  "effect_type": 1,
+  "id": 211,
+  "name": "梅の華片[初]",
+  "rare": 1,
+  "type": 2
+ },
+ "212": {
+  "description": "梅カテゴリ絵札の強化に用いるタイル型アイテム。明確に梅が彫られている。",
+  "display_order": 3002,
+  "effect_type": 1,
+  "id": 212,
+  "name": "梅の華片[弐]",
+  "rare": 2,
+  "type": 2
+ },
+ "213": {
+  "description": "梅カテゴリ絵札の強化に用いるタイル型アイテム。豪華に梅が彫られている。",
+  "display_order": 3003,
+  "effect_type": 1,
+  "id": 213,
+  "name": "梅の華片[参]",
+  "rare": 3,
+  "type": 2
+ },
+ "221": {
+  "description": "蘭カテゴリ絵札の強化に用いるタイル型アイテム。微かに蘭が彫られている。",
+  "display_order": 3004,
+  "effect_type": 2,
+  "id": 221,
+  "name": "蘭の華片[初]",
+  "rare": 1,
+  "type": 2
+ },
+ "222": {
+  "description": "蘭カテゴリ絵札の強化に用いるタイル型アイテム。明確に蘭が彫られている。",
+  "display_order": 3005,
+  "effect_type": 2,
+  "id": 222,
+  "name": "蘭の華片[弐]",
+  "rare": 2,
+  "type": 2
+ },
+ "223": {
+  "description": "蘭カテゴリ絵札の強化に用いるタイル型アイテム。豪華に蘭が彫られている。",
+  "display_order": 3006,
+  "effect_type": 2,
+  "id": 223,
+  "name": "蘭の華片[参]",
+  "rare": 3,
+  "type": 2
+ },
+ "231": {
+  "description": "菊カテゴリ絵札の強化に用いるタイル型アイテム。微かに菊が彫られている。",
+  "display_order": 3007,
+  "effect_type": 3,
+  "id": 231,
+  "name": "菊の華片[初]",
+  "rare": 1,
+  "type": 2
+ },
+ "232": {
+  "description": "菊カテゴリ絵札の強化に用いるタイル型アイテム。明確に菊が彫られている。",
+  "display_order": 3008,
+  "effect_type": 3,
+  "id": 232,
+  "name": "菊の華片[弐]",
+  "rare": 2,
+  "type": 2
+ },
+ "233": {
+  "description": "菊カテゴリ絵札の強化に用いるタイル型アイテム。豪華に菊が彫られている。",
+  "display_order": 3009,
+  "effect_type": 3,
+  "id": 233,
+  "name": "菊の華片[参]",
+  "rare": 3,
+  "type": 2
+ },
+ "241": {
+  "description": "竹カテゴリ絵札の強化に用いるタイル型アイテム。微かに竹が彫られている。",
+  "display_order": 3010,
+  "effect_type": 4,
+  "id": 241,
+  "name": "竹の華片[初]",
+  "rare": 1,
+  "type": 2
+ },
+ "242": {
+  "description": "竹カテゴリ絵札の強化に用いるタイル型アイテム。明確に竹が彫られている。",
+  "display_order": 3011,
+  "effect_type": 4,
+  "id": 242,
+  "name": "竹の華片[弐]",
+  "rare": 2,
+  "type": 2
+ },
+ "243": {
+  "description": "竹カテゴリ絵札の強化に用いるタイル型アイテム。豪華に竹が彫られている。",
+  "display_order": 3012,
+  "effect_type": 4,
+  "id": 243,
+  "name": "竹の華片[参]",
+  "rare": 3,
+  "type": 2
+ },
+ "311": {
+  "description": "防御式の仲間の昇格に用いる巻物型アイテム。蒼天が小さく描かれている。",
+  "display_order": 4001,
+  "effect_type": 0,
+  "id": 311,
+  "name": "天の巻[初]",
+  "rare": 1,
+  "type": 3
+ },
+ "312": {
+  "description": "防御式の仲間の昇格に用いる巻物型アイテム。蒼天が目立って描かれている。",
+  "display_order": 4002,
+  "effect_type": 0,
+  "id": 312,
+  "name": "天の巻[弐]",
+  "rare": 2,
+  "type": 3
+ },
+ "313": {
+  "description": "防御式の仲間の昇格に用いる巻物型アイテム。蒼天が堂々と描かれている。",
+  "display_order": 4003,
+  "effect_type": 0,
+  "id": 313,
+  "name": "天の巻[参]",
+  "rare": 3,
+  "type": 3
+ },
+ "321": {
+  "description": "支援式の仲間の昇格に用いる巻物型アイテム。大地が小さく描かれている。",
+  "display_order": 4004,
+  "effect_type": 0,
+  "id": 321,
+  "name": "地の巻[初]",
+  "rare": 1,
+  "type": 3
+ },
+ "322": {
+  "description": "支援式の仲間の昇格に用いる巻物型アイテム。大地が目立って描かれている。",
+  "display_order": 4005,
+  "effect_type": 0,
+  "id": 322,
+  "name": "地の巻[弐]",
+  "rare": 2,
+  "type": 3
+ },
+ "323": {
+  "description": "支援式の仲間の昇格に用いる巻物型アイテム。大地が堂々と描かれている。",
+  "display_order": 4006,
+  "effect_type": 0,
+  "id": 323,
+  "name": "地の巻[参]",
+  "rare": 3,
+  "type": 3
+ },
+ "331": {
+  "description": "回復式の仲間の昇格に用いる巻物型アイテム。疾風が小さく描かれている。",
+  "display_order": 4007,
+  "effect_type": 0,
+  "id": 331,
+  "name": "風の巻[初]",
+  "rare": 1,
+  "type": 3
+ },
+ "332": {
+  "description": "回復式の仲間の昇格に用いる巻物型アイテム。疾風が目立って描かれている。",
+  "display_order": 4008,
+  "effect_type": 0,
+  "id": 332,
+  "name": "風の巻[弐]",
+  "rare": 2,
+  "type": 3
+ },
+ "333": {
+  "description": "回復式の仲間の昇格に用いる巻物型アイテム。疾風が堂々と描かれている。",
+  "display_order": 4009,
+  "effect_type": 0,
+  "id": 333,
+  "name": "風の巻[参]",
+  "rare": 3,
+  "type": 3
+ },
+ "341": {
+  "description": "妨害式の仲間の昇格に用いる巻物型アイテム。彩雲が小さく描かれている。",
+  "display_order": 4010,
+  "effect_type": 0,
+  "id": 341,
+  "name": "雲の巻[初]",
+  "rare": 1,
+  "type": 3
+ },
+ "342": {
+  "description": "妨害式の仲間の昇格に用いる巻物型アイテム。彩雲が目立って描かれている。",
+  "display_order": 4011,
+  "effect_type": 0,
+  "id": 342,
+  "name": "雲の巻[弐]",
+  "rare": 2,
+  "type": 3
+ },
+ "343": {
+  "description": "妨害式の仲間の昇格に用いる巻物型アイテム。彩雲が堂々と描かれている。",
+  "display_order": 4012,
+  "effect_type": 0,
+  "id": 343,
+  "name": "雲の巻[参]",
+  "rare": 3,
+  "type": 3
+ },
+ "351": {
+  "description": "攻撃式の仲間の昇格に用いる巻物型アイテム。龍の姿が小さく描かれている。",
+  "display_order": 4013,
+  "effect_type": 0,
+  "id": 351,
+  "name": "龍の巻[初]",
+  "rare": 1,
+  "type": 3
+ },
+ "352": {
+  "description": "攻撃式の仲間の昇格に用いる巻物型アイテム。龍の姿が目立って描かれている。",
+  "display_order": 4014,
+  "effect_type": 0,
+  "id": 352,
+  "name": "龍の巻[弐]",
+  "rare": 2,
+  "type": 3
+ },
+ "353": {
+  "description": "攻撃式の仲間の昇格に用いる巻物型アイテム。龍の姿が堂々と描かれている。",
+  "display_order": 4015,
+  "effect_type": 0,
+  "id": 353,
+  "name": "龍の巻[参]",
+  "rare": 3,
+  "type": 3
+ },
+ "361": {
+  "description": "技巧式の仲間の昇格に用いる巻物型アイテム。虎の姿が小さく描かれている。",
+  "display_order": 4016,
+  "effect_type": 0,
+  "id": 361,
+  "name": "虎の巻[初]",
+  "rare": 1,
+  "type": 3
+ },
+ "362": {
+  "description": "技巧式の仲間の昇格に用いる巻物型アイテム。虎の姿が目立って描かれている。",
+  "display_order": 4017,
+  "effect_type": 0,
+  "id": 362,
+  "name": "虎の巻[弐]",
+  "rare": 2,
+  "type": 3
+ },
+ "363": {
+  "description": "技巧式の仲間の昇格に用いる巻物型アイテム。虎の姿が堂々と描かれている。",
+  "display_order": 4018,
+  "effect_type": 0,
+  "id": 363,
+  "name": "虎の巻[参]",
+  "rare": 3,
+  "type": 3
+ },
+ "371": {
+  "description": "速攻式の仲間の昇格に用いる巻物型アイテム。鳳の姿が小さく描かれている。",
+  "display_order": 4019,
+  "effect_type": 0,
+  "id": 371,
+  "name": "鳥の巻[初]",
+  "rare": 1,
+  "type": 3
+ },
+ "372": {
+  "description": "速攻式の仲間の昇格に用いる巻物型アイテム。鳳の姿が目立って描かれている。",
+  "display_order": 4020,
+  "effect_type": 0,
+  "id": 372,
+  "name": "鳥の巻[弐]",
+  "rare": 2,
+  "type": 3
+ },
+ "373": {
+  "description": "速攻式の仲間の昇格に用いる巻物型アイテム。鳳の姿が堂々と描かれている。",
+  "display_order": 4021,
+  "effect_type": 0,
+  "id": 373,
+  "name": "鳥の巻[参]",
+  "rare": 3,
+  "type": 3
+ },
+ "381": {
+  "description": "破壊式の仲間の昇格に用いる巻物型アイテム。蛇の姿が小さく描かれている。",
+  "display_order": 4022,
+  "effect_type": 0,
+  "id": 381,
+  "name": "蛇の巻[初]",
+  "rare": 1,
+  "type": 3
+ },
+ "382": {
+  "description": "破壊式の仲間の昇格に用いる巻物型アイテム。蛇の姿が目立って描かれている。",
+  "display_order": 4023,
+  "effect_type": 0,
+  "id": 382,
+  "name": "蛇の巻[弐]",
+  "rare": 2,
+  "type": 3
+ },
+ "383": {
+  "description": "破壊式の仲間の昇格に用いる巻物型アイテム。蛇の姿が堂々と描かれている。",
+  "display_order": 4024,
+  "effect_type": 0,
+  "id": 383,
+  "name": "蛇の巻[参]",
+  "rare": 3,
+  "type": 3
+ },
+ "401": {
+  "description": "異国で産出した貴重な香木。豊かな香りで仲間の体力を上げる。",
+  "display_order": 5001,
+  "effect_type": 1,
+  "id": 401,
+  "name": "伽羅",
+  "rare": 1,
+  "type": 4
+ },
+ "402": {
+  "description": "異国で産出した貴重な香木。甘い香りで仲間の陽気攻撃力を上げる。",
+  "display_order": 5002,
+  "effect_type": 2,
+  "id": 402,
+  "name": "羅国",
+  "rare": 1,
+  "type": 4
+ },
+ "403": {
+  "description": "異国で産出した貴重な香木。無味な香りで仲間の陽気防御力を上げる。",
+  "display_order": 5003,
+  "effect_type": 3,
+  "id": 403,
+  "name": "真那伽",
+  "rare": 1,
+  "type": 4
+ },
+ "404": {
+  "description": "異国で産出した貴重な香木。酸い香りで仲間の陰気攻撃力を上げる。",
+  "display_order": 5004,
+  "effect_type": 4,
+  "id": 404,
+  "name": "真南蛮",
+  "rare": 1,
+  "type": 4
+ },
+ "405": {
+  "description": "異国で産出した貴重な香木。苦い香りで仲間の陰気防御力を上げる。",
+  "display_order": 5006,
+  "effect_type": 5,
+  "id": 405,
+  "name": "寸門多羅",
+  "rare": 1,
+  "type": 4
+ },
+ "406": {
+  "description": "異国で産出した貴重な香木。塩辛い香りで仲間の速力を上げる。",
+  "display_order": 5007,
+  "effect_type": 6,
+  "id": 406,
+  "name": "佐曽羅",
+  "rare": 1,
+  "type": 4
+ },
+ "501": {
+  "description": "即席依代アイテム。仲間の限界突破などの際に使用することができる。",
+  "display_order": 1001,
+  "effect_type": 0,
+  "id": 501,
+  "name": "人形代",
+  "rare": 3,
+  "type": 5
+ },
+ "601": {
+  "description": "品質が最上の煎茶のことをこう呼ぶ。誰かさんのお気に入り。",
+  "display_order": 6001,
+  "effect_type": 0,
+  "id": 601,
+  "name": "玉露",
+  "rare": 2,
+  "type": 6
+ },
+ "602": {
+  "description": "ベルガモットで香り付けしたフレーバーティー。茶葉はダージリン。",
+  "display_order": 6002,
+  "effect_type": 0,
+  "id": 602,
+  "name": "香る紅茶",
+  "rare": 2,
+  "type": 6
+ },
+ "603": {
+  "description": "特殊な瓶に封入されている。中身はサイダーと同じ。語源は「レモネード」。",
+  "display_order": 6003,
+  "effect_type": 0,
+  "id": 603,
+  "name": "瓶ラムネ",
+  "rare": 2,
+  "type": 6
+ },
+ "604": {
+  "description": "京都の伝統的なおいしい和菓子……と見せかけて、その発祥は古くない。",
+  "display_order": 6004,
+  "effect_type": 0,
+  "id": 604,
+  "name": "高級和菓子",
+  "rare": 2,
+  "type": 6
+ },
+ "605": {
+  "description": "中国の羊肉スープだったのが、日本の精進料理で肉を小豆に代えたのが起源。",
+  "display_order": 6005,
+  "effect_type": 0,
+  "id": 605,
+  "name": "謹製羊羹",
+  "rare": 3,
+  "type": 6
+ },
+ "606": {
+  "description": "八目鰻は鰻の仲間ではない。しかも、魚類かもちょっと怪しい……。",
+  "display_order": 6006,
+  "effect_type": 0,
+  "id": 606,
+  "name": "国産八目鰻",
+  "rare": 3,
+  "type": 6
+ },
+ "701": {
+  "description": "特別なおいのりができる祝詞(のりと)。必ず仲間が出てくる。",
+  "display_order": 1,
+  "effect_type": 0,
+  "id": 701,
+  "name": "仲間確定祝詞",
+  "rare": 3,
+  "type": 7
+ },
+ "702": {
+  "description": "特別なおいのりができる祝詞(のりと)。必ず☆4以上の絵札が出てくる。",
+  "display_order": 2,
+  "effect_type": 0,
+  "id": 702,
+  "name": "絵札祝詞",
+  "rare": 3,
+  "type": 7
+ }
+}

@@ -1,0 +1,314 @@
+{
+ "10": {
+  "android_product_id": "touhoulostword_android_orb_tier_1",
+  "id": 10,
+  "ios_product_id": "touhoulostword_ios_orb_tier_1",
+  "name": null,
+  "price": 120,
+  "shop_type": 0
+ },
+ "20": {
+  "android_product_id": "touhoulostword_android_orb_tier_5",
+  "id": 20,
+  "ios_product_id": "touhoulostword_ios_orb_tier_5",
+  "name": null,
+  "price": 610,
+  "shop_type": 0
+ },
+ "30": {
+  "android_product_id": "touhoulostword_android_orb_tier_10",
+  "id": 30,
+  "ios_product_id": "touhoulostword_ios_orb_tier_10",
+  "name": null,
+  "price": 1220,
+  "shop_type": 0
+ },
+ "40": {
+  "android_product_id": "touhoulostword_android_orb_tier_20",
+  "id": 40,
+  "ios_product_id": "touhoulostword_ios_orb_tier_20",
+  "name": null,
+  "price": 2440,
+  "shop_type": 0
+ },
+ "50": {
+  "android_product_id": "touhoulostword_android_orb_tier_40",
+  "id": 50,
+  "ios_product_id": "touhoulostword_ios_orb_tier_40",
+  "name": null,
+  "price": 4900,
+  "shop_type": 0
+ },
+ "60": {
+  "android_product_id": "touhoulostword_android_orb_tier_56",
+  "id": 60,
+  "ios_product_id": "touhoulostword_ios_orb_tier_56",
+  "name": null,
+  "price": 10000,
+  "shop_type": 0
+ },
+ "70": {
+  "android_product_id": "touhoulostword_android_nitori_delivery",
+  "id": 70,
+  "ios_product_id": "touhoulostword_ios_nitori_delivery",
+  "name": null,
+  "price": 490,
+  "shop_type": 2
+ },
+ "1010": {
+  "android_product_id": "touhoulostword_android_startdash_pack",
+  "id": 1010,
+  "ios_product_id": "touhoulostword_ios_startdash_pack",
+  "name": null,
+  "price": 120,
+  "shop_type": 1
+ },
+ "1020": {
+  "android_product_id": "touhoulostword_android_character_pack_1",
+  "id": 1020,
+  "ios_product_id": "touhoulostword_ios_character_pack_1",
+  "name": null,
+  "price": 490,
+  "shop_type": 1
+ },
+ "1030": {
+  "android_product_id": "touhoulostword_android_character_pack_2",
+  "id": 1030,
+  "ios_product_id": "touhoulostword_ios_character_pack_2",
+  "name": null,
+  "price": 980,
+  "shop_type": 1
+ },
+ "1040": {
+  "android_product_id": "touhoulostword_android_character_pack_3",
+  "id": 1040,
+  "ios_product_id": "touhoulostword_ios_character_pack_3",
+  "name": null,
+  "price": 1960,
+  "shop_type": 1
+ },
+ "1050": {
+  "android_product_id": "touhoulostword_android_character_pack_4",
+  "id": 1050,
+  "ios_product_id": "touhoulostword_ios_character_pack_4",
+  "name": null,
+  "price": 3920,
+  "shop_type": 1
+ },
+ "1060": {
+  "android_product_id": "touhoulostword_android_character_pack_5",
+  "id": 1060,
+  "ios_product_id": "touhoulostword_ios_character_pack_5",
+  "name": null,
+  "price": 8000,
+  "shop_type": 1
+ },
+ "1070": {
+  "android_product_id": "touhoulostword_android_monthly_pack_1",
+  "id": 1070,
+  "ios_product_id": "touhoulostword_ios_monthly_pack_1",
+  "name": null,
+  "price": 610,
+  "shop_type": 1
+ },
+ "1080": {
+  "android_product_id": "touhoulostword_android_monthly_pack_2",
+  "id": 1080,
+  "ios_product_id": "touhoulostword_ios_monthly_pack_2",
+  "name": null,
+  "price": 1220,
+  "shop_type": 1
+ },
+ "1090": {
+  "android_product_id": "touhoulostword_android_monthly_pack_3",
+  "id": 1090,
+  "ios_product_id": "touhoulostword_ios_monthly_pack_3",
+  "name": null,
+  "price": 2440,
+  "shop_type": 1
+ },
+ "1100": {
+  "android_product_id": "touhoulostword_android_monthly_pack_4",
+  "id": 1100,
+  "ios_product_id": "touhoulostword_ios_monthly_pack_4",
+  "name": null,
+  "price": 4900,
+  "shop_type": 1
+ },
+ "1110": {
+  "android_product_id": "touhoulostword_android_monthly_pack_5",
+  "id": 1110,
+  "ios_product_id": "touhoulostword_ios_monthly_pack_5",
+  "name": null,
+  "price": 10000,
+  "shop_type": 1
+ },
+ "1120": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_xs",
+  "id": 1120,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_xs",
+  "name": null,
+  "price": 610,
+  "shop_type": 1
+ },
+ "1130": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_s",
+  "id": 1130,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_s",
+  "name": null,
+  "price": 1220,
+  "shop_type": 1
+ },
+ "1140": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_m",
+  "id": 1140,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_m",
+  "name": null,
+  "price": 2440,
+  "shop_type": 1
+ },
+ "1150": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_l",
+  "id": 1150,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_l",
+  "name": null,
+  "price": 4900,
+  "shop_type": 1
+ },
+ "1160": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_xl",
+  "id": 1160,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_xl",
+  "name": null,
+  "price": 10000,
+  "shop_type": 1
+ },
+ "1170": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_2_xs",
+  "id": 1170,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_2_xs",
+  "name": null,
+  "price": 610,
+  "shop_type": 1
+ },
+ "1180": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_2_s",
+  "id": 1180,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_2_s",
+  "name": null,
+  "price": 1220,
+  "shop_type": 1
+ },
+ "1190": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_2_m",
+  "id": 1190,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_2_m",
+  "name": null,
+  "price": 2440,
+  "shop_type": 1
+ },
+ "1200": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_2_l",
+  "id": 1200,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_2_l",
+  "name": null,
+  "price": 4900,
+  "shop_type": 1
+ },
+ "1210": {
+  "android_product_id": "touhoulostword_android_seasonal_pack_2_xl",
+  "id": 1210,
+  "ios_product_id": "touhoulostword_ios_seasonal_pack_2_xl",
+  "name": null,
+  "price": 10000,
+  "shop_type": 1
+ },
+ "1220": {
+  "android_product_id": "touhoulostword_android_monthly_sp_pack_1",
+  "id": 1220,
+  "ios_product_id": "touhoulostword_ios_monthly_sp_pack_1",
+  "name": null,
+  "price": 610,
+  "shop_type": 1
+ },
+ "1230": {
+  "android_product_id": "touhoulostword_android_monthly_sp_pack_2",
+  "id": 1230,
+  "ios_product_id": "touhoulostword_ios_monthly_sp_pack_2",
+  "name": null,
+  "price": 1220,
+  "shop_type": 1
+ },
+ "1240": {
+  "android_product_id": "touhoulostword_android_monthly_sp_pack_3",
+  "id": 1240,
+  "ios_product_id": "touhoulostword_ios_monthly_sp_pack_3",
+  "name": null,
+  "price": 2440,
+  "shop_type": 1
+ },
+ "1250": {
+  "android_product_id": "touhoulostword_android_monthly_sp_pack_4",
+  "id": 1250,
+  "ios_product_id": "touhoulostword_ios_monthly_sp_pack_4",
+  "name": null,
+  "price": 4900,
+  "shop_type": 1
+ },
+ "1260": {
+  "android_product_id": "touhoulostword_android_monthly_sp_pack_5",
+  "id": 1260,
+  "ios_product_id": "touhoulostword_ios_monthly_sp_pack_5",
+  "name": null,
+  "price": 10000,
+  "shop_type": 1
+ },
+ "1270": {
+  "android_product_id": "touhoulostword_android_monthly_rp_pack_1",
+  "id": 1270,
+  "ios_product_id": "touhoulostword_ios_monthly_rp_pack_1",
+  "name": null,
+  "price": 610,
+  "shop_type": 1
+ },
+ "1280": {
+  "android_product_id": "touhoulostword_android_monthly_rp_pack_2",
+  "id": 1280,
+  "ios_product_id": "touhoulostword_ios_monthly_rp_pack_2",
+  "name": null,
+  "price": 1220,
+  "shop_type": 1
+ },
+ "1290": {
+  "android_product_id": "touhoulostword_android_monthly_rp_pack_3",
+  "id": 1290,
+  "ios_product_id": "touhoulostword_ios_monthly_rp_pack_3",
+  "name": null,
+  "price": 2440,
+  "shop_type": 1
+ },
+ "1300": {
+  "android_product_id": "touhoulostword_android_monthly_rp_pack_4",
+  "id": 1300,
+  "ios_product_id": "touhoulostword_ios_monthly_rp_pack_4",
+  "name": null,
+  "price": 4900,
+  "shop_type": 1
+ },
+ "1310": {
+  "android_product_id": "touhoulostword_android_monthly_rp_pack_5",
+  "id": 1310,
+  "ios_product_id": "touhoulostword_ios_monthly_rp_pack_5",
+  "name": null,
+  "price": 10000,
+  "shop_type": 1
+ },
+ "1320": {
+  "android_product_id": "touhoulostword_android_premium_pack",
+  "id": 1320,
+  "ios_product_id": "touhoulostword_ios_premium_pack",
+  "name": null,
+  "price": 10000,
+  "shop_type": 1
+ }
+}

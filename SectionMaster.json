@@ -1,0 +1,233 @@
+{
+ "1001001": {
+  "chapter_id": 1001,
+  "costume_id": 100201,
+  "id": 1001001,
+  "mode": 0,
+  "number": 1,
+  "open_type": 0,
+  "sub_title": "迷い込んだ場所は『幻想郷』。私は……誰？",
+  "title": "第1節　いつものお茶会？",
+  "unit_speech_group_id": 16
+ },
+ "1001002": {
+  "chapter_id": 1001,
+  "costume_id": 100901,
+  "id": 1001002,
+  "mode": 0,
+  "number": 2,
+  "open_type": 1,
+  "sub_title": "封結晶探しに紅魔館へ。すんなりいくかな？",
+  "title": "第2節　紅魔館にて",
+  "unit_speech_group_id": 17
+ },
+ "1001003": {
+  "chapter_id": 1001,
+  "costume_id": 100301,
+  "id": 1001003,
+  "mode": 0,
+  "number": 3,
+  "open_type": 1,
+  "sub_title": "次は白玉楼へ。そこで待ち受けているのは？",
+  "title": "第3節　白玉楼にて",
+  "unit_speech_group_id": 18
+ },
+ "1001004": {
+  "chapter_id": 1001,
+  "costume_id": 101001,
+  "id": 1001004,
+  "mode": 0,
+  "number": 4,
+  "open_type": 1,
+  "sub_title": "永遠亭へ向かう一行。次は上手くいくかな？",
+  "title": "第4節　永遠亭にて",
+  "unit_speech_group_id": 19
+ },
+ "1001005": {
+  "chapter_id": 1001,
+  "costume_id": 101901,
+  "id": 1001005,
+  "mode": 0,
+  "number": 5,
+  "open_type": 1,
+  "sub_title": "無事に一段落。でも、これからどうしたら？",
+  "title": "第5節　終幕",
+  "unit_speech_group_id": 20
+ },
+ "1002001": {
+  "chapter_id": 1002,
+  "costume_id": 103701,
+  "id": 1002001,
+  "mode": 0,
+  "number": 1,
+  "open_type": 1,
+  "sub_title": "神社で迎えた朝。霊夢と掃除を始めると？",
+  "title": "第1節　すべてが幻想になる",
+  "unit_speech_group_id": 22
+ },
+ "1002002": {
+  "chapter_id": 1002,
+  "costume_id": 100202,
+  "id": 1002002,
+  "mode": 0,
+  "number": 2,
+  "open_type": 1,
+  "sub_title": "赤い封結晶のせいで訪れたのは、謎の島！？",
+  "title": "第2節　絶海島の不思議",
+  "unit_speech_group_id": 23
+ },
+ "1002003": {
+  "chapter_id": 1002,
+  "costume_id": 106902,
+  "id": 1002003,
+  "mode": 0,
+  "number": 3,
+  "open_type": 1,
+  "sub_title": "水を確保するため、一行は島の探索を開始！",
+  "title": "第3節　こごえるしま",
+  "unit_speech_group_id": 24
+ },
+ "1002004": {
+  "chapter_id": 1002,
+  "costume_id": 102502,
+  "id": 1002004,
+  "mode": 0,
+  "number": 4,
+  "open_type": 1,
+  "sub_title": "失われた言葉とは。島の最後の住民、現る！",
+  "title": "第4節　妖怪の如き忌むもの",
+  "unit_speech_group_id": 25
+ },
+ "1002005": {
+  "chapter_id": 1002,
+  "costume_id": 100902,
+  "id": 1002005,
+  "mode": 0,
+  "number": 5,
+  "open_type": 1,
+  "sub_title": "奔走する一行。ロストワード異変、解決か？",
+  "title": "第5節　そして誰も……？",
+  "unit_speech_group_id": 26
+ },
+ "1002101": {
+  "chapter_id": 1002,
+  "costume_id": 101501,
+  "id": 1002101,
+  "mode": 1,
+  "number": 1,
+  "open_type": 1,
+  "sub_title": "朦朧とする意識の中、目を覚ますと……？",
+  "title": "EX1　ふたりきりの宇宙戦争",
+  "unit_speech_group_id": 47
+ },
+ "1003001": {
+  "chapter_id": 1003,
+  "costume_id": 100201,
+  "id": 1003001,
+  "mode": 0,
+  "number": 1,
+  "open_type": 1,
+  "sub_title": "博麗神社で迎える朝。そこへ一部の新聞が！",
+  "title": "第1節　うしろのしょうめん",
+  "unit_speech_group_id": 38
+ },
+ "1003002": {
+  "chapter_id": 1003,
+  "costume_id": 100401,
+  "id": 1003002,
+  "mode": 0,
+  "number": 2,
+  "open_type": 1,
+  "sub_title": "再び現れた赤い封結晶。吸い込まれた先は？",
+  "title": "第2節　ダンタリオンの眷属",
+  "unit_speech_group_id": 39
+ },
+ "1003003": {
+  "chapter_id": 1003,
+  "costume_id": 100801,
+  "id": 1003003,
+  "mode": 0,
+  "number": 3,
+  "open_type": 1,
+  "sub_title": "図書館でさまよう一行。パチュリーはどこ？",
+  "title": "第3節　居候さんは動かない",
+  "unit_speech_group_id": 40
+ },
+ "1003004": {
+  "chapter_id": 1003,
+  "costume_id": 100601,
+  "id": 1003004,
+  "mode": 0,
+  "number": 4,
+  "open_type": 1,
+  "sub_title": "図書館エリアを抜けて着いたのは……森！？",
+  "title": "第4節　メイド・イン・サービス",
+  "unit_speech_group_id": 41
+ },
+ "1004001": {
+  "chapter_id": 1004,
+  "costume_id": 100501,
+  "id": 1004001,
+  "mode": 0,
+  "number": 1,
+  "open_type": 1,
+  "sub_title": "昇降機で上層へ。そこで待っていたのは？",
+  "title": "第5節　眠れる龍",
+  "unit_speech_group_id": 54
+ },
+ "1004002": {
+  "chapter_id": 1004,
+  "costume_id": 100701,
+  "id": 1004002,
+  "mode": 0,
+  "number": 2,
+  "open_type": 1,
+  "sub_title": "ついに現れた紅夢の魔女。しかしその姿は？",
+  "title": "第6節　名もなき紅夢の魔女",
+  "unit_speech_group_id": 55
+ },
+ "1004003": {
+  "chapter_id": 1004,
+  "costume_id": 100201,
+  "id": 1004003,
+  "mode": 0,
+  "number": 3,
+  "open_type": 1,
+  "sub_title": "爆発四散した月。霊夢たちの運命や如何に！",
+  "title": "第7節　異世界巫女、帰還する",
+  "unit_speech_group_id": 56
+ },
+ "2001000": {
+  "chapter_id": 2001,
+  "costume_id": 100201,
+  "id": 2001000,
+  "mode": 0,
+  "number": 1,
+  "open_type": 0,
+  "sub_title": " ",
+  "title": "半人半霊の一日メイド",
+  "unit_speech_group_id": 2
+ },
+ "2002000": {
+  "chapter_id": 2002,
+  "costume_id": 104001,
+  "id": 2002000,
+  "mode": 0,
+  "number": 1,
+  "open_type": 0,
+  "sub_title": " ",
+  "title": "玉兎VS河童！大サバゲー祭り",
+  "unit_speech_group_id": 36
+ },
+ "2003000": {
+  "chapter_id": 2003,
+  "costume_id": 102901,
+  "id": 2003000,
+  "mode": 0,
+  "number": 1,
+  "open_type": 0,
+  "sub_title": " ",
+  "title": "本居小鈴の事件簿",
+  "unit_speech_group_id": 43
+ }
+}

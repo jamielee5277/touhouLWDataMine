@@ -1,0 +1,57 @@
+{
+ "0": {
+  "expansion_rank": 0,
+  "id": 1,
+  "unit_count": 100
+ },
+ "1": {
+  "expansion_rank": 1,
+  "id": 2,
+  "unit_count": 110
+ },
+ "2": {
+  "expansion_rank": 2,
+  "id": 3,
+  "unit_count": 120
+ },
+ "3": {
+  "expansion_rank": 3,
+  "id": 4,
+  "unit_count": 130
+ },
+ "4": {
+  "expansion_rank": 4,
+  "id": 5,
+  "unit_count": 140
+ },
+ "5": {
+  "expansion_rank": 5,
+  "id": 6,
+  "unit_count": 150
+ },
+ "6": {
+  "expansion_rank": 6,
+  "id": 7,
+  "unit_count": 160
+ },
+ "7": {
+  "expansion_rank": 7,
+  "id": 8,
+  "unit_count": 170
+ },
+ "8": {
+  "expansion_rank": 8,
+  "id": 9,
+  "unit_count": 180
+ },
+ "9": {
+  "expansion_rank": 9,
+  "id": 10,
+  "unit_count": 190
+ },
+ "10": {
+  "expansion_rank": 10,
+  "id": 11,
+  "unit_count": 200
+ }
+}

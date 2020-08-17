@@ -1,0 +1,12 @@
+{
+ "0": {
+  "deperture_max": 2,
+  "deperture_rank": 0,
+  "id": 1
+ },
+ "1": {
+  "deperture_max": 3,
+  "deperture_rank": 1,
+  "id": 2
+ }
+}

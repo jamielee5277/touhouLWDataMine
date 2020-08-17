@@ -1,0 +1,107 @@
+{
+ "200011": {
+  "battle_id": 200011,
+  "daily_quest_id": 20001,
+  "id": 200011,
+  "open_level": 0,
+  "title": "指南書さがし1・小悪魔級"
+ },
+ "200012": {
+  "battle_id": 200012,
+  "daily_quest_id": 20001,
+  "id": 200012,
+  "open_level": 10,
+  "title": "指南書さがし2・門番級"
+ },
+ "200013": {
+  "battle_id": 200013,
+  "daily_quest_id": 20001,
+  "id": 200013,
+  "open_level": 20,
+  "title": "指南書さがし3・メイド長級"
+ },
+ "200014": {
+  "battle_id": 200014,
+  "daily_quest_id": 20001,
+  "id": 200014,
+  "open_level": 35,
+  "title": "指南書さがし4・吸血鬼級"
+ },
+ "200015": {
+  "battle_id": 200015,
+  "daily_quest_id": 20001,
+  "id": 200015,
+  "open_level": 50,
+  "title": "指南書さがし5・大図書館級"
+ },
+ "200021": {
+  "battle_id": 200021,
+  "daily_quest_id": 20002,
+  "id": 200021,
+  "open_level": 0,
+  "title": "華片さがし1・ナメコ級"
+ },
+ "200022": {
+  "battle_id": 200022,
+  "daily_quest_id": 20002,
+  "id": 200022,
+  "open_level": 10,
+  "title": "華片さがし2・シイタケ級"
+ },
+ "200023": {
+  "battle_id": 200023,
+  "daily_quest_id": 20002,
+  "id": 200023,
+  "open_level": 20,
+  "title": "華片さがし3・シメジ級"
+ },
+ "200024": {
+  "battle_id": 200024,
+  "daily_quest_id": 20002,
+  "id": 200024,
+  "open_level": 35,
+  "title": "華片さがし4・マツタケ級"
+ },
+ "200025": {
+  "battle_id": 200025,
+  "daily_quest_id": 20002,
+  "id": 200025,
+  "open_level": 50,
+  "title": "華片さがし5・化け物茸級"
+ },
+ "200031": {
+  "battle_id": 200031,
+  "daily_quest_id": 20003,
+  "id": 200031,
+  "open_level": 0,
+  "title": "巻物さがし1・たけのこ級"
+ },
+ "200032": {
+  "battle_id": 200032,
+  "daily_quest_id": 20003,
+  "id": 200032,
+  "open_level": 10,
+  "title": "巻物さがし2・地上の兎級"
+ },
+ "200033": {
+  "battle_id": 200033,
+  "daily_quest_id": 20003,
+  "id": 200033,
+  "open_level": 20,
+  "title": "巻物さがし3・月の兎級"
+ },
+ "200034": {
+  "battle_id": 200034,
+  "daily_quest_id": 20003,
+  "id": 200034,
+  "open_level": 35,
+  "title": "巻物さがし4・月の賢者級"
+ },
+ "200035": {
+  "battle_id": 200035,
+  "daily_quest_id": 20003,
+  "id": 200035,
+  "open_level": 50,
+  "title": "巻物さがし5・月のお姫さま級"
+ }
+}

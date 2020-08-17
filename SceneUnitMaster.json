@@ -1,0 +1,72 @@
+{
+ "1": {
+  "id": 1,
+  "unit_position_id": 10010105,
+  "unit_speech_group_id": 1
+ },
+ "2": {
+  "id": 2,
+  "unit_position_id": 10290105,
+  "unit_speech_group_id": 43
+ },
+ "3": {
+  "id": 3,
+  "unit_position_id": 10300100,
+  "unit_speech_group_id": 3
+ },
+ "4": {
+  "id": 4,
+  "unit_position_id": 10250100,
+  "unit_speech_group_id": 4
+ },
+ "5": {
+  "id": 5,
+  "unit_position_id": 10400100,
+  "unit_speech_group_id": 5
+ },
+ "6": {
+  "id": 6,
+  "unit_position_id": 10370100,
+  "unit_speech_group_id": 6
+ },
+ "7": {
+  "id": 7,
+  "unit_position_id": 10260100,
+  "unit_speech_group_id": 7
+ },
+ "10": {
+  "id": 10,
+  "unit_position_id": 10310105,
+  "unit_speech_group_id": 8
+ },
+ "11": {
+  "id": 11,
+  "unit_position_id": 10340105,
+  "unit_speech_group_id": 9
+ },
+ "12": {
+  "id": 12,
+  "unit_position_id": 10330105,
+  "unit_speech_group_id": 10
+ },
+ "13": {
+  "id": 13,
+  "unit_position_id": 10350105,
+  "unit_speech_group_id": 11
+ },
+ "14": {
+  "id": 14,
+  "unit_position_id": 10340105,
+  "unit_speech_group_id": 12
+ },
+ "15": {
+  "id": 15,
+  "unit_position_id": 10330105,
+  "unit_speech_group_id": 13
+ },
+ "16": {
+  "id": 16,
+  "unit_position_id": 10350105,
+  "unit_speech_group_id": 14
+ }
+}

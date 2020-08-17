@@ -1,0 +1,227 @@
+{
+ "101": {
+  "icon_filename": "skill_icon_yang_atk_up",
+  "id": 101,
+  "name": "陽攻アップ"
+ },
+ "102": {
+  "icon_filename": "skill_icon_yang_def_up",
+  "id": 102,
+  "name": "陽防アップ"
+ },
+ "103": {
+  "icon_filename": "skill_icon_yin_atk_up",
+  "id": 103,
+  "name": "陰攻アップ"
+ },
+ "104": {
+  "icon_filename": "skill_icon_yin_def_up",
+  "id": 104,
+  "name": "陰防アップ"
+ },
+ "105": {
+  "icon_filename": "skill_icon_speed_up",
+  "id": 105,
+  "name": "速力アップ"
+ },
+ "106": {
+  "icon_filename": "skill_icon_hit_up",
+  "id": 106,
+  "name": "命中アップ"
+ },
+ "107": {
+  "icon_filename": "skill_icon_dodge_up",
+  "id": 107,
+  "name": "回避アップ"
+ },
+ "108": {
+  "icon_filename": "skill_icon_cri_atk_up",
+  "id": 108,
+  "name": "CRI攻撃アップ"
+ },
+ "109": {
+  "icon_filename": "skill_icon_cri_def_up",
+  "id": 109,
+  "name": "CRI防御アップ"
+ },
+ "110": {
+  "icon_filename": "skill_icon_cri_hit_up",
+  "id": 110,
+  "name": "CRI命中アップ"
+ },
+ "111": {
+  "icon_filename": "skill_icon_cri_dodge_up",
+  "id": 111,
+  "name": "CRI回避アップ"
+ },
+ "112": {
+  "icon_filename": "skill_icon_attract_up",
+  "id": 112,
+  "name": "注目アップ"
+ },
+ "201": {
+  "icon_filename": "skill_icon_yang_atk_down",
+  "id": 201,
+  "name": "陽攻ダウン"
+ },
+ "202": {
+  "icon_filename": "skill_icon_yang_def_down",
+  "id": 202,
+  "name": "陽防ダウン"
+ },
+ "203": {
+  "icon_filename": "skill_icon_yin_atk_down",
+  "id": 203,
+  "name": "陰攻ダウン"
+ },
+ "204": {
+  "icon_filename": "skill_icon_yin_def_down",
+  "id": 204,
+  "name": "陰防ダウン"
+ },
+ "205": {
+  "icon_filename": "skill_icon_speed_down",
+  "id": 205,
+  "name": "速力ダウン"
+ },
+ "206": {
+  "icon_filename": "skill_icon_hit_down",
+  "id": 206,
+  "name": "命中ダウン"
+ },
+ "207": {
+  "icon_filename": "skill_icon_dodge_down",
+  "id": 207,
+  "name": "回避ダウン"
+ },
+ "208": {
+  "icon_filename": "skill_icon_cri_atk_down",
+  "id": 208,
+  "name": "CRI攻撃ダウン"
+ },
+ "209": {
+  "icon_filename": "skill_icon_cri_def_down",
+  "id": 209,
+  "name": "CRI防御ダウン"
+ },
+ "210": {
+  "icon_filename": "skill_icon_cri_hit_down",
+  "id": 210,
+  "name": "CRI命中ダウン"
+ },
+ "211": {
+  "icon_filename": "skill_icon_cri_dodge_down",
+  "id": 211,
+  "name": "CRI回避ダウン"
+ },
+ "212": {
+  "icon_filename": "skill_icon_attract_down",
+  "id": 212,
+  "name": "注目ダウン"
+ },
+ "300": {
+  "icon_filename": "skill_icon_heal",
+  "id": 300,
+  "name": "体力回復"
+ },
+ "400": {
+  "icon_filename": "skill_icon_barrier_plus",
+  "id": 400,
+  "name": "結界増加"
+ },
+ "500": {
+  "icon_filename": "skill_icon_sprit_powerup",
+  "id": 500,
+  "name": "霊力上昇"
+ },
+ "601": {
+  "icon_filename": "skill_icon_barrier_burn",
+  "id": 601,
+  "name": "結界異常「燃焼」"
+ },
+ "602": {
+  "icon_filename": "skill_icon_barrier_frostbite",
+  "id": 602,
+  "name": "結界異常「凍結」"
+ },
+ "603": {
+  "icon_filename": "skill_icon_barrier_electricshock",
+  "id": 603,
+  "name": "結界異常「帯電」"
+ },
+ "604": {
+  "icon_filename": "skill_icon_barrier_poison",
+  "id": 604,
+  "name": "結界異常「毒霧」"
+ },
+ "605": {
+  "icon_filename": "skill_icon_barrier_blind",
+  "id": 605,
+  "name": "結界異常「暗闇」"
+ },
+ "801": {
+  "icon_filename": "skill_icon_fast",
+  "id": 801,
+  "name": "ファスト"
+ },
+ "802": {
+  "icon_filename": "skill_icon_sprit_charge",
+  "id": 802,
+  "name": "チャージ"
+ },
+ "900": {
+  "icon_filename": "skill_icon_cleen_barrier",
+  "id": 900,
+  "name": "結界異常回復"
+ },
+ "1200": {
+  "icon_filename": "skill_icon_resist_bullet",
+  "id": 1200,
+  "name": "弾種特防"
+ },
+ "1301": {
+  "icon_filename": "skill_icon_resist_type1",
+  "id": 1301,
+  "name": "日属性特防"
+ },
+ "1302": {
+  "icon_filename": "skill_icon_resist_type2",
+  "id": 1302,
+  "name": "月属性特防"
+ },
+ "1303": {
+  "icon_filename": "skill_icon_resist_type3",
+  "id": 1303,
+  "name": "火属性特防"
+ },
+ "1304": {
+  "icon_filename": "skill_icon_resist_type4",
+  "id": 1304,
+  "name": "水属性特防"
+ },
+ "1305": {
+  "icon_filename": "skill_icon_resist_type5",
+  "id": 1305,
+  "name": "木属性特防"
+ },
+ "1306": {
+  "icon_filename": "skill_icon_resist_type6",
+  "id": 1306,
+  "name": "金属性特防"
+ },
+ "1307": {
+  "icon_filename": "skill_icon_resist_type7",
+  "id": 1307,
+  "name": "土属性特防"
+ },
+ "1308": {
+  "icon_filename": "skill_icon_resist_type8",
+  "id": 1308,
+  "name": "星属性特防"
+ },
+ "1400": {
+  "icon_filename": "skill_icon_resist_tribe",
+  "id": 1400,
+  "name": "種族特防"
+ }
+}

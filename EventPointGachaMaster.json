@@ -1,0 +1,182 @@
+{
+ "4294968336": {
+  "consume_point": 50,
+  "drop_group": 104012,
+  "event_id": 1040,
+  "id": 104001,
+  "step_number": 1,
+  "target_reward_drop_group": 104011,
+  "total_drop_value": 750
+ },
+ "8589935632": {
+  "consume_point": 50,
+  "drop_group": 104022,
+  "event_id": 1040,
+  "id": 104002,
+  "step_number": 2,
+  "target_reward_drop_group": 104021,
+  "total_drop_value": 750
+ },
+ "12884902928": {
+  "consume_point": 50,
+  "drop_group": 104032,
+  "event_id": 1040,
+  "id": 104003,
+  "step_number": 3,
+  "target_reward_drop_group": 104031,
+  "total_drop_value": 750
+ },
+ "17179870224": {
+  "consume_point": 50,
+  "drop_group": 104042,
+  "event_id": 1040,
+  "id": 104004,
+  "step_number": 4,
+  "target_reward_drop_group": 104041,
+  "total_drop_value": 750
+ },
+ "4294968386": {
+  "consume_point": 50,
+  "drop_group": 109012,
+  "event_id": 1090,
+  "id": 109001,
+  "step_number": 1,
+  "target_reward_drop_group": 109011,
+  "total_drop_value": 375
+ },
+ "8589935682": {
+  "consume_point": 50,
+  "drop_group": 109022,
+  "event_id": 1090,
+  "id": 109002,
+  "step_number": 2,
+  "target_reward_drop_group": 109021,
+  "total_drop_value": 375
+ },
+ "12884902978": {
+  "consume_point": 50,
+  "drop_group": 109032,
+  "event_id": 1090,
+  "id": 109003,
+  "step_number": 3,
+  "target_reward_drop_group": 109031,
+  "total_drop_value": 375
+ },
+ "17179870274": {
+  "consume_point": 50,
+  "drop_group": 109042,
+  "event_id": 1090,
+  "id": 109004,
+  "step_number": 4,
+  "target_reward_drop_group": 109041,
+  "total_drop_value": 375
+ },
+ "21474837570": {
+  "consume_point": 50,
+  "drop_group": 109052,
+  "event_id": 1090,
+  "id": 109005,
+  "step_number": 5,
+  "target_reward_drop_group": 109051,
+  "total_drop_value": 375
+ },
+ "25769804866": {
+  "consume_point": 50,
+  "drop_group": 109062,
+  "event_id": 1090,
+  "id": 109006,
+  "step_number": 6,
+  "target_reward_drop_group": 109061,
+  "total_drop_value": 375
+ },
+ "30064772162": {
+  "consume_point": 50,
+  "drop_group": 109072,
+  "event_id": 1090,
+  "id": 109007,
+  "step_number": 7,
+  "target_reward_drop_group": 109071,
+  "total_drop_value": 375
+ },
+ "34359739458": {
+  "consume_point": 50,
+  "drop_group": 109082,
+  "event_id": 1090,
+  "id": 109008,
+  "step_number": 8,
+  "target_reward_drop_group": 109081,
+  "total_drop_value": 375
+ },
+ "4294969366": {
+  "consume_point": 50,
+  "drop_group": 207012,
+  "event_id": 2070,
+  "id": 207001,
+  "step_number": 1,
+  "target_reward_drop_group": 207011,
+  "total_drop_value": 375
+ },
+ "8589936662": {
+  "consume_point": 50,
+  "drop_group": 207022,
+  "event_id": 2070,
+  "id": 207002,
+  "step_number": 2,
+  "target_reward_drop_group": 207021,
+  "total_drop_value": 375
+ },
+ "12884903958": {
+  "consume_point": 50,
+  "drop_group": 207032,
+  "event_id": 2070,
+  "id": 207003,
+  "step_number": 3,
+  "target_reward_drop_group": 207031,
+  "total_drop_value": 375
+ },
+ "17179871254": {
+  "consume_point": 50,
+  "drop_group": 207042,
+  "event_id": 2070,
+  "id": 207004,
+  "step_number": 4,
+  "target_reward_drop_group": 207041,
+  "total_drop_value": 375
+ },
+ "21474838550": {
+  "consume_point": 50,
+  "drop_group": 207052,
+  "event_id": 2070,
+  "id": 207005,
+  "step_number": 5,
+  "target_reward_drop_group": 207051,
+  "total_drop_value": 375
+ },
+ "25769805846": {
+  "consume_point": 50,
+  "drop_group": 207062,
+  "event_id": 2070,
+  "id": 207006,
+  "step_number": 6,
+  "target_reward_drop_group": 207061,
+  "total_drop_value": 375
+ },
+ "30064773142": {
+  "consume_point": 50,
+  "drop_group": 207072,
+  "event_id": 2070,
+  "id": 207007,
+  "step_number": 7,
+  "target_reward_drop_group": 207071,
+  "total_drop_value": 375
+ },
+ "34359740438": {
+  "consume_point": 50,
+  "drop_group": 207082,
+  "event_id": 2070,
+  "id": 207008,
+  "step_number": 8,
+  "target_reward_drop_group": 207081,
+  "total_drop_value": 375
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "0": {
+  "description": "【やる気：無理】\n今は、しっかり休んでもらおう。\n\n※探索で戦闘に出ると、信頼度が下がる\n※探索で戦闘に出ても、経験値があまり上がらない",
+  "exp_rate": 50,
+  "id": 1,
+  "motivation_rank": 0,
+  "motivation_upper_limit": 0
+ },
+ "1": {
+  "description": "【やる気：不調】\n少し休ませたほうがいいかも。",
+  "exp_rate": 100,
+  "id": 2,
+  "motivation_rank": 1,
+  "motivation_upper_limit": 29
+ },
+ "2": {
+  "description": "【やる気：好調】\n気分は上々、やる気十分だ。",
+  "exp_rate": 100,
+  "id": 3,
+  "motivation_rank": 2,
+  "motivation_upper_limit": 119
+ },
+ "3": {
+  "description": "【やる気：絶好調】\nいつもより調子がいい！\n\n※探索で戦闘に出ると、経験値をより多く得る",
+  "exp_rate": 120,
+  "id": 4,
+  "motivation_rank": 3,
+  "motivation_upper_limit": 150
+ }
+}

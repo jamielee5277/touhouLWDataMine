@@ -1,0 +1,590 @@
+{
+ "1001": {
+  "artist_name": "Foxtail-Grass Studio",
+  "id": 1001,
+  "name": "導きの調べ",
+  "original_name": "東方妖怪小町"
+ },
+ "1002": {
+  "artist_name": "Hachimitsu-Lemon",
+  "id": 1002,
+  "name": "木漏れ日の縁側",
+  "original_name": "神々が恋した幻想郷"
+ },
+ "1003": {
+  "artist_name": "豚乙女",
+  "id": 1003,
+  "name": "「あなたの居場所はここよ」",
+  "original_name": "未知の花 魅知の旅"
+ },
+ "1004": {
+  "artist_name": "豚乙女",
+  "id": 1004,
+  "name": "周回する秘密の花園",
+  "original_name": "宇宙に浮かぶ幻想郷"
+ },
+ "1005": {
+  "artist_name": "Hachimitsu-Lemon",
+  "id": 1005,
+  "name": "unbordered",
+  "original_name": "天鳥船神社"
+ },
+ "1006": {
+  "artist_name": "梶迫小道具店",
+  "id": 1006,
+  "name": "HORAKHTY",
+  "original_name": "夜のデンデラ野を逝く"
+ },
+ "1007": {
+  "artist_name": "Melodic Taste",
+  "id": 1007,
+  "name": "夜のデンデラ野を逝く",
+  "original_name": "夜のデンデラ野を逝く"
+ },
+ "1008": {
+  "artist_name": "Melodic Taste",
+  "id": 1008,
+  "name": "大空魔術",
+  "original_name": "大空魔術"
+ },
+ "1009": {
+  "artist_name": "荒御霊",
+  "id": 1009,
+  "name": "HADES",
+  "original_name": "少女秘封倶楽部"
+ },
+ "1010": {
+  "artist_name": "豚乙女",
+  "id": 1010,
+  "name": "星の向こうに",
+  "original_name": "未知の花 魅知の旅"
+ },
+ "1011": {
+  "artist_name": "Melodic Taste",
+  "id": 1011,
+  "name": "宵の隙間へ",
+  "original_name": "ネクロファンタジア"
+ },
+ "1012": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 1012,
+  "name": "Greenwich Debris",
+  "original_name": "天空のグリニッジ"
+ },
+ "1013": {
+  "artist_name": "梶迫小道具店",
+  "id": 1013,
+  "name": "α崩壊",
+  "original_name": "シュレディンガーの化猫"
+ },
+ "1014": {
+  "artist_name": "東京アクティブNEETs",
+  "id": 1014,
+  "name": "令・瞑コード零",
+  "original_name": "ほおずきみたいに紅い魂"
+ },
+ "1015": {
+  "artist_name": "豚乙女",
+  "id": 1015,
+  "name": "紅い姉妹ケーキと賢いモンブラン",
+  "original_name": "魔法少女達の百年祭"
+ },
+ "1016": {
+  "artist_name": "Melodic Taste",
+  "id": 1016,
+  "name": "epilogue",
+  "original_name": "紅楼　～ Eastern Dream..."
+ },
+ "1017": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 1017,
+  "name": "無何有何雪花",
+  "original_name": "無何有の郷　～ Deep Mountain"
+ },
+ "1018": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 1018,
+  "name": "Bakko Tone",
+  "original_name": "妖々跋扈　〜 Who done it?"
+ },
+ "1019": {
+  "artist_name": "Melodic Taste",
+  "id": 1019,
+  "name": "さくらさくら　～ Japanize Dream...",
+  "original_name": "さくらさくら　～ Japanize Dream..."
+ },
+ "1020": {
+  "artist_name": "オーライフジャパン",
+  "id": 1020,
+  "name": "ひとり肝試し",
+  "original_name": "幻視の夜　～ Ghostly Eyes"
+ },
+ "1021": {
+  "artist_name": "交響アクティブNEETs",
+  "id": 1021,
+  "name": "エクステンドアッシュ　～ 蓬莱人",
+  "original_name": "エクステンドアッシュ　～ 蓬莱人"
+ },
+ "1022": {
+  "artist_name": "豚乙女",
+  "id": 1022,
+  "name": "Tree of Life",
+  "original_name": "Eternal Dream　～ 幽玄の槭樹"
+ },
+ "2001": {
+  "artist_name": "Hachimitsu-Lemon",
+  "id": 2001,
+  "name": "幻想テレグノシス",
+  "original_name": "春色小径　～ Colorful Path"
+ },
+ "2002": {
+  "artist_name": "東京アクティブNEETs",
+  "id": 2002,
+  "name": "恋色マスタースパーク",
+  "original_name": "恋色マスタースパーク"
+ },
+ "2003": {
+  "artist_name": "Hachimitsu-Lemon",
+  "id": 2003,
+  "name": "神紅",
+  "original_name": "亡き王女の為のセプテット / ツェペシュの幼き末裔"
+ },
+ "2004": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 2004,
+  "name": "最終鬼畜妹フランドール・Ｓ",
+  "original_name": "U.N.オーエンは彼女なのか？"
+ },
+ "2005": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 2005,
+  "name": "ナイト・オブ・ナイツ",
+  "original_name": "フラワリングナイト"
+ },
+ "2006": {
+  "artist_name": "flap+frog",
+  "id": 2006,
+  "name": "Extratrack (Musicarus Jackin' Remix)",
+  "original_name": "ラクトガール　～ 少女密室"
+ },
+ "2007": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 2007,
+  "name": "明治十七年の夕暮れ",
+  "original_name": "明治十七年の上海アリス"
+ },
+ "2008": {
+  "artist_name": "flap+frog",
+  "id": 2008,
+  "name": "stepIllumination (Garage Refix by Musicarus )",
+  "original_name": "ヴワル魔法図書館"
+ },
+ "2009": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 2009,
+  "name": "弾・幕・決・壊",
+  "original_name": "ネクロファンタジア"
+ },
+ "2010": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 2010,
+  "name": "BORDER OF STRIKE!",
+  "original_name": "幽雅に咲かせ、墨染の桜　～ Border of Life"
+ },
+ "2011": {
+  "artist_name": "オーライフジャパン",
+  "id": 2011,
+  "name": "無賃庭師",
+  "original_name": "広有射怪鳥事　～ Till When?"
+ },
+ "2012": {
+  "artist_name": "Foxtail-Grass Studio",
+  "id": 2012,
+  "name": "せせらぎの誘う道",
+  "original_name": "天空の花の都"
+ },
+ "2013": {
+  "artist_name": "Melodic Taste",
+  "id": 2013,
+  "name": "藍式舞曲",
+  "original_name": "妖々跋扈"
+ },
+ "2014": {
+  "artist_name": "オーライフジャパン",
+  "id": 2014,
+  "name": "トラブル黒猫漫遊記",
+  "original_name": "ティアオイエツォン (withered leaf)"
+ },
+ "2015": {
+  "artist_name": "オーライフジャパン",
+  "id": 2015,
+  "name": "狂気の瞳でメタルっぽい何か",
+  "original_name": "狂気の瞳　～ Invisible Full Moon"
+ },
+ "2016": {
+  "artist_name": "オーライフジャパン",
+  "id": 2016,
+  "name": "God Slash",
+  "original_name": "綿月のスペルカード ～Lunatic Blue"
+ },
+ "2017": {
+  "artist_name": "豚乙女",
+  "id": 2017,
+  "name": "壺中の銀河",
+  "original_name": "千年幻想郷　～ History of the Moon"
+ },
+ "2018": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 2018,
+  "name": "Help me, ERINNNNNN!!",
+  "original_name": "竹取飛翔　～ Lunatic Princess"
+ },
+ "2019": {
+  "artist_name": "オーライフジャパン",
+  "id": 2019,
+  "name": "モンペガーディアン",
+  "original_name": "月まで届け、不死の煙"
+ },
+ "2020": {
+  "artist_name": "オーライフジャパン",
+  "id": 2020,
+  "name": "兎が舞い降りたのでメタルっぽい何か",
+  "original_name": "兎は舞い降りた"
+ },
+ "2021": {
+  "artist_name": "オーライフジャパン",
+  "id": 2021,
+  "name": "懐旧ステップ",
+  "original_name": "九月のパンプキン"
+ },
+ "2022": {
+  "artist_name": "東京アクティブNEETs",
+  "id": 2022,
+  "name": "紅月ノ摩天楼",
+  "original_name": "感情の摩天楼　～ Cosmic Mind"
+ },
+ "2023": {
+  "artist_name": "flap+frog",
+  "id": 2023,
+  "name": "La Belle au bois dormant",
+  "original_name": "華狭間のバトルフィールド"
+ },
+ "2024": {
+  "artist_name": "荒御霊",
+  "id": 2024,
+  "name": "硯音",
+  "original_name": "判読眼のビブロフィリア"
+ },
+ "2025": {
+  "artist_name": "Melodic Taste",
+  "id": 2025,
+  "name": "月の妖鳥、化猫の幻",
+  "original_name": "月の妖鳥、化猫の幻"
+ },
+ "2026": {
+  "artist_name": "豚乙女",
+  "id": 2026,
+  "name": "冬中哀歌×郷愁",
+  "original_name": "ジャパニーズサーガ / 懐かしき東方の血　～ Old World"
+ },
+ "2027": {
+  "artist_name": "交響アクティブNEETs",
+  "id": 2027,
+  "name": "ルーネイトエルフ",
+  "original_name": "ルーネイトエルフ"
+ },
+ "2028": {
+  "artist_name": "東京アクティブNEETs",
+  "id": 2028,
+  "name": "湖畔夏風邪隊",
+  "original_name": "おてんば恋娘"
+ },
+ "2029": {
+  "artist_name": "Foxtail-Grass Studio",
+  "id": 2029,
+  "name": "アイリス",
+  "original_name": "人形裁判　～ 人の形弄びし少女"
+ },
+ "2030": {
+  "artist_name": "豚乙女",
+  "id": 2030,
+  "name": "夜に降るホワイトメリークリスマス",
+  "original_name": "サニールチルフレクション"
+ },
+ "2031": {
+  "artist_name": "豚乙女",
+  "id": 2031,
+  "name": "ナルコレプシーの見る夢",
+  "original_name": "夜だから眠れない"
+ },
+ "2032": {
+  "artist_name": "豚乙女",
+  "id": 2032,
+  "name": "明けてゆく",
+  "original_name": "妖精燦々として"
+ },
+ "2033": {
+  "artist_name": "豚乙女",
+  "id": 2033,
+  "name": "Inncent War",
+  "original_name": "妖精大戦争　～ Fairy Wars"
+ },
+ "2034": {
+  "artist_name": "豚乙女",
+  "id": 2034,
+  "name": "人形がひとつ、増える",
+  "original_name": "ポイズンボディ　～ Forsaken Doll"
+ },
+ "2035": {
+  "artist_name": "Melodic Taste",
+  "id": 2035,
+  "name": "早苗様が許してくれないから",
+  "original_name": "信仰は儚き人間の為に"
+ },
+ "2036": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 2036,
+  "name": "僕だけが揺らしたオッパシラ",
+  "original_name": "神さびた古戦場　～ Suwa Foughten Field"
+ },
+ "2037": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 2037,
+  "name": "ラスボッスン",
+  "original_name": "ネイティブフェイス"
+ },
+ "2038": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 2038,
+  "name": "カッパドキドキ",
+  "original_name": "芥川龍之介の河童　～ Candid Friend"
+ },
+ "3001": {
+  "artist_name": "Hachimitsu-Lemon",
+  "id": 3001,
+  "name": "幻想テレグノシス",
+  "original_name": "春色小径　～ Colorful Path"
+ },
+ "3002": {
+  "artist_name": "東京アクティブNEETs",
+  "id": 3002,
+  "name": "恋色マスタースパーク",
+  "original_name": "恋色マスタースパーク"
+ },
+ "3003": {
+  "artist_name": "Hachimitsu-Lemon",
+  "id": 3003,
+  "name": "神紅",
+  "original_name": "亡き王女の為のセプテット / ツェペシュの幼き末裔"
+ },
+ "3004": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 3004,
+  "name": "最終鬼畜妹フランドール・Ｓ",
+  "original_name": "U.N.オーエンは彼女なのか？"
+ },
+ "3005": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 3005,
+  "name": "ナイト・オブ・ナイツ",
+  "original_name": "フラワリングナイト"
+ },
+ "3006": {
+  "artist_name": "flap+frog",
+  "id": 3006,
+  "name": "Extratrack (Musicarus Jackin' Remix)",
+  "original_name": "ラクトガール　～ 少女密室"
+ },
+ "3007": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 3007,
+  "name": "明治十七年の夕暮れ",
+  "original_name": "明治十七年の上海アリス"
+ },
+ "3008": {
+  "artist_name": "flap+frog",
+  "id": 3008,
+  "name": "stepIllumination (Garage Refix by Musicarus )",
+  "original_name": "ヴワル魔法図書館"
+ },
+ "3009": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 3009,
+  "name": "弾・幕・決・壊",
+  "original_name": "ネクロファンタジア"
+ },
+ "3010": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 3010,
+  "name": "BORDER OF STRIKE!",
+  "original_name": "幽雅に咲かせ、墨染の桜　～ Border of Life"
+ },
+ "3011": {
+  "artist_name": "オーライフジャパン",
+  "id": 3011,
+  "name": "無賃庭師",
+  "original_name": "広有射怪鳥事　～ Till When?"
+ },
+ "3012": {
+  "artist_name": "Foxtail-Grass Studio",
+  "id": 3012,
+  "name": "せせらぎの誘う道",
+  "original_name": "天空の花の都"
+ },
+ "3013": {
+  "artist_name": "Melodic Taste",
+  "id": 3013,
+  "name": "藍式舞曲",
+  "original_name": "妖々跋扈"
+ },
+ "3014": {
+  "artist_name": "オーライフジャパン",
+  "id": 3014,
+  "name": "トラブル黒猫漫遊記",
+  "original_name": "ティアオイエツォン (withered leaf)"
+ },
+ "3015": {
+  "artist_name": "オーライフジャパン",
+  "id": 3015,
+  "name": "狂気の瞳でメタルっぽい何か",
+  "original_name": "狂気の瞳　～ Invisible Full Moon"
+ },
+ "3016": {
+  "artist_name": "オーライフジャパン",
+  "id": 3016,
+  "name": "God Slash",
+  "original_name": "綿月のスペルカード ～Lunatic Blue"
+ },
+ "3017": {
+  "artist_name": "豚乙女",
+  "id": 3017,
+  "name": "壺中の銀河",
+  "original_name": "千年幻想郷　～ History of the Moon"
+ },
+ "3018": {
+  "artist_name": "ビートまりお(COOL&CREATE)",
+  "id": 3018,
+  "name": "Help me, ERINNNNNN!!",
+  "original_name": "竹取飛翔　～ Lunatic Princess"
+ },
+ "3019": {
+  "artist_name": "オーライフジャパン",
+  "id": 3019,
+  "name": "モンペガーディアン",
+  "original_name": "月まで届け、不死の煙"
+ },
+ "3020": {
+  "artist_name": "オーライフジャパン",
+  "id": 3020,
+  "name": "兎が舞い降りたのでメタルっぽい何か",
+  "original_name": "兎は舞い降りた"
+ },
+ "3021": {
+  "artist_name": "オーライフジャパン",
+  "id": 3021,
+  "name": "懐旧ステップ",
+  "original_name": "九月のパンプキン"
+ },
+ "3022": {
+  "artist_name": "東京アクティブNEETs",
+  "id": 3022,
+  "name": "紅月ノ摩天楼",
+  "original_name": "感情の摩天楼　～ Cosmic Mind"
+ },
+ "3023": {
+  "artist_name": "flap+frog",
+  "id": 3023,
+  "name": "La Belle au bois dormant",
+  "original_name": "華狭間のバトルフィールド"
+ },
+ "3024": {
+  "artist_name": "荒御霊",
+  "id": 3024,
+  "name": "硯音",
+  "original_name": "判読眼のビブロフィリア"
+ },
+ "3025": {
+  "artist_name": "Melodic Taste",
+  "id": 3025,
+  "name": "月の妖鳥、化猫の幻",
+  "original_name": "月の妖鳥、化猫の幻"
+ },
+ "3026": {
+  "artist_name": "豚乙女",
+  "id": 3026,
+  "name": "冬中哀歌×郷愁",
+  "original_name": "ジャパニーズサーガ / 懐かしき東方の血　～ Old World"
+ },
+ "3027": {
+  "artist_name": "交響アクティブNEETs",
+  "id": 3027,
+  "name": "ルーネイトエルフ",
+  "original_name": "ルーネイトエルフ"
+ },
+ "3028": {
+  "artist_name": "東京アクティブNEETs",
+  "id": 3028,
+  "name": "湖畔夏風邪隊",
+  "original_name": "おてんば恋娘"
+ },
+ "3029": {
+  "artist_name": "Foxtail-Grass Studio",
+  "id": 3029,
+  "name": "アイリス",
+  "original_name": "人形裁判　～ 人の形弄びし少女"
+ },
+ "3030": {
+  "artist_name": "豚乙女",
+  "id": 3030,
+  "name": "夜に降るホワイトメリークリスマス",
+  "original_name": "サニールチルフレクション"
+ },
+ "3031": {
+  "artist_name": "豚乙女",
+  "id": 3031,
+  "name": "ナルコレプシーの見る夢",
+  "original_name": "夜だから眠れない"
+ },
+ "3032": {
+  "artist_name": "豚乙女",
+  "id": 3032,
+  "name": "明けてゆく",
+  "original_name": "妖精燦々として"
+ },
+ "3033": {
+  "artist_name": "豚乙女",
+  "id": 3033,
+  "name": "Inncent War",
+  "original_name": "妖精大戦争　～ Fairy Wars"
+ },
+ "3034": {
+  "artist_name": "豚乙女",
+  "id": 3034,
+  "name": "人形がひとつ、増える",
+  "original_name": "ポイズンボディ　～ Forsaken Doll"
+ },
+ "3035": {
+  "artist_name": "Melodic Taste",
+  "id": 3035,
+  "name": "早苗様が許してくれないから",
+  "original_name": "信仰は儚き人間の為に"
+ },
+ "3036": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 3036,
+  "name": "僕だけが揺らしたオッパシラ",
+  "original_name": "神さびた古戦場　～ Suwa Foughten Field"
+ },
+ "3037": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 3037,
+  "name": "ラスボッスン",
+  "original_name": "ネイティブフェイス"
+ },
+ "3038": {
+  "artist_name": "ジュクチョー(COOL&CREATE)",
+  "id": 3038,
+  "name": "カッパドキドキ",
+  "original_name": "芥川龍之介の河童　～ Candid Friend"
+ }
+}

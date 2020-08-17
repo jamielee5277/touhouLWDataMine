@@ -1,0 +1,26 @@
+{
+ "0": {
+  "consume_orb": 0,
+  "expansion_rank": 0,
+  "id": 1,
+  "slot_count": 2
+ },
+ "1": {
+  "consume_orb": 120,
+  "expansion_rank": 1,
+  "id": 2,
+  "slot_count": 3
+ },
+ "2": {
+  "consume_orb": 200,
+  "expansion_rank": 2,
+  "id": 3,
+  "slot_count": 4
+ },
+ "3": {
+  "consume_orb": 320,
+  "expansion_rank": 3,
+  "id": 4,
+  "slot_count": 5
+ }
+}

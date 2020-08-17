@@ -1,0 +1,2102 @@
+{
+ "1": {
+  "exp": 0,
+  "gold_max": 6000,
+  "id": 1,
+  "level": 1,
+  "phantasm_point_max": 1000
+ },
+ "2": {
+  "exp": 20,
+  "gold_max": 6600,
+  "id": 2,
+  "level": 2,
+  "phantasm_point_max": 1100
+ },
+ "3": {
+  "exp": 40,
+  "gold_max": 7200,
+  "id": 3,
+  "level": 3,
+  "phantasm_point_max": 1200
+ },
+ "4": {
+  "exp": 60,
+  "gold_max": 7800,
+  "id": 4,
+  "level": 4,
+  "phantasm_point_max": 1300
+ },
+ "5": {
+  "exp": 80,
+  "gold_max": 8400,
+  "id": 5,
+  "level": 5,
+  "phantasm_point_max": 1400
+ },
+ "6": {
+  "exp": 100,
+  "gold_max": 9000,
+  "id": 6,
+  "level": 6,
+  "phantasm_point_max": 1500
+ },
+ "7": {
+  "exp": 120,
+  "gold_max": 9600,
+  "id": 7,
+  "level": 7,
+  "phantasm_point_max": 1600
+ },
+ "8": {
+  "exp": 140,
+  "gold_max": 10200,
+  "id": 8,
+  "level": 8,
+  "phantasm_point_max": 1700
+ },
+ "9": {
+  "exp": 160,
+  "gold_max": 10800,
+  "id": 9,
+  "level": 9,
+  "phantasm_point_max": 1800
+ },
+ "10": {
+  "exp": 180,
+  "gold_max": 11400,
+  "id": 10,
+  "level": 10,
+  "phantasm_point_max": 1900
+ },
+ "11": {
+  "exp": 200,
+  "gold_max": 12000,
+  "id": 11,
+  "level": 11,
+  "phantasm_point_max": 2000
+ },
+ "12": {
+  "exp": 220,
+  "gold_max": 12600,
+  "id": 12,
+  "level": 12,
+  "phantasm_point_max": 2100
+ },
+ "13": {
+  "exp": 240,
+  "gold_max": 13200,
+  "id": 13,
+  "level": 13,
+  "phantasm_point_max": 2200
+ },
+ "14": {
+  "exp": 260,
+  "gold_max": 13800,
+  "id": 14,
+  "level": 14,
+  "phantasm_point_max": 2300
+ },
+ "15": {
+  "exp": 280,
+  "gold_max": 14400,
+  "id": 15,
+  "level": 15,
+  "phantasm_point_max": 2400
+ },
+ "16": {
+  "exp": 300,
+  "gold_max": 15000,
+  "id": 16,
+  "level": 16,
+  "phantasm_point_max": 2500
+ },
+ "17": {
+  "exp": 420,
+  "gold_max": 15600,
+  "id": 17,
+  "level": 17,
+  "phantasm_point_max": 2600
+ },
+ "18": {
+  "exp": 640,
+  "gold_max": 16200,
+  "id": 18,
+  "level": 18,
+  "phantasm_point_max": 2700
+ },
+ "19": {
+  "exp": 960,
+  "gold_max": 16800,
+  "id": 19,
+  "level": 19,
+  "phantasm_point_max": 2800
+ },
+ "20": {
+  "exp": 1380,
+  "gold_max": 17400,
+  "id": 20,
+  "level": 20,
+  "phantasm_point_max": 2900
+ },
+ "21": {
+  "exp": 1900,
+  "gold_max": 18000,
+  "id": 21,
+  "level": 21,
+  "phantasm_point_max": 3000
+ },
+ "22": {
+  "exp": 2540,
+  "gold_max": 18600,
+  "id": 22,
+  "level": 22,
+  "phantasm_point_max": 3100
+ },
+ "23": {
+  "exp": 3300,
+  "gold_max": 19200,
+  "id": 23,
+  "level": 23,
+  "phantasm_point_max": 3200
+ },
+ "24": {
+  "exp": 4180,
+  "gold_max": 19800,
+  "id": 24,
+  "level": 24,
+  "phantasm_point_max": 3300
+ },
+ "25": {
+  "exp": 5180,
+  "gold_max": 20400,
+  "id": 25,
+  "level": 25,
+  "phantasm_point_max": 3400
+ },
+ "26": {
+  "exp": 6300,
+  "gold_max": 21000,
+  "id": 26,
+  "level": 26,
+  "phantasm_point_max": 3500
+ },
+ "27": {
+  "exp": 7540,
+  "gold_max": 21600,
+  "id": 27,
+  "level": 27,
+  "phantasm_point_max": 3600
+ },
+ "28": {
+  "exp": 8900,
+  "gold_max": 22200,
+  "id": 28,
+  "level": 28,
+  "phantasm_point_max": 3700
+ },
+ "29": {
+  "exp": 10380,
+  "gold_max": 22800,
+  "id": 29,
+  "level": 29,
+  "phantasm_point_max": 3800
+ },
+ "30": {
+  "exp": 11980,
+  "gold_max": 23400,
+  "id": 30,
+  "level": 30,
+  "phantasm_point_max": 3900
+ },
+ "31": {
+  "exp": 13700,
+  "gold_max": 24000,
+  "id": 31,
+  "level": 31,
+  "phantasm_point_max": 4000
+ },
+ "32": {
+  "exp": 15540,
+  "gold_max": 24600,
+  "id": 32,
+  "level": 32,
+  "phantasm_point_max": 4100
+ },
+ "33": {
+  "exp": 17500,
+  "gold_max": 25200,
+  "id": 33,
+  "level": 33,
+  "phantasm_point_max": 4200
+ },
+ "34": {
+  "exp": 19580,
+  "gold_max": 25800,
+  "id": 34,
+  "level": 34,
+  "phantasm_point_max": 4300
+ },
+ "35": {
+  "exp": 21780,
+  "gold_max": 26400,
+  "id": 35,
+  "level": 35,
+  "phantasm_point_max": 4400
+ },
+ "36": {
+  "exp": 24100,
+  "gold_max": 27000,
+  "id": 36,
+  "level": 36,
+  "phantasm_point_max": 4500
+ },
+ "37": {
+  "exp": 26560,
+  "gold_max": 27600,
+  "id": 37,
+  "level": 37,
+  "phantasm_point_max": 4600
+ },
+ "38": {
+  "exp": 29160,
+  "gold_max": 28200,
+  "id": 38,
+  "level": 38,
+  "phantasm_point_max": 4700
+ },
+ "39": {
+  "exp": 31900,
+  "gold_max": 28800,
+  "id": 39,
+  "level": 39,
+  "phantasm_point_max": 4800
+ },
+ "40": {
+  "exp": 34780,
+  "gold_max": 29400,
+  "id": 40,
+  "level": 40,
+  "phantasm_point_max": 4900
+ },
+ "41": {
+  "exp": 37800,
+  "gold_max": 30000,
+  "id": 41,
+  "level": 41,
+  "phantasm_point_max": 5000
+ },
+ "42": {
+  "exp": 40960,
+  "gold_max": 30600,
+  "id": 42,
+  "level": 42,
+  "phantasm_point_max": 5100
+ },
+ "43": {
+  "exp": 44260,
+  "gold_max": 31200,
+  "id": 43,
+  "level": 43,
+  "phantasm_point_max": 5200
+ },
+ "44": {
+  "exp": 47700,
+  "gold_max": 31800,
+  "id": 44,
+  "level": 44,
+  "phantasm_point_max": 5300
+ },
+ "45": {
+  "exp": 51280,
+  "gold_max": 32400,
+  "id": 45,
+  "level": 45,
+  "phantasm_point_max": 5400
+ },
+ "46": {
+  "exp": 55000,
+  "gold_max": 33000,
+  "id": 46,
+  "level": 46,
+  "phantasm_point_max": 5500
+ },
+ "47": {
+  "exp": 58860,
+  "gold_max": 33600,
+  "id": 47,
+  "level": 47,
+  "phantasm_point_max": 5600
+ },
+ "48": {
+  "exp": 62860,
+  "gold_max": 34200,
+  "id": 48,
+  "level": 48,
+  "phantasm_point_max": 5700
+ },
+ "49": {
+  "exp": 67000,
+  "gold_max": 34800,
+  "id": 49,
+  "level": 49,
+  "phantasm_point_max": 5800
+ },
+ "50": {
+  "exp": 71280,
+  "gold_max": 35400,
+  "id": 50,
+  "level": 50,
+  "phantasm_point_max": 5900
+ },
+ "51": {
+  "exp": 75700,
+  "gold_max": 36000,
+  "id": 51,
+  "level": 51,
+  "phantasm_point_max": 6000
+ },
+ "52": {
+  "exp": 80380,
+  "gold_max": 36600,
+  "id": 52,
+  "level": 52,
+  "phantasm_point_max": 6100
+ },
+ "53": {
+  "exp": 85320,
+  "gold_max": 37200,
+  "id": 53,
+  "level": 53,
+  "phantasm_point_max": 6200
+ },
+ "54": {
+  "exp": 90530,
+  "gold_max": 37800,
+  "id": 54,
+  "level": 54,
+  "phantasm_point_max": 6300
+ },
+ "55": {
+  "exp": 96010,
+  "gold_max": 38400,
+  "id": 55,
+  "level": 55,
+  "phantasm_point_max": 6400
+ },
+ "56": {
+  "exp": 101770,
+  "gold_max": 39000,
+  "id": 56,
+  "level": 56,
+  "phantasm_point_max": 6500
+ },
+ "57": {
+  "exp": 107810,
+  "gold_max": 39600,
+  "id": 57,
+  "level": 57,
+  "phantasm_point_max": 6600
+ },
+ "58": {
+  "exp": 114140,
+  "gold_max": 40200,
+  "id": 58,
+  "level": 58,
+  "phantasm_point_max": 6700
+ },
+ "59": {
+  "exp": 120760,
+  "gold_max": 40800,
+  "id": 59,
+  "level": 59,
+  "phantasm_point_max": 6800
+ },
+ "60": {
+  "exp": 127680,
+  "gold_max": 41400,
+  "id": 60,
+  "level": 60,
+  "phantasm_point_max": 6900
+ },
+ "61": {
+  "exp": 134900,
+  "gold_max": 42000,
+  "id": 61,
+  "level": 61,
+  "phantasm_point_max": 7000
+ },
+ "62": {
+  "exp": 142430,
+  "gold_max": 42600,
+  "id": 62,
+  "level": 62,
+  "phantasm_point_max": 7100
+ },
+ "63": {
+  "exp": 150270,
+  "gold_max": 43200,
+  "id": 63,
+  "level": 63,
+  "phantasm_point_max": 7200
+ },
+ "64": {
+  "exp": 158430,
+  "gold_max": 43800,
+  "id": 64,
+  "level": 64,
+  "phantasm_point_max": 7300
+ },
+ "65": {
+  "exp": 166910,
+  "gold_max": 44400,
+  "id": 65,
+  "level": 65,
+  "phantasm_point_max": 7400
+ },
+ "66": {
+  "exp": 175720,
+  "gold_max": 45000,
+  "id": 66,
+  "level": 66,
+  "phantasm_point_max": 7500
+ },
+ "67": {
+  "exp": 184860,
+  "gold_max": 45600,
+  "id": 67,
+  "level": 67,
+  "phantasm_point_max": 7600
+ },
+ "68": {
+  "exp": 194340,
+  "gold_max": 46200,
+  "id": 68,
+  "level": 68,
+  "phantasm_point_max": 7700
+ },
+ "69": {
+  "exp": 204160,
+  "gold_max": 46800,
+  "id": 69,
+  "level": 69,
+  "phantasm_point_max": 7800
+ },
+ "70": {
+  "exp": 214330,
+  "gold_max": 47400,
+  "id": 70,
+  "level": 70,
+  "phantasm_point_max": 7900
+ },
+ "71": {
+  "exp": 224850,
+  "gold_max": 48000,
+  "id": 71,
+  "level": 71,
+  "phantasm_point_max": 8000
+ },
+ "72": {
+  "exp": 236090,
+  "gold_max": 48600,
+  "id": 72,
+  "level": 72,
+  "phantasm_point_max": 8100
+ },
+ "73": {
+  "exp": 248060,
+  "gold_max": 49200,
+  "id": 73,
+  "level": 73,
+  "phantasm_point_max": 8200
+ },
+ "74": {
+  "exp": 260770,
+  "gold_max": 49800,
+  "id": 74,
+  "level": 74,
+  "phantasm_point_max": 8300
+ },
+ "75": {
+  "exp": 274230,
+  "gold_max": 50400,
+  "id": 75,
+  "level": 75,
+  "phantasm_point_max": 8400
+ },
+ "76": {
+  "exp": 288450,
+  "gold_max": 51000,
+  "id": 76,
+  "level": 76,
+  "phantasm_point_max": 8500
+ },
+ "77": {
+  "exp": 303440,
+  "gold_max": 51600,
+  "id": 77,
+  "level": 77,
+  "phantasm_point_max": 8600
+ },
+ "78": {
+  "exp": 319210,
+  "gold_max": 52200,
+  "id": 78,
+  "level": 78,
+  "phantasm_point_max": 8700
+ },
+ "79": {
+  "exp": 335770,
+  "gold_max": 52800,
+  "id": 79,
+  "level": 79,
+  "phantasm_point_max": 8800
+ },
+ "80": {
+  "exp": 353130,
+  "gold_max": 53400,
+  "id": 80,
+  "level": 80,
+  "phantasm_point_max": 8900
+ },
+ "81": {
+  "exp": 371300,
+  "gold_max": 54000,
+  "id": 81,
+  "level": 81,
+  "phantasm_point_max": 9000
+ },
+ "82": {
+  "exp": 390290,
+  "gold_max": 54600,
+  "id": 82,
+  "level": 82,
+  "phantasm_point_max": 9100
+ },
+ "83": {
+  "exp": 410110,
+  "gold_max": 55200,
+  "id": 83,
+  "level": 83,
+  "phantasm_point_max": 9200
+ },
+ "84": {
+  "exp": 430770,
+  "gold_max": 55800,
+  "id": 84,
+  "level": 84,
+  "phantasm_point_max": 9300
+ },
+ "85": {
+  "exp": 452280,
+  "gold_max": 56400,
+  "id": 85,
+  "level": 85,
+  "phantasm_point_max": 9400
+ },
+ "86": {
+  "exp": 474650,
+  "gold_max": 57000,
+  "id": 86,
+  "level": 86,
+  "phantasm_point_max": 9500
+ },
+ "87": {
+  "exp": 497890,
+  "gold_max": 57600,
+  "id": 87,
+  "level": 87,
+  "phantasm_point_max": 9600
+ },
+ "88": {
+  "exp": 522010,
+  "gold_max": 58200,
+  "id": 88,
+  "level": 88,
+  "phantasm_point_max": 9700
+ },
+ "89": {
+  "exp": 547020,
+  "gold_max": 58800,
+  "id": 89,
+  "level": 89,
+  "phantasm_point_max": 9800
+ },
+ "90": {
+  "exp": 572930,
+  "gold_max": 59400,
+  "id": 90,
+  "level": 90,
+  "phantasm_point_max": 9900
+ },
+ "91": {
+  "exp": 599750,
+  "gold_max": 60000,
+  "id": 91,
+  "level": 91,
+  "phantasm_point_max": 10000
+ },
+ "92": {
+  "exp": 628410,
+  "gold_max": 60600,
+  "id": 92,
+  "level": 92,
+  "phantasm_point_max": 10100
+ },
+ "93": {
+  "exp": 658930,
+  "gold_max": 61200,
+  "id": 93,
+  "level": 93,
+  "phantasm_point_max": 10200
+ },
+ "94": {
+  "exp": 691330,
+  "gold_max": 61800,
+  "id": 94,
+  "level": 94,
+  "phantasm_point_max": 10300
+ },
+ "95": {
+  "exp": 725630,
+  "gold_max": 62400,
+  "id": 95,
+  "level": 95,
+  "phantasm_point_max": 10400
+ },
+ "96": {
+  "exp": 761850,
+  "gold_max": 63000,
+  "id": 96,
+  "level": 96,
+  "phantasm_point_max": 10500
+ },
+ "97": {
+  "exp": 800010,
+  "gold_max": 63600,
+  "id": 97,
+  "level": 97,
+  "phantasm_point_max": 10600
+ },
+ "98": {
+  "exp": 840130,
+  "gold_max": 64200,
+  "id": 98,
+  "level": 98,
+  "phantasm_point_max": 10700
+ },
+ "99": {
+  "exp": 882230,
+  "gold_max": 64800,
+  "id": 99,
+  "level": 99,
+  "phantasm_point_max": 10800
+ },
+ "100": {
+  "exp": 926330,
+  "gold_max": 65400,
+  "id": 100,
+  "level": 100,
+  "phantasm_point_max": 10900
+ },
+ "101": {
+  "exp": 972450,
+  "gold_max": 66000,
+  "id": 101,
+  "level": 101,
+  "phantasm_point_max": 11000
+ },
+ "102": {
+  "exp": 1020610,
+  "gold_max": 66600,
+  "id": 102,
+  "level": 102,
+  "phantasm_point_max": 11100
+ },
+ "103": {
+  "exp": 1070830,
+  "gold_max": 67200,
+  "id": 103,
+  "level": 103,
+  "phantasm_point_max": 11200
+ },
+ "104": {
+  "exp": 1123130,
+  "gold_max": 67800,
+  "id": 104,
+  "level": 104,
+  "phantasm_point_max": 11300
+ },
+ "105": {
+  "exp": 1177530,
+  "gold_max": 68400,
+  "id": 105,
+  "level": 105,
+  "phantasm_point_max": 11400
+ },
+ "106": {
+  "exp": 1234050,
+  "gold_max": 69000,
+  "id": 106,
+  "level": 106,
+  "phantasm_point_max": 11500
+ },
+ "107": {
+  "exp": 1292710,
+  "gold_max": 69600,
+  "id": 107,
+  "level": 107,
+  "phantasm_point_max": 11600
+ },
+ "108": {
+  "exp": 1353530,
+  "gold_max": 70200,
+  "id": 108,
+  "level": 108,
+  "phantasm_point_max": 11700
+ },
+ "109": {
+  "exp": 1416530,
+  "gold_max": 70800,
+  "id": 109,
+  "level": 109,
+  "phantasm_point_max": 11800
+ },
+ "110": {
+  "exp": 1481730,
+  "gold_max": 71400,
+  "id": 110,
+  "level": 110,
+  "phantasm_point_max": 11900
+ },
+ "111": {
+  "exp": 1549150,
+  "gold_max": 72000,
+  "id": 111,
+  "level": 111,
+  "phantasm_point_max": 12000
+ },
+ "112": {
+  "exp": 1619930,
+  "gold_max": 72600,
+  "id": 112,
+  "level": 112,
+  "phantasm_point_max": 12100
+ },
+ "113": {
+  "exp": 1694100,
+  "gold_max": 73200,
+  "id": 113,
+  "level": 113,
+  "phantasm_point_max": 12200
+ },
+ "114": {
+  "exp": 1771690,
+  "gold_max": 73800,
+  "id": 114,
+  "level": 114,
+  "phantasm_point_max": 12300
+ },
+ "115": {
+  "exp": 1852730,
+  "gold_max": 74400,
+  "id": 115,
+  "level": 115,
+  "phantasm_point_max": 12400
+ },
+ "116": {
+  "exp": 1937250,
+  "gold_max": 75000,
+  "id": 116,
+  "level": 116,
+  "phantasm_point_max": 12500
+ },
+ "117": {
+  "exp": 2025280,
+  "gold_max": 75600,
+  "id": 117,
+  "level": 117,
+  "phantasm_point_max": 12600
+ },
+ "118": {
+  "exp": 2116850,
+  "gold_max": 76200,
+  "id": 118,
+  "level": 118,
+  "phantasm_point_max": 12700
+ },
+ "119": {
+  "exp": 2211990,
+  "gold_max": 76800,
+  "id": 119,
+  "level": 119,
+  "phantasm_point_max": 12800
+ },
+ "120": {
+  "exp": 2310730,
+  "gold_max": 77400,
+  "id": 120,
+  "level": 120,
+  "phantasm_point_max": 12900
+ },
+ "121": {
+  "exp": 2413100,
+  "gold_max": 78000,
+  "id": 121,
+  "level": 121,
+  "phantasm_point_max": 13000
+ },
+ "122": {
+  "exp": 2519130,
+  "gold_max": 78600,
+  "id": 122,
+  "level": 122,
+  "phantasm_point_max": 13100
+ },
+ "123": {
+  "exp": 2628850,
+  "gold_max": 79200,
+  "id": 123,
+  "level": 123,
+  "phantasm_point_max": 13200
+ },
+ "124": {
+  "exp": 2742290,
+  "gold_max": 79800,
+  "id": 124,
+  "level": 124,
+  "phantasm_point_max": 13300
+ },
+ "125": {
+  "exp": 2859480,
+  "gold_max": 80400,
+  "id": 125,
+  "level": 125,
+  "phantasm_point_max": 13400
+ },
+ "126": {
+  "exp": 2980450,
+  "gold_max": 81000,
+  "id": 126,
+  "level": 126,
+  "phantasm_point_max": 13500
+ },
+ "127": {
+  "exp": 3105230,
+  "gold_max": 81600,
+  "id": 127,
+  "level": 127,
+  "phantasm_point_max": 13600
+ },
+ "128": {
+  "exp": 3233850,
+  "gold_max": 82200,
+  "id": 128,
+  "level": 128,
+  "phantasm_point_max": 13700
+ },
+ "129": {
+  "exp": 3366340,
+  "gold_max": 82800,
+  "id": 129,
+  "level": 129,
+  "phantasm_point_max": 13800
+ },
+ "130": {
+  "exp": 3502730,
+  "gold_max": 83400,
+  "id": 130,
+  "level": 130,
+  "phantasm_point_max": 13900
+ },
+ "131": {
+  "exp": 3643050,
+  "gold_max": 84000,
+  "id": 131,
+  "level": 131,
+  "phantasm_point_max": 14000
+ },
+ "132": {
+  "exp": 3788650,
+  "gold_max": 84600,
+  "id": 132,
+  "level": 132,
+  "phantasm_point_max": 14100
+ },
+ "133": {
+  "exp": 3939570,
+  "gold_max": 85200,
+  "id": 133,
+  "level": 133,
+  "phantasm_point_max": 14200
+ },
+ "134": {
+  "exp": 4095850,
+  "gold_max": 85800,
+  "id": 134,
+  "level": 134,
+  "phantasm_point_max": 14300
+ },
+ "135": {
+  "exp": 4257530,
+  "gold_max": 86400,
+  "id": 135,
+  "level": 135,
+  "phantasm_point_max": 14400
+ },
+ "136": {
+  "exp": 4424650,
+  "gold_max": 87000,
+  "id": 136,
+  "level": 136,
+  "phantasm_point_max": 14500
+ },
+ "137": {
+  "exp": 4597250,
+  "gold_max": 87600,
+  "id": 137,
+  "level": 137,
+  "phantasm_point_max": 14600
+ },
+ "138": {
+  "exp": 4775370,
+  "gold_max": 88200,
+  "id": 138,
+  "level": 138,
+  "phantasm_point_max": 14700
+ },
+ "139": {
+  "exp": 4959050,
+  "gold_max": 88800,
+  "id": 139,
+  "level": 139,
+  "phantasm_point_max": 14800
+ },
+ "140": {
+  "exp": 5148330,
+  "gold_max": 89400,
+  "id": 140,
+  "level": 140,
+  "phantasm_point_max": 14900
+ },
+ "141": {
+  "exp": 5343250,
+  "gold_max": 90000,
+  "id": 141,
+  "level": 141,
+  "phantasm_point_max": 15000
+ },
+ "142": {
+  "exp": 5543850,
+  "gold_max": 90600,
+  "id": 142,
+  "level": 142,
+  "phantasm_point_max": 15100
+ },
+ "143": {
+  "exp": 5750170,
+  "gold_max": 91200,
+  "id": 143,
+  "level": 143,
+  "phantasm_point_max": 15200
+ },
+ "144": {
+  "exp": 5962250,
+  "gold_max": 91800,
+  "id": 144,
+  "level": 144,
+  "phantasm_point_max": 15300
+ },
+ "145": {
+  "exp": 6180130,
+  "gold_max": 92400,
+  "id": 145,
+  "level": 145,
+  "phantasm_point_max": 15400
+ },
+ "146": {
+  "exp": 6403850,
+  "gold_max": 93000,
+  "id": 146,
+  "level": 146,
+  "phantasm_point_max": 15500
+ },
+ "147": {
+  "exp": 6633450,
+  "gold_max": 93600,
+  "id": 147,
+  "level": 147,
+  "phantasm_point_max": 15600
+ },
+ "148": {
+  "exp": 6868970,
+  "gold_max": 94200,
+  "id": 148,
+  "level": 148,
+  "phantasm_point_max": 15700
+ },
+ "149": {
+  "exp": 7110450,
+  "gold_max": 94800,
+  "id": 149,
+  "level": 149,
+  "phantasm_point_max": 15800
+ },
+ "150": {
+  "exp": 7357930,
+  "gold_max": 95400,
+  "id": 150,
+  "level": 150,
+  "phantasm_point_max": 15900
+ },
+ "151": {
+  "exp": 7611450,
+  "gold_max": 96000,
+  "id": 151,
+  "level": 151,
+  "phantasm_point_max": 16000
+ },
+ "152": {
+  "exp": 7872570,
+  "gold_max": 96600,
+  "id": 152,
+  "level": 152,
+  "phantasm_point_max": 16100
+ },
+ "153": {
+  "exp": 8141340,
+  "gold_max": 97200,
+  "id": 153,
+  "level": 153,
+  "phantasm_point_max": 16200
+ },
+ "154": {
+  "exp": 8417810,
+  "gold_max": 97800,
+  "id": 154,
+  "level": 154,
+  "phantasm_point_max": 16300
+ },
+ "155": {
+  "exp": 8702030,
+  "gold_max": 98400,
+  "id": 155,
+  "level": 155,
+  "phantasm_point_max": 16400
+ },
+ "156": {
+  "exp": 8994050,
+  "gold_max": 99000,
+  "id": 156,
+  "level": 156,
+  "phantasm_point_max": 16500
+ },
+ "157": {
+  "exp": 9293920,
+  "gold_max": 99600,
+  "id": 157,
+  "level": 157,
+  "phantasm_point_max": 16600
+ },
+ "158": {
+  "exp": 9601690,
+  "gold_max": 100200,
+  "id": 158,
+  "level": 158,
+  "phantasm_point_max": 16700
+ },
+ "159": {
+  "exp": 9917410,
+  "gold_max": 100800,
+  "id": 159,
+  "level": 159,
+  "phantasm_point_max": 16800
+ },
+ "160": {
+  "exp": 10241130,
+  "gold_max": 101400,
+  "id": 160,
+  "level": 160,
+  "phantasm_point_max": 16900
+ },
+ "161": {
+  "exp": 10572900,
+  "gold_max": 102000,
+  "id": 161,
+  "level": 161,
+  "phantasm_point_max": 17000
+ },
+ "162": {
+  "exp": 10912770,
+  "gold_max": 102600,
+  "id": 162,
+  "level": 162,
+  "phantasm_point_max": 17100
+ },
+ "163": {
+  "exp": 11260790,
+  "gold_max": 103200,
+  "id": 163,
+  "level": 163,
+  "phantasm_point_max": 17200
+ },
+ "164": {
+  "exp": 11617010,
+  "gold_max": 103800,
+  "id": 164,
+  "level": 164,
+  "phantasm_point_max": 17300
+ },
+ "165": {
+  "exp": 11981480,
+  "gold_max": 104400,
+  "id": 165,
+  "level": 165,
+  "phantasm_point_max": 17400
+ },
+ "166": {
+  "exp": 12354250,
+  "gold_max": 105000,
+  "id": 166,
+  "level": 166,
+  "phantasm_point_max": 17500
+ },
+ "167": {
+  "exp": 12735370,
+  "gold_max": 105600,
+  "id": 167,
+  "level": 167,
+  "phantasm_point_max": 17600
+ },
+ "168": {
+  "exp": 13124890,
+  "gold_max": 106200,
+  "id": 168,
+  "level": 168,
+  "phantasm_point_max": 17700
+ },
+ "169": {
+  "exp": 13522860,
+  "gold_max": 106800,
+  "id": 169,
+  "level": 169,
+  "phantasm_point_max": 17800
+ },
+ "170": {
+  "exp": 13929330,
+  "gold_max": 107400,
+  "id": 170,
+  "level": 170,
+  "phantasm_point_max": 17900
+ },
+ "171": {
+  "exp": 14344350,
+  "gold_max": 108000,
+  "id": 171,
+  "level": 171,
+  "phantasm_point_max": 18000
+ },
+ "172": {
+  "exp": 14769690,
+  "gold_max": 108600,
+  "id": 172,
+  "level": 172,
+  "phantasm_point_max": 18100
+ },
+ "173": {
+  "exp": 15205410,
+  "gold_max": 109200,
+  "id": 173,
+  "level": 173,
+  "phantasm_point_max": 18200
+ },
+ "174": {
+  "exp": 15651570,
+  "gold_max": 109800,
+  "id": 174,
+  "level": 174,
+  "phantasm_point_max": 18300
+ },
+ "175": {
+  "exp": 16108230,
+  "gold_max": 110400,
+  "id": 175,
+  "level": 175,
+  "phantasm_point_max": 18400
+ },
+ "176": {
+  "exp": 16575450,
+  "gold_max": 111000,
+  "id": 176,
+  "level": 176,
+  "phantasm_point_max": 18500
+ },
+ "177": {
+  "exp": 17053290,
+  "gold_max": 111600,
+  "id": 177,
+  "level": 177,
+  "phantasm_point_max": 18600
+ },
+ "178": {
+  "exp": 17541810,
+  "gold_max": 112200,
+  "id": 178,
+  "level": 178,
+  "phantasm_point_max": 18700
+ },
+ "179": {
+  "exp": 18041070,
+  "gold_max": 112800,
+  "id": 179,
+  "level": 179,
+  "phantasm_point_max": 18800
+ },
+ "180": {
+  "exp": 18551130,
+  "gold_max": 113400,
+  "id": 180,
+  "level": 180,
+  "phantasm_point_max": 18900
+ },
+ "181": {
+  "exp": 19072050,
+  "gold_max": 114000,
+  "id": 181,
+  "level": 181,
+  "phantasm_point_max": 19000
+ },
+ "182": {
+  "exp": 19603890,
+  "gold_max": 114600,
+  "id": 182,
+  "level": 182,
+  "phantasm_point_max": 19100
+ },
+ "183": {
+  "exp": 20146710,
+  "gold_max": 115200,
+  "id": 183,
+  "level": 183,
+  "phantasm_point_max": 19200
+ },
+ "184": {
+  "exp": 20700570,
+  "gold_max": 115800,
+  "id": 184,
+  "level": 184,
+  "phantasm_point_max": 19300
+ },
+ "185": {
+  "exp": 21265530,
+  "gold_max": 116400,
+  "id": 185,
+  "level": 185,
+  "phantasm_point_max": 19400
+ },
+ "186": {
+  "exp": 21841650,
+  "gold_max": 117000,
+  "id": 186,
+  "level": 186,
+  "phantasm_point_max": 19500
+ },
+ "187": {
+  "exp": 22428990,
+  "gold_max": 117600,
+  "id": 187,
+  "level": 187,
+  "phantasm_point_max": 19600
+ },
+ "188": {
+  "exp": 23027610,
+  "gold_max": 118200,
+  "id": 188,
+  "level": 188,
+  "phantasm_point_max": 19700
+ },
+ "189": {
+  "exp": 23637570,
+  "gold_max": 118800,
+  "id": 189,
+  "level": 189,
+  "phantasm_point_max": 19800
+ },
+ "190": {
+  "exp": 24258930,
+  "gold_max": 119400,
+  "id": 190,
+  "level": 190,
+  "phantasm_point_max": 19900
+ },
+ "191": {
+  "exp": 24891750,
+  "gold_max": 120000,
+  "id": 191,
+  "level": 191,
+  "phantasm_point_max": 20000
+ },
+ "192": {
+  "exp": 25538010,
+  "gold_max": 120600,
+  "id": 192,
+  "level": 192,
+  "phantasm_point_max": 20100
+ },
+ "193": {
+  "exp": 26197780,
+  "gold_max": 121200,
+  "id": 193,
+  "level": 193,
+  "phantasm_point_max": 20200
+ },
+ "194": {
+  "exp": 26871130,
+  "gold_max": 121800,
+  "id": 194,
+  "level": 194,
+  "phantasm_point_max": 20300
+ },
+ "195": {
+  "exp": 27558130,
+  "gold_max": 122400,
+  "id": 195,
+  "level": 195,
+  "phantasm_point_max": 20400
+ },
+ "196": {
+  "exp": 28258850,
+  "gold_max": 123000,
+  "id": 196,
+  "level": 196,
+  "phantasm_point_max": 20500
+ },
+ "197": {
+  "exp": 28973360,
+  "gold_max": 123600,
+  "id": 197,
+  "level": 197,
+  "phantasm_point_max": 20600
+ },
+ "198": {
+  "exp": 29701730,
+  "gold_max": 124200,
+  "id": 198,
+  "level": 198,
+  "phantasm_point_max": 20700
+ },
+ "199": {
+  "exp": 30444030,
+  "gold_max": 124800,
+  "id": 199,
+  "level": 199,
+  "phantasm_point_max": 20800
+ },
+ "200": {
+  "exp": 31200330,
+  "gold_max": 125400,
+  "id": 200,
+  "level": 200,
+  "phantasm_point_max": 20900
+ },
+ "201": {
+  "exp": 31970700,
+  "gold_max": 126000,
+  "id": 201,
+  "level": 201,
+  "phantasm_point_max": 21000
+ },
+ "202": {
+  "exp": 32755210,
+  "gold_max": 126600,
+  "id": 202,
+  "level": 202,
+  "phantasm_point_max": 21100
+ },
+ "203": {
+  "exp": 33553930,
+  "gold_max": 127200,
+  "id": 203,
+  "level": 203,
+  "phantasm_point_max": 21200
+ },
+ "204": {
+  "exp": 34366930,
+  "gold_max": 127800,
+  "id": 204,
+  "level": 204,
+  "phantasm_point_max": 21300
+ },
+ "205": {
+  "exp": 35194280,
+  "gold_max": 128400,
+  "id": 205,
+  "level": 205,
+  "phantasm_point_max": 21400
+ },
+ "206": {
+  "exp": 36036050,
+  "gold_max": 129000,
+  "id": 206,
+  "level": 206,
+  "phantasm_point_max": 21500
+ },
+ "207": {
+  "exp": 36892310,
+  "gold_max": 129600,
+  "id": 207,
+  "level": 207,
+  "phantasm_point_max": 21600
+ },
+ "208": {
+  "exp": 37763130,
+  "gold_max": 130200,
+  "id": 208,
+  "level": 208,
+  "phantasm_point_max": 21700
+ },
+ "209": {
+  "exp": 38648580,
+  "gold_max": 130800,
+  "id": 209,
+  "level": 209,
+  "phantasm_point_max": 21800
+ },
+ "210": {
+  "exp": 39548730,
+  "gold_max": 131400,
+  "id": 210,
+  "level": 210,
+  "phantasm_point_max": 21900
+ },
+ "211": {
+  "exp": 40463650,
+  "gold_max": 132000,
+  "id": 211,
+  "level": 211,
+  "phantasm_point_max": 22000
+ },
+ "212": {
+  "exp": 41395530,
+  "gold_max": 132600,
+  "id": 212,
+  "level": 212,
+  "phantasm_point_max": 22100
+ },
+ "213": {
+  "exp": 42344450,
+  "gold_max": 133200,
+  "id": 213,
+  "level": 213,
+  "phantasm_point_max": 22200
+ },
+ "214": {
+  "exp": 43310490,
+  "gold_max": 133800,
+  "id": 214,
+  "level": 214,
+  "phantasm_point_max": 22300
+ },
+ "215": {
+  "exp": 44293730,
+  "gold_max": 134400,
+  "id": 215,
+  "level": 215,
+  "phantasm_point_max": 22400
+ },
+ "216": {
+  "exp": 45294250,
+  "gold_max": 135000,
+  "id": 216,
+  "level": 216,
+  "phantasm_point_max": 22500
+ },
+ "217": {
+  "exp": 46312130,
+  "gold_max": 135600,
+  "id": 217,
+  "level": 217,
+  "phantasm_point_max": 22600
+ },
+ "218": {
+  "exp": 47347450,
+  "gold_max": 136200,
+  "id": 218,
+  "level": 218,
+  "phantasm_point_max": 22700
+ },
+ "219": {
+  "exp": 48400290,
+  "gold_max": 136800,
+  "id": 219,
+  "level": 219,
+  "phantasm_point_max": 22800
+ },
+ "220": {
+  "exp": 49470730,
+  "gold_max": 137400,
+  "id": 220,
+  "level": 220,
+  "phantasm_point_max": 22900
+ },
+ "221": {
+  "exp": 50558850,
+  "gold_max": 138000,
+  "id": 221,
+  "level": 221,
+  "phantasm_point_max": 23000
+ },
+ "222": {
+  "exp": 51664730,
+  "gold_max": 138600,
+  "id": 222,
+  "level": 222,
+  "phantasm_point_max": 23100
+ },
+ "223": {
+  "exp": 52788450,
+  "gold_max": 139200,
+  "id": 223,
+  "level": 223,
+  "phantasm_point_max": 23200
+ },
+ "224": {
+  "exp": 53930090,
+  "gold_max": 139800,
+  "id": 224,
+  "level": 224,
+  "phantasm_point_max": 23300
+ },
+ "225": {
+  "exp": 55089730,
+  "gold_max": 140400,
+  "id": 225,
+  "level": 225,
+  "phantasm_point_max": 23400
+ },
+ "226": {
+  "exp": 56267450,
+  "gold_max": 141000,
+  "id": 226,
+  "level": 226,
+  "phantasm_point_max": 23500
+ },
+ "227": {
+  "exp": 57463330,
+  "gold_max": 141600,
+  "id": 227,
+  "level": 227,
+  "phantasm_point_max": 23600
+ },
+ "228": {
+  "exp": 58677450,
+  "gold_max": 142200,
+  "id": 228,
+  "level": 228,
+  "phantasm_point_max": 23700
+ },
+ "229": {
+  "exp": 59909890,
+  "gold_max": 142800,
+  "id": 229,
+  "level": 229,
+  "phantasm_point_max": 23800
+ },
+ "230": {
+  "exp": 61160730,
+  "gold_max": 143400,
+  "id": 230,
+  "level": 230,
+  "phantasm_point_max": 23900
+ },
+ "231": {
+  "exp": 62430050,
+  "gold_max": 144000,
+  "id": 231,
+  "level": 231,
+  "phantasm_point_max": 24000
+ },
+ "232": {
+  "exp": 63720250,
+  "gold_max": 144600,
+  "id": 232,
+  "level": 232,
+  "phantasm_point_max": 24100
+ },
+ "233": {
+  "exp": 65031420,
+  "gold_max": 145200,
+  "id": 233,
+  "level": 233,
+  "phantasm_point_max": 24200
+ },
+ "234": {
+  "exp": 66363650,
+  "gold_max": 145800,
+  "id": 234,
+  "level": 234,
+  "phantasm_point_max": 24300
+ },
+ "235": {
+  "exp": 67717030,
+  "gold_max": 146400,
+  "id": 235,
+  "level": 235,
+  "phantasm_point_max": 24400
+ },
+ "236": {
+  "exp": 69091650,
+  "gold_max": 147000,
+  "id": 236,
+  "level": 236,
+  "phantasm_point_max": 24500
+ },
+ "237": {
+  "exp": 70487600,
+  "gold_max": 147600,
+  "id": 237,
+  "level": 237,
+  "phantasm_point_max": 24600
+ },
+ "238": {
+  "exp": 71904970,
+  "gold_max": 148200,
+  "id": 238,
+  "level": 238,
+  "phantasm_point_max": 24700
+ },
+ "239": {
+  "exp": 73343850,
+  "gold_max": 148800,
+  "id": 239,
+  "level": 239,
+  "phantasm_point_max": 24800
+ },
+ "240": {
+  "exp": 74804330,
+  "gold_max": 149400,
+  "id": 240,
+  "level": 240,
+  "phantasm_point_max": 24900
+ },
+ "241": {
+  "exp": 76286500,
+  "gold_max": 150000,
+  "id": 241,
+  "level": 241,
+  "phantasm_point_max": 25000
+ },
+ "242": {
+  "exp": 77790450,
+  "gold_max": 150600,
+  "id": 242,
+  "level": 242,
+  "phantasm_point_max": 25100
+ },
+ "243": {
+  "exp": 79316270,
+  "gold_max": 151200,
+  "id": 243,
+  "level": 243,
+  "phantasm_point_max": 25200
+ },
+ "244": {
+  "exp": 80864050,
+  "gold_max": 151800,
+  "id": 244,
+  "level": 244,
+  "phantasm_point_max": 25300
+ },
+ "245": {
+  "exp": 82433880,
+  "gold_max": 152400,
+  "id": 245,
+  "level": 245,
+  "phantasm_point_max": 25400
+ },
+ "246": {
+  "exp": 84025850,
+  "gold_max": 153000,
+  "id": 246,
+  "level": 246,
+  "phantasm_point_max": 25500
+ },
+ "247": {
+  "exp": 85640050,
+  "gold_max": 153600,
+  "id": 247,
+  "level": 247,
+  "phantasm_point_max": 25600
+ },
+ "248": {
+  "exp": 87276570,
+  "gold_max": 154200,
+  "id": 248,
+  "level": 248,
+  "phantasm_point_max": 25700
+ },
+ "249": {
+  "exp": 88935500,
+  "gold_max": 154800,
+  "id": 249,
+  "level": 249,
+  "phantasm_point_max": 25800
+ },
+ "250": {
+  "exp": 90616930,
+  "gold_max": 155400,
+  "id": 250,
+  "level": 250,
+  "phantasm_point_max": 25900
+ },
+ "251": {
+  "exp": 92320950,
+  "gold_max": 156000,
+  "id": 251,
+  "level": 251,
+  "phantasm_point_max": 26000
+ },
+ "252": {
+  "exp": 94050170,
+  "gold_max": 156600,
+  "id": 252,
+  "level": 252,
+  "phantasm_point_max": 26100
+ },
+ "253": {
+  "exp": 95804690,
+  "gold_max": 157200,
+  "id": 253,
+  "level": 253,
+  "phantasm_point_max": 26200
+ },
+ "254": {
+  "exp": 97584610,
+  "gold_max": 157800,
+  "id": 254,
+  "level": 254,
+  "phantasm_point_max": 26300
+ },
+ "255": {
+  "exp": 99390030,
+  "gold_max": 158400,
+  "id": 255,
+  "level": 255,
+  "phantasm_point_max": 26400
+ },
+ "256": {
+  "exp": 101221050,
+  "gold_max": 159000,
+  "id": 256,
+  "level": 256,
+  "phantasm_point_max": 26500
+ },
+ "257": {
+  "exp": 103077770,
+  "gold_max": 159600,
+  "id": 257,
+  "level": 257,
+  "phantasm_point_max": 26600
+ },
+ "258": {
+  "exp": 104960290,
+  "gold_max": 160200,
+  "id": 258,
+  "level": 258,
+  "phantasm_point_max": 26700
+ },
+ "259": {
+  "exp": 106868710,
+  "gold_max": 160800,
+  "id": 259,
+  "level": 259,
+  "phantasm_point_max": 26800
+ },
+ "260": {
+  "exp": 108803130,
+  "gold_max": 161400,
+  "id": 260,
+  "level": 260,
+  "phantasm_point_max": 26900
+ },
+ "261": {
+  "exp": 110763650,
+  "gold_max": 162000,
+  "id": 261,
+  "level": 261,
+  "phantasm_point_max": 27000
+ },
+ "262": {
+  "exp": 112750370,
+  "gold_max": 162600,
+  "id": 262,
+  "level": 262,
+  "phantasm_point_max": 27100
+ },
+ "263": {
+  "exp": 114763390,
+  "gold_max": 163200,
+  "id": 263,
+  "level": 263,
+  "phantasm_point_max": 27200
+ },
+ "264": {
+  "exp": 116802810,
+  "gold_max": 163800,
+  "id": 264,
+  "level": 264,
+  "phantasm_point_max": 27300
+ },
+ "265": {
+  "exp": 118868730,
+  "gold_max": 164400,
+  "id": 265,
+  "level": 265,
+  "phantasm_point_max": 27400
+ },
+ "266": {
+  "exp": 120961250,
+  "gold_max": 165000,
+  "id": 266,
+  "level": 266,
+  "phantasm_point_max": 27500
+ },
+ "267": {
+  "exp": 123080470,
+  "gold_max": 165600,
+  "id": 267,
+  "level": 267,
+  "phantasm_point_max": 27600
+ },
+ "268": {
+  "exp": 125226490,
+  "gold_max": 166200,
+  "id": 268,
+  "level": 268,
+  "phantasm_point_max": 27700
+ },
+ "269": {
+  "exp": 127399410,
+  "gold_max": 166800,
+  "id": 269,
+  "level": 269,
+  "phantasm_point_max": 27800
+ },
+ "270": {
+  "exp": 129599330,
+  "gold_max": 167400,
+  "id": 270,
+  "level": 270,
+  "phantasm_point_max": 27900
+ },
+ "271": {
+  "exp": 131826350,
+  "gold_max": 168000,
+  "id": 271,
+  "level": 271,
+  "phantasm_point_max": 28000
+ },
+ "272": {
+  "exp": 134083290,
+  "gold_max": 168600,
+  "id": 272,
+  "level": 272,
+  "phantasm_point_max": 28100
+ },
+ "273": {
+  "exp": 136370260,
+  "gold_max": 169200,
+  "id": 273,
+  "level": 273,
+  "phantasm_point_max": 28200
+ },
+ "274": {
+  "exp": 138687370,
+  "gold_max": 169800,
+  "id": 274,
+  "level": 274,
+  "phantasm_point_max": 28300
+ },
+ "275": {
+  "exp": 141034730,
+  "gold_max": 170400,
+  "id": 275,
+  "level": 275,
+  "phantasm_point_max": 28400
+ },
+ "276": {
+  "exp": 143412450,
+  "gold_max": 171000,
+  "id": 276,
+  "level": 276,
+  "phantasm_point_max": 28500
+ },
+ "277": {
+  "exp": 145820640,
+  "gold_max": 171600,
+  "id": 277,
+  "level": 277,
+  "phantasm_point_max": 28600
+ },
+ "278": {
+  "exp": 148259410,
+  "gold_max": 172200,
+  "id": 278,
+  "level": 278,
+  "phantasm_point_max": 28700
+ },
+ "279": {
+  "exp": 150728870,
+  "gold_max": 172800,
+  "id": 279,
+  "level": 279,
+  "phantasm_point_max": 28800
+ },
+ "280": {
+  "exp": 153229130,
+  "gold_max": 173400,
+  "id": 280,
+  "level": 280,
+  "phantasm_point_max": 28900
+ },
+ "281": {
+  "exp": 155760300,
+  "gold_max": 174000,
+  "id": 281,
+  "level": 281,
+  "phantasm_point_max": 29000
+ },
+ "282": {
+  "exp": 158322490,
+  "gold_max": 174600,
+  "id": 282,
+  "level": 282,
+  "phantasm_point_max": 29100
+ },
+ "283": {
+  "exp": 160915810,
+  "gold_max": 175200,
+  "id": 283,
+  "level": 283,
+  "phantasm_point_max": 29200
+ },
+ "284": {
+  "exp": 163540370,
+  "gold_max": 175800,
+  "id": 284,
+  "level": 284,
+  "phantasm_point_max": 29300
+ },
+ "285": {
+  "exp": 166196280,
+  "gold_max": 176400,
+  "id": 285,
+  "level": 285,
+  "phantasm_point_max": 29400
+ },
+ "286": {
+  "exp": 168883650,
+  "gold_max": 177000,
+  "id": 286,
+  "level": 286,
+  "phantasm_point_max": 29500
+ },
+ "287": {
+  "exp": 171602590,
+  "gold_max": 177600,
+  "id": 287,
+  "level": 287,
+  "phantasm_point_max": 29600
+ },
+ "288": {
+  "exp": 174353210,
+  "gold_max": 178200,
+  "id": 288,
+  "level": 288,
+  "phantasm_point_max": 29700
+ },
+ "289": {
+  "exp": 177135620,
+  "gold_max": 178800,
+  "id": 289,
+  "level": 289,
+  "phantasm_point_max": 29800
+ },
+ "290": {
+  "exp": 179949930,
+  "gold_max": 179400,
+  "id": 290,
+  "level": 290,
+  "phantasm_point_max": 29900
+ },
+ "291": {
+  "exp": 182796250,
+  "gold_max": 180000,
+  "id": 291,
+  "level": 291,
+  "phantasm_point_max": 30000
+ },
+ "292": {
+  "exp": 185677610,
+  "gold_max": 180600,
+  "id": 292,
+  "level": 292,
+  "phantasm_point_max": 30100
+ },
+ "293": {
+  "exp": 188594130,
+  "gold_max": 181200,
+  "id": 293,
+  "level": 293,
+  "phantasm_point_max": 30200
+ },
+ "294": {
+  "exp": 191545930,
+  "gold_max": 181800,
+  "id": 294,
+  "level": 294,
+  "phantasm_point_max": 30300
+ },
+ "295": {
+  "exp": 194533130,
+  "gold_max": 182400,
+  "id": 295,
+  "level": 295,
+  "phantasm_point_max": 30400
+ },
+ "296": {
+  "exp": 197555850,
+  "gold_max": 183000,
+  "id": 296,
+  "level": 296,
+  "phantasm_point_max": 30500
+ },
+ "297": {
+  "exp": 200614210,
+  "gold_max": 183600,
+  "id": 297,
+  "level": 297,
+  "phantasm_point_max": 30600
+ },
+ "298": {
+  "exp": 203708330,
+  "gold_max": 184200,
+  "id": 298,
+  "level": 298,
+  "phantasm_point_max": 30700
+ },
+ "299": {
+  "exp": 206838330,
+  "gold_max": 184800,
+  "id": 299,
+  "level": 299,
+  "phantasm_point_max": 30800
+ },
+ "300": {
+  "exp": 210004330,
+  "gold_max": 185400,
+  "id": 300,
+  "level": 300,
+  "phantasm_point_max": 30900
+ }
+}

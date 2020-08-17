@@ -1,0 +1,41 @@
+{
+ "20001": {
+  "count": 3,
+  "display_order": 1,
+  "id": 20001,
+  "is_open_week0": 1,
+  "is_open_week1": 1,
+  "is_open_week2": 0,
+  "is_open_week3": 0,
+  "is_open_week4": 1,
+  "is_open_week5": 0,
+  "is_open_week6": 0,
+  "name": "日・月・木限定　指南書さがし"
+ },
+ "20002": {
+  "count": 3,
+  "display_order": 2,
+  "id": 20002,
+  "is_open_week0": 1,
+  "is_open_week1": 0,
+  "is_open_week2": 1,
+  "is_open_week3": 0,
+  "is_open_week4": 0,
+  "is_open_week5": 1,
+  "is_open_week6": 0,
+  "name": "日・火・金限定　華片さがし"
+ },
+ "20003": {
+  "count": 3,
+  "display_order": 3,
+  "id": 20003,
+  "is_open_week0": 1,
+  "is_open_week1": 0,
+  "is_open_week2": 0,
+  "is_open_week3": 1,
+  "is_open_week4": 0,
+  "is_open_week5": 0,
+  "is_open_week6": 1,
+  "name": "日・水・土限定　巻物さがし"
+ }
+}

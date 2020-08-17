@@ -1,0 +1,342 @@
+{
+ "CLOSE_EXTERNAL_LINK_MIRRATIV": {
+  "description": "ミラティブ",
+  "key": "CLOSE_EXTERNAL_LINK_MIRRATIV",
+  "value": "1"
+ },
+ "CRYSTAL_MAX": {
+  "description": "最大封結晶数",
+  "key": "CRYSTAL_MAX",
+  "value": "999999"
+ },
+ "DAILY_DISPATCH_APPEAR_COUNT": {
+  "description": "デイリーおつかい出現数",
+  "key": "DAILY_DISPATCH_APPEAR_COUNT",
+  "value": "5"
+ },
+ "DECREASING_TRUST_BY_MOTIVATION": {
+  "description": "バトル終了時、一定以上やる気がない際の信頼度減少値",
+  "key": "DECREASING_TRUST_BY_MOTIVATION",
+  "value": "100"
+ },
+ "DELIVERY_WARNING_REST_DAYS": {
+  "description": "宅配便の警告を出す残り日数",
+  "key": "DELIVERY_WARNING_REST_DAYS",
+  "value": "5"
+ },
+ "DISPATCH_BAD_POINT": {
+  "description": "おつかい「悪い」評価ポイント",
+  "key": "DISPATCH_BAD_POINT",
+  "value": "0"
+ },
+ "DISPATCH_GOOD_POINT": {
+  "description": "おつかい「良い」評価ポイント",
+  "key": "DISPATCH_GOOD_POINT",
+  "value": "3"
+ },
+ "DISPATCH_NORMAL_POINT": {
+  "description": "おつかい「普通」評価ポイント",
+  "key": "DISPATCH_NORMAL_POINT",
+  "value": "1"
+ },
+ "DO_CACHE_DELETE_ANDROID": {
+  "description": "ログイン時の自動キャッシュクリア android",
+  "key": "DO_CACHE_DELETE_ANDROID",
+  "value": "20200513"
+ },
+ "DO_CACHE_DELETE_IOS": {
+  "description": "ログイン時の自動キャッシュクリア ios",
+  "key": "DO_CACHE_DELETE_IOS",
+  "value": "0"
+ },
+ "EVENT_POINT_MAX": {
+  "description": "イベントポイントの最大値",
+  "key": "EVENT_POINT_MAX",
+  "value": "999999"
+ },
+ "EVENT_SPECIAL_MISSION_OPEN_HOUR": {
+  "description": "イベント特別課題においてステップ解放条件を満たした後、解放される時刻を0:00を基準に何時間プラスorマイナスで表記",
+  "key": "EVENT_SPECIAL_MISSION_OPEN_HOUR",
+  "value": "0"
+ },
+ "EXTRA_QUEST_COUNT": {
+  "description": "エクストラ対応",
+  "key": "EXTRA_QUEST_COUNT",
+  "value": "3"
+ },
+ "FIGURE_PRESENT_EVENT_ID": {
+  "description": "フィギュアプレゼントイベントのイベントID",
+  "key": "FIGURE_PRESENT_EVENT_ID",
+  "value": "1050"
+ },
+ "FIGURE_PRESENT_LOGIN_COUNT": {
+  "description": "ログイン日数",
+  "key": "FIGURE_PRESENT_LOGIN_COUNT",
+  "value": "30"
+ },
+ "GOLD_EXCHANGE_SHOP_UPDATE_HOUR_1": {
+  "description": "賽銭交換ラインナップ更新時刻１　6",
+  "key": "GOLD_EXCHANGE_SHOP_UPDATE_HOUR_1",
+  "value": "6"
+ },
+ "GOLD_EXCHANGE_SHOP_UPDATE_HOUR_2": {
+  "description": "賽銭交換ラインナップ更新時刻２　14",
+  "key": "GOLD_EXCHANGE_SHOP_UPDATE_HOUR_2",
+  "value": "14"
+ },
+ "GOLD_EXCHANGE_SHOP_UPDATE_HOUR_3": {
+  "description": "賽銭交換ラインナップ更新時刻３　22",
+  "key": "GOLD_EXCHANGE_SHOP_UPDATE_HOUR_3",
+  "value": "22"
+ },
+ "GOLD_MAX": {
+  "description": "最大賽銭数",
+  "key": "GOLD_MAX",
+  "value": "999999"
+ },
+ "IS_IP_CHECK": {
+  "description": "ユーザー作成時のIPアドレスチェック",
+  "key": "IS_IP_CHECK",
+  "value": "1"
+ },
+ "ITEM_MAX": {
+  "description": "最大所持アイテム数",
+  "key": "ITEM_MAX",
+  "value": "9999"
+ },
+ "LECTURE_EXP_ADD_TIME": {
+  "description": "寺子屋経験値追加時間(秒)",
+  "key": "LECTURE_EXP_ADD_TIME",
+  "value": "15"
+ },
+ "LECTURE_EXP_PARAM_1": {
+  "description": "寺子屋経験値計算パラメータ食べ物ありその1",
+  "key": "LECTURE_EXP_PARAM_1",
+  "value": "0.05"
+ },
+ "LECTURE_EXP_PARAM_2": {
+  "description": "寺子屋経験値計算パラメータ食べ物ありその2",
+  "key": "LECTURE_EXP_PARAM_2",
+  "value": "1"
+ },
+ "LECTURE_EXP_RATE_LIMITED_ADD_VALUE": {
+  "description": "寺子屋取得経験値期間限定追加補正値(通常：１)",
+  "key": "LECTURE_EXP_RATE_LIMITED_ADD_VALUE",
+  "value": "1"
+ },
+ "LECTURE_MOTIVATION_RECOVERY_LIMIT": {
+  "description": "教室に入っているときのやる気の増加上限",
+  "key": "LECTURE_MOTIVATION_RECOVERY_LIMIT",
+  "value": "150"
+ },
+ "LECTURE_MOTIVATION_RECOVERY_VALUE": {
+  "description": "教室に入っているときのやる気の増加量／時間",
+  "key": "LECTURE_MOTIVATION_RECOVERY_VALUE",
+  "value": "4"
+ },
+ "LECTURE_NO_FOOD_EXP_PARAM_1": {
+  "description": "寺子屋経験値計算パラメータ食べ物なしその1",
+  "key": "LECTURE_NO_FOOD_EXP_PARAM_1",
+  "value": "0.01"
+ },
+ "LECTURE_NO_FOOD_EXP_PARAM_2": {
+  "description": "寺子屋経験値計算パラメータ食べ物なしその2",
+  "key": "LECTURE_NO_FOOD_EXP_PARAM_2",
+  "value": "0.2"
+ },
+ "LIFE_POINT_POWER_CALC_VALUE": {
+  "description": "編成のつよさ計算値",
+  "key": "LIFE_POINT_POWER_CALC_VALUE",
+  "value": "5"
+ },
+ "LOGIN_BONUS_MAIL_GRACE": {
+  "description": "ログインボーナスの伝書の有効期限",
+  "key": "LOGIN_BONUS_MAIL_GRACE",
+  "value": "30"
+ },
+ "MAIL_MAX": {
+  "description": "最大伝書数",
+  "key": "MAIL_MAX",
+  "value": "1000"
+ },
+ "MISSION_REWARD_MAIL_GRACE": {
+  "description": "課題報酬伝書送付時の有効期限",
+  "key": "MISSION_REWARD_MAIL_GRACE",
+  "value": "14"
+ },
+ "MOTIVATION_LOWER_LIMIT_FOR_UNIT_EXP_BONUS": {
+  "description": "バトル終了時、ユニットボーナスを付与するやる気の上限値",
+  "key": "MOTIVATION_LOWER_LIMIT_FOR_UNIT_EXP_BONUS",
+  "value": "120"
+ },
+ "MOTIVATION_RECOVERY_LIMIT": {
+  "description": "やる気の増加上限",
+  "key": "MOTIVATION_RECOVERY_LIMIT",
+  "value": "119"
+ },
+ "MOTIVATION_RECOVERY_TIME": {
+  "description": "やる気の増加時間（秒）",
+  "key": "MOTIVATION_RECOVERY_TIME",
+  "value": "360"
+ },
+ "MOTIVATION_RECOVERY_VALUE": {
+  "description": "やる気の増加量／時間",
+  "key": "MOTIVATION_RECOVERY_VALUE",
+  "value": "2"
+ },
+ "MOTIVATION_UPPER_LIMIT_FOR_UNIT_EXP_ONUS": {
+  "description": "バトル終了時、ユニットオーナスを課すやる気の下限値",
+  "key": "MOTIVATION_UPPER_LIMIT_FOR_UNIT_EXP_ONUS",
+  "value": "0"
+ },
+ "NAME_LENGTH": {
+  "description": "名前の文字数",
+  "key": "NAME_LENGTH",
+  "value": "10"
+ },
+ "ORB_MAX": {
+  "description": "最大神珠数",
+  "key": "ORB_MAX",
+  "value": "999999"
+ },
+ "PHANTASM_POINT_BUY_BASE": {
+  "description": "霊P回復量は、初期値500+プレイヤーレベル×3",
+  "key": "PHANTASM_POINT_BUY_BASE",
+  "value": "500"
+ },
+ "PHANTASM_POINT_BUY_CALC_VALUE": {
+  "description": "霊P回復量は、初期値500+プレイヤーレベル×3",
+  "key": "PHANTASM_POINT_BUY_CALC_VALUE",
+  "value": "3"
+ },
+ "PHANTASM_POINT_MAX": {
+  "description": "最大霊P数",
+  "key": "PHANTASM_POINT_MAX",
+  "value": "999999"
+ },
+ "PICTURE_COUNT_MAX": {
+  "description": "システム上の絵札の最大所有値",
+  "key": "PICTURE_COUNT_MAX",
+  "value": "9999"
+ },
+ "POINT_EXCHANGE_SHOP_UPDATE_HOUR_1": {
+  "description": "ポイント交換ラインナップ更新時刻１",
+  "key": "POINT_EXCHANGE_SHOP_UPDATE_HOUR_1",
+  "value": "6"
+ },
+ "POINT_EXCHANGE_SHOP_UPDATE_HOUR_2": {
+  "description": "ポイント交換ラインナップ更新時刻２",
+  "key": "POINT_EXCHANGE_SHOP_UPDATE_HOUR_2",
+  "value": "14"
+ },
+ "POINT_EXCHANGE_SHOP_UPDATE_HOUR_3": {
+  "description": "ポイント交換ラインナップ更新時刻３",
+  "key": "POINT_EXCHANGE_SHOP_UPDATE_HOUR_3",
+  "value": "22"
+ },
+ "SYSTEM_CRYSTAL_MAX": {
+  "description": "封結晶システム上の上限",
+  "key": "SYSTEM_CRYSTAL_MAX",
+  "value": "99999999"
+ },
+ "SYSTEM_EVENT_POINT_MAX": {
+  "description": "イベントポイントシステム上の上限",
+  "key": "SYSTEM_EVENT_POINT_MAX",
+  "value": "99999999"
+ },
+ "SYSTEM_GOLD_MAX": {
+  "description": "賽銭システム上の上限",
+  "key": "SYSTEM_GOLD_MAX",
+  "value": "99999999"
+ },
+ "SYSTEM_ITEM_MAX": {
+  "description": "アイテムシステム上の上限",
+  "key": "SYSTEM_ITEM_MAX",
+  "value": "99999999"
+ },
+ "SYSTEM_ORB_MAX": {
+  "description": "システム上神結晶の最大値",
+  "key": "SYSTEM_ORB_MAX",
+  "value": "99999999"
+ },
+ "SYSTEM_PHANTASM_POINT_MAX": {
+  "description": "霊Pシステム上の上限",
+  "key": "SYSTEM_PHANTASM_POINT_MAX",
+  "value": "99999999"
+ },
+ "TEAM_MAX": {
+  "description": "最大編成チーム数",
+  "key": "TEAM_MAX",
+  "value": "5"
+ },
+ "TIPS_ACTIVE_TIME": {
+  "description": "TIPS表示時間(msec)",
+  "key": "TIPS_ACTIVE_TIME",
+  "value": "4000"
+ },
+ "TIPS_WAIT_TIME": {
+  "description": "TIPS表示待ち時間(msec)",
+  "key": "TIPS_WAIT_TIME",
+  "value": "2000"
+ },
+ "TRUST_RECOVERY_LIMIT": {
+  "description": "お気に入りユニット時の信頼度の増加上限",
+  "key": "TRUST_RECOVERY_LIMIT",
+  "value": "9000"
+ },
+ "TRUST_RECOVERY_TIME": {
+  "description": "信頼度の増加時間（秒）",
+  "key": "TRUST_RECOVERY_TIME",
+  "value": "360"
+ },
+ "TRUST_RECOVERY_VALUE": {
+  "description": "お気に入りユニット時の信頼度の増加量（100分率）／時間",
+  "key": "TRUST_RECOVERY_VALUE",
+  "value": "2"
+ },
+ "UNIT_COUNT_MAX": {
+  "description": "システム上のユニットの最大所有値",
+  "key": "UNIT_COUNT_MAX",
+  "value": "9999"
+ },
+ "UNIT_EXP_BONUS_RATE_BY_MOTIVATION": {
+  "description": "バトル終了時、一定以上やる気がある際のユニット経験値ボーナス",
+  "key": "UNIT_EXP_BONUS_RATE_BY_MOTIVATION",
+  "value": "120"
+ },
+ "UNIT_EXP_ONUS_RATE_BY_MOTIVATION": {
+  "description": "バトル終了時、一定以上やる気がない際のユニット経験値オーナス",
+  "key": "UNIT_EXP_ONUS_RATE_BY_MOTIVATION",
+  "value": "50"
+ },
+ "UNIT_LIFE_POINT_CALC_VALUE_1": {
+  "description": "ユニットステータス計算値",
+  "key": "UNIT_LIFE_POINT_CALC_VALUE_1",
+  "value": "110"
+ },
+ "UNIT_LIFE_POINT_CALC_VALUE_2": {
+  "description": "ユニットステータス計算値",
+  "key": "UNIT_LIFE_POINT_CALC_VALUE_2",
+  "value": "100"
+ },
+ "UNIT_LIFE_POINT_CALC_VALUE_3": {
+  "description": "ユニットステータス計算値",
+  "key": "UNIT_LIFE_POINT_CALC_VALUE_3",
+  "value": "30"
+ },
+ "UNIT_STATUS_CALC_VALUE_1": {
+  "description": "ユニットステータス計算値",
+  "key": "UNIT_STATUS_CALC_VALUE_1",
+  "value": "110"
+ },
+ "UNIT_STATUS_CALC_VALUE_2": {
+  "description": "ユニットステータス計算値",
+  "key": "UNIT_STATUS_CALC_VALUE_2",
+  "value": "100"
+ },
+ "UNIT_STATUS_CALC_VALUE_3": {
+  "description": "ユニットステータス計算値",
+  "key": "UNIT_STATUS_CALC_VALUE_3",
+  "value": "15"
+ }
+}

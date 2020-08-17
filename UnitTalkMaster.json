@@ -1,0 +1,2562 @@
+{
+ "100101": {
+  "comic_filepath": "",
+  "id": 100101,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「勝手に動く人体模型」",
+  "trust": 5700,
+  "unit_id": 1001
+ },
+ "100102": {
+  "comic_filepath": "",
+  "id": 100102,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「赤い紙・青い紙」",
+  "trust": 6400,
+  "unit_id": 1001
+ },
+ "100103": {
+  "comic_filepath": "",
+  "id": 100103,
+  "talk_rank": 3,
+  "title": "学校あるある「プール」",
+  "trust": 6900,
+  "unit_id": 1001
+ },
+ "100104": {
+  "comic_filepath": "",
+  "id": 100104,
+  "talk_rank": 4,
+  "title": "学校あるある「避難訓練」",
+  "trust": 7400,
+  "unit_id": 1001
+ },
+ "100105": {
+  "comic_filepath": "",
+  "id": 100105,
+  "talk_rank": 5,
+  "title": "神社ネタ「お賽銭」",
+  "trust": 7900,
+  "unit_id": 1001
+ },
+ "100106": {
+  "comic_filepath": "",
+  "id": 100106,
+  "talk_rank": 6,
+  "title": "神社ネタ「おみくじ」",
+  "trust": 8500,
+  "unit_id": 1001
+ },
+ "100107": {
+  "comic_filepath": "",
+  "id": 100107,
+  "talk_rank": 7,
+  "title": "神社ネタ「大幣（お祓い棒）」",
+  "trust": 9200,
+  "unit_id": 1001
+ },
+ "100108": {
+  "comic_filepath": "",
+  "id": 100108,
+  "talk_rank": 8,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1001
+ },
+ "100201": {
+  "comic_filepath": "",
+  "id": 100201,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「血がわきでるバケツ」",
+  "trust": 5700,
+  "unit_id": 1002
+ },
+ "100202": {
+  "comic_filepath": "",
+  "id": 100202,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「藁人形」",
+  "trust": 6400,
+  "unit_id": 1002
+ },
+ "100203": {
+  "comic_filepath": "",
+  "id": 100203,
+  "talk_rank": 3,
+  "title": "学校あるある「理科室」",
+  "trust": 6900,
+  "unit_id": 1002
+ },
+ "100204": {
+  "comic_filepath": "",
+  "id": 100204,
+  "talk_rank": 4,
+  "title": "学校あるある「消しゴムを落とした」",
+  "trust": 7400,
+  "unit_id": 1002
+ },
+ "100205": {
+  "comic_filepath": "",
+  "id": 100205,
+  "talk_rank": 5,
+  "title": "学校あるある「かくれんぼ」",
+  "trust": 7900,
+  "unit_id": 1002
+ },
+ "100206": {
+  "comic_filepath": "",
+  "id": 100206,
+  "talk_rank": 6,
+  "title": "学校あるある「消しカスを練って遊ぶ」",
+  "trust": 8500,
+  "unit_id": 1002
+ },
+ "100207": {
+  "comic_filepath": "",
+  "id": 100207,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1002
+ },
+ "100208": {
+  "comic_filepath": "",
+  "id": 100208,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1002
+ },
+ "100301": {
+  "comic_filepath": "",
+  "id": 100301,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「描き足される絵」",
+  "trust": 5700,
+  "unit_id": 1003
+ },
+ "100302": {
+  "comic_filepath": "",
+  "id": 100302,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「毬をつく少女」",
+  "trust": 6400,
+  "unit_id": 1003
+ },
+ "100303": {
+  "comic_filepath": "",
+  "id": 100303,
+  "talk_rank": 3,
+  "title": "学校あるある「給食」",
+  "trust": 6900,
+  "unit_id": 1003
+ },
+ "100304": {
+  "comic_filepath": "",
+  "id": 100304,
+  "talk_rank": 4,
+  "title": "学校あるある「美術室」",
+  "trust": 7400,
+  "unit_id": 1003
+ },
+ "100305": {
+  "comic_filepath": "",
+  "id": 100305,
+  "talk_rank": 5,
+  "title": "学校あるある「制服というものの存在について」",
+  "trust": 7900,
+  "unit_id": 1003
+ },
+ "100306": {
+  "comic_filepath": "",
+  "id": 100306,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1003
+ },
+ "100307": {
+  "comic_filepath": "",
+  "id": 100307,
+  "talk_rank": 7,
+  "title": "神社ネタ「お守り」",
+  "trust": 9200,
+  "unit_id": 1003
+ },
+ "100308": {
+  "comic_filepath": "",
+  "id": 100308,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1003
+ },
+ "100401": {
+  "comic_filepath": "",
+  "id": 100401,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「体育倉庫に閉じ込められる」",
+  "trust": 5700,
+  "unit_id": 1004
+ },
+ "100402": {
+  "comic_filepath": "",
+  "id": 100402,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「トイレの花子さん？」",
+  "trust": 6400,
+  "unit_id": 1004
+ },
+ "100403": {
+  "comic_filepath": "",
+  "id": 100403,
+  "talk_rank": 3,
+  "title": "学校あるある「家庭科室（裁縫）」",
+  "trust": 6900,
+  "unit_id": 1004
+ },
+ "100404": {
+  "comic_filepath": "",
+  "id": 100404,
+  "talk_rank": 4,
+  "title": "学校あるある「百葉箱」",
+  "trust": 7400,
+  "unit_id": 1004
+ },
+ "100405": {
+  "comic_filepath": "",
+  "id": 100405,
+  "talk_rank": 5,
+  "title": "学校あるある「書道」",
+  "trust": 7900,
+  "unit_id": 1004
+ },
+ "100406": {
+  "comic_filepath": "",
+  "id": 100406,
+  "talk_rank": 6,
+  "title": "学校あるある「図書室」",
+  "trust": 8500,
+  "unit_id": 1004
+ },
+ "100407": {
+  "comic_filepath": "",
+  "id": 100407,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1004
+ },
+ "100408": {
+  "comic_filepath": "",
+  "id": 100408,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1004
+ },
+ "100501": {
+  "comic_filepath": "",
+  "id": 100501,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「家庭科室の包丁の怪」",
+  "trust": 5700,
+  "unit_id": 1005
+ },
+ "100502": {
+  "comic_filepath": "",
+  "id": 100502,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「血がわきでるバケツ」",
+  "trust": 6400,
+  "unit_id": 1005
+ },
+ "100503": {
+  "comic_filepath": "",
+  "id": 100503,
+  "talk_rank": 3,
+  "title": "学校あるある「美術室」",
+  "trust": 6900,
+  "unit_id": 1005
+ },
+ "100504": {
+  "comic_filepath": "",
+  "id": 100504,
+  "talk_rank": 4,
+  "title": "学校あるある「校内清掃」",
+  "trust": 7400,
+  "unit_id": 1005
+ },
+ "100505": {
+  "comic_filepath": "",
+  "id": 100505,
+  "talk_rank": 5,
+  "title": "学校あるある「創作ダンス」",
+  "trust": 7900,
+  "unit_id": 1005
+ },
+ "100506": {
+  "comic_filepath": "",
+  "id": 100506,
+  "talk_rank": 6,
+  "title": "学校あるある「放課後の過ごし方」",
+  "trust": 8500,
+  "unit_id": 1005
+ },
+ "100507": {
+  "comic_filepath": "",
+  "id": 100507,
+  "talk_rank": 7,
+  "title": "神社ネタ「お守り」",
+  "trust": 9200,
+  "unit_id": 1005
+ },
+ "100508": {
+  "comic_filepath": "",
+  "id": 100508,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1005
+ },
+ "100601": {
+  "comic_filepath": "",
+  "id": 100601,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「鏡の呪い」",
+  "trust": 5700,
+  "unit_id": 1006
+ },
+ "100602": {
+  "comic_filepath": "",
+  "id": 100602,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「こっくりさん」",
+  "trust": 6400,
+  "unit_id": 1006
+ },
+ "100603": {
+  "comic_filepath": "",
+  "id": 100603,
+  "talk_rank": 3,
+  "title": "学校あるある「リレーバトン」",
+  "trust": 6900,
+  "unit_id": 1006
+ },
+ "100604": {
+  "comic_filepath": "",
+  "id": 100604,
+  "talk_rank": 4,
+  "title": "学校あるある「図書室」",
+  "trust": 7400,
+  "unit_id": 1006
+ },
+ "100605": {
+  "comic_filepath": "",
+  "id": 100605,
+  "talk_rank": 5,
+  "title": "学校あるある「外国語の発音」",
+  "trust": 7900,
+  "unit_id": 1006
+ },
+ "100606": {
+  "comic_filepath": "",
+  "id": 100606,
+  "talk_rank": 6,
+  "title": "神社ネタ「しめ縄」",
+  "trust": 8500,
+  "unit_id": 1006
+ },
+ "100607": {
+  "comic_filepath": "",
+  "id": 100607,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1006
+ },
+ "100608": {
+  "comic_filepath": "",
+  "id": 100608,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1006
+ },
+ "100701": {
+  "comic_filepath": "",
+  "id": 100701,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「家庭科室の包丁の怪」",
+  "trust": 5700,
+  "unit_id": 1007
+ },
+ "100702": {
+  "comic_filepath": "",
+  "id": 100702,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「体育倉庫に閉じ込められる」",
+  "trust": 6400,
+  "unit_id": 1007
+ },
+ "100703": {
+  "comic_filepath": "",
+  "id": 100703,
+  "talk_rank": 3,
+  "title": "学校あるある「武道場」",
+  "trust": 6900,
+  "unit_id": 1007
+ },
+ "100704": {
+  "comic_filepath": "",
+  "id": 100704,
+  "talk_rank": 4,
+  "title": "学校あるある「定規、分度器」",
+  "trust": 7400,
+  "unit_id": 1007
+ },
+ "100705": {
+  "comic_filepath": "",
+  "id": 100705,
+  "talk_rank": 5,
+  "title": "学校あるある「暗算、算盤、電卓」",
+  "trust": 7900,
+  "unit_id": 1007
+ },
+ "100706": {
+  "comic_filepath": "",
+  "id": 100706,
+  "talk_rank": 6,
+  "title": "神社ネタ「柏手」",
+  "trust": 8500,
+  "unit_id": 1007
+ },
+ "100707": {
+  "comic_filepath": "",
+  "id": 100707,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1007
+ },
+ "100708": {
+  "comic_filepath": "",
+  "id": 100708,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1007
+ },
+ "100801": {
+  "comic_filepath": "",
+  "id": 100801,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「屋上への階段」",
+  "trust": 5700,
+  "unit_id": 1008
+ },
+ "100802": {
+  "comic_filepath": "",
+  "id": 100802,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「藁人形」",
+  "trust": 6400,
+  "unit_id": 1008
+ },
+ "100803": {
+  "comic_filepath": "",
+  "id": 100803,
+  "talk_rank": 3,
+  "title": "学校あるある「図書室」",
+  "trust": 6900,
+  "unit_id": 1008
+ },
+ "100804": {
+  "comic_filepath": "",
+  "id": 100804,
+  "talk_rank": 4,
+  "title": "学校あるある「社会科の地図」",
+  "trust": 7400,
+  "unit_id": 1008
+ },
+ "100805": {
+  "comic_filepath": "",
+  "id": 100805,
+  "talk_rank": 5,
+  "title": "学校あるある「忘れ物、落とし物置き場」",
+  "trust": 7900,
+  "unit_id": 1008
+ },
+ "100806": {
+  "comic_filepath": "",
+  "id": 100806,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1008
+ },
+ "100807": {
+  "comic_filepath": "",
+  "id": 100807,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1008
+ },
+ "100808": {
+  "comic_filepath": "",
+  "id": 100808,
+  "talk_rank": 8,
+  "title": "神社ネタ「おみくじ」",
+  "trust": 9900,
+  "unit_id": 1008
+ },
+ "100901": {
+  "comic_filepath": "",
+  "id": 100901,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「鏡の呪い」",
+  "trust": 5700,
+  "unit_id": 1009
+ },
+ "100902": {
+  "comic_filepath": "",
+  "id": 100902,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「こっくりさん」",
+  "trust": 6400,
+  "unit_id": 1009
+ },
+ "100903": {
+  "comic_filepath": "",
+  "id": 100903,
+  "talk_rank": 3,
+  "title": "学校あるある「白線引き」",
+  "trust": 6900,
+  "unit_id": 1009
+ },
+ "100904": {
+  "comic_filepath": "",
+  "id": 100904,
+  "talk_rank": 4,
+  "title": "学校あるある「避難訓練」",
+  "trust": 7400,
+  "unit_id": 1009
+ },
+ "100905": {
+  "comic_filepath": "",
+  "id": 100905,
+  "talk_rank": 5,
+  "title": "学校あるある「掲示板」",
+  "trust": 7900,
+  "unit_id": 1009
+ },
+ "100906": {
+  "comic_filepath": "",
+  "id": 100906,
+  "talk_rank": 6,
+  "title": "神社ネタ「柏手」",
+  "trust": 8500,
+  "unit_id": 1009
+ },
+ "100907": {
+  "comic_filepath": "",
+  "id": 100907,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1009
+ },
+ "100908": {
+  "comic_filepath": "",
+  "id": 100908,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1009
+ },
+ "101001": {
+  "comic_filepath": "",
+  "id": 101001,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「描き足される絵」",
+  "trust": 5700,
+  "unit_id": 1010
+ },
+ "101002": {
+  "comic_filepath": "",
+  "id": 101002,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「毬をつく少女」",
+  "trust": 6400,
+  "unit_id": 1010
+ },
+ "101003": {
+  "comic_filepath": "",
+  "id": 101003,
+  "talk_rank": 3,
+  "title": "学校あるある「リレーバトン」",
+  "trust": 6900,
+  "unit_id": 1010
+ },
+ "101004": {
+  "comic_filepath": "",
+  "id": 101004,
+  "talk_rank": 4,
+  "title": "学校あるある「外国語の発音」",
+  "trust": 7400,
+  "unit_id": 1010
+ },
+ "101005": {
+  "comic_filepath": "",
+  "id": 101005,
+  "talk_rank": 5,
+  "title": "学校あるある「消しカスを練って遊ぶ」",
+  "trust": 7900,
+  "unit_id": 1010
+ },
+ "101006": {
+  "comic_filepath": "",
+  "id": 101006,
+  "talk_rank": 6,
+  "title": "学校あるある「鉛筆削り」",
+  "trust": 8500,
+  "unit_id": 1010
+ },
+ "101007": {
+  "comic_filepath": "",
+  "id": 101007,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1010
+ },
+ "101008": {
+  "comic_filepath": "",
+  "id": 101008,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1010
+ },
+ "101101": {
+  "comic_filepath": "",
+  "id": 101101,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「赤い紙・青い紙」",
+  "trust": 5700,
+  "unit_id": 1011
+ },
+ "101102": {
+  "comic_filepath": "",
+  "id": 101102,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「メリーさん？」",
+  "trust": 6400,
+  "unit_id": 1011
+ },
+ "101103": {
+  "comic_filepath": "",
+  "id": 101103,
+  "talk_rank": 3,
+  "title": "学校あるある「音楽室」",
+  "trust": 6900,
+  "unit_id": 1011
+ },
+ "101104": {
+  "comic_filepath": "",
+  "id": 101104,
+  "talk_rank": 4,
+  "title": "学校あるある「校内清掃」",
+  "trust": 7400,
+  "unit_id": 1011
+ },
+ "101105": {
+  "comic_filepath": "",
+  "id": 101105,
+  "talk_rank": 5,
+  "title": "学校あるある「定規、分度器」",
+  "trust": 7900,
+  "unit_id": 1011
+ },
+ "101106": {
+  "comic_filepath": "",
+  "id": 101106,
+  "talk_rank": 6,
+  "title": "学校あるある「ことわざ、慣用句の学習」",
+  "trust": 8500,
+  "unit_id": 1011
+ },
+ "101107": {
+  "comic_filepath": "",
+  "id": 101107,
+  "talk_rank": 7,
+  "title": "学校あるある「美術室」",
+  "trust": 9200,
+  "unit_id": 1011
+ },
+ "101108": {
+  "comic_filepath": "",
+  "id": 101108,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1011
+ },
+ "101201": {
+  "comic_filepath": "",
+  "id": 101201,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「体育倉庫に閉じ込められる」",
+  "trust": 5700,
+  "unit_id": 1012
+ },
+ "101202": {
+  "comic_filepath": "",
+  "id": 101202,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「藁人形」",
+  "trust": 6400,
+  "unit_id": 1012
+ },
+ "101203": {
+  "comic_filepath": "",
+  "id": 101203,
+  "talk_rank": 3,
+  "title": "学校あるある「なわとび」",
+  "trust": 6900,
+  "unit_id": 1012
+ },
+ "101204": {
+  "comic_filepath": "",
+  "id": 101204,
+  "talk_rank": 4,
+  "title": "学校あるある「理科室」",
+  "trust": 7400,
+  "unit_id": 1012
+ },
+ "101205": {
+  "comic_filepath": "",
+  "id": 101205,
+  "talk_rank": 5,
+  "title": "学校あるある「花壇」",
+  "trust": 7900,
+  "unit_id": 1012
+ },
+ "101206": {
+  "comic_filepath": "",
+  "id": 101206,
+  "talk_rank": 6,
+  "title": "学校あるある「飼育小屋」",
+  "trust": 8500,
+  "unit_id": 1012
+ },
+ "101207": {
+  "comic_filepath": "",
+  "id": 101207,
+  "talk_rank": 7,
+  "title": "学校あるある「花壇」",
+  "trust": 9200,
+  "unit_id": 1012
+ },
+ "101208": {
+  "comic_filepath": "",
+  "id": 101208,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1012
+ },
+ "101301": {
+  "comic_filepath": "",
+  "id": 101301,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「ひとりでに鳴りだすピアノ」",
+  "trust": 5700,
+  "unit_id": 1013
+ },
+ "101302": {
+  "comic_filepath": "",
+  "id": 101302,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「トイレの花子さん？」",
+  "trust": 6400,
+  "unit_id": 1013
+ },
+ "101303": {
+  "comic_filepath": "",
+  "id": 101303,
+  "talk_rank": 3,
+  "title": "学校あるある「書道」",
+  "trust": 6900,
+  "unit_id": 1013
+ },
+ "101304": {
+  "comic_filepath": "",
+  "id": 101304,
+  "talk_rank": 4,
+  "title": "学校あるある「ハードル」",
+  "trust": 7400,
+  "unit_id": 1013
+ },
+ "101305": {
+  "comic_filepath": "",
+  "id": 101305,
+  "talk_rank": 5,
+  "title": "学校あるある「掲示板」",
+  "trust": 7900,
+  "unit_id": 1013
+ },
+ "101306": {
+  "comic_filepath": "",
+  "id": 101306,
+  "talk_rank": 6,
+  "title": "神社ネタ「お賽銭」",
+  "trust": 8500,
+  "unit_id": 1013
+ },
+ "101307": {
+  "comic_filepath": "",
+  "id": 101307,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1013
+ },
+ "101308": {
+  "comic_filepath": "",
+  "id": 101308,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1013
+ },
+ "101401": {
+  "comic_filepath": "",
+  "id": 101401,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「屋上への階段」",
+  "trust": 5700,
+  "unit_id": 1014
+ },
+ "101402": {
+  "comic_filepath": "",
+  "id": 101402,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「勝手に動く人体模型」",
+  "trust": 6400,
+  "unit_id": 1014
+ },
+ "101403": {
+  "comic_filepath": "",
+  "id": 101403,
+  "talk_rank": 3,
+  "title": "学校あるある「掲示板」",
+  "trust": 6900,
+  "unit_id": 1014
+ },
+ "101404": {
+  "comic_filepath": "",
+  "id": 101404,
+  "talk_rank": 4,
+  "title": "学校あるある「国語辞典を引く」",
+  "trust": 7400,
+  "unit_id": 1014
+ },
+ "101405": {
+  "comic_filepath": "",
+  "id": 101405,
+  "talk_rank": 5,
+  "title": "学校あるある「創作ダンス」",
+  "trust": 7900,
+  "unit_id": 1014
+ },
+ "101406": {
+  "comic_filepath": "",
+  "id": 101406,
+  "talk_rank": 6,
+  "title": "学校あるある「放課後の過ごし方」",
+  "trust": 8500,
+  "unit_id": 1014
+ },
+ "101407": {
+  "comic_filepath": "",
+  "id": 101407,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1014
+ },
+ "101408": {
+  "comic_filepath": "",
+  "id": 101408,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1014
+ },
+ "101501": {
+  "comic_filepath": "",
+  "id": 101501,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「鏡の呪い」",
+  "trust": 5700,
+  "unit_id": 1015
+ },
+ "101502": {
+  "comic_filepath": "",
+  "id": 101502,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「描き足される絵」",
+  "trust": 6400,
+  "unit_id": 1015
+ },
+ "101503": {
+  "comic_filepath": "",
+  "id": 101503,
+  "talk_rank": 3,
+  "title": "学校あるある「なわとび」",
+  "trust": 6900,
+  "unit_id": 1015
+ },
+ "101504": {
+  "comic_filepath": "",
+  "id": 101504,
+  "talk_rank": 4,
+  "title": "学校あるある「美術室」",
+  "trust": 7400,
+  "unit_id": 1015
+ },
+ "101505": {
+  "comic_filepath": "",
+  "id": 101505,
+  "talk_rank": 5,
+  "title": "学校あるある「消しカスを練って遊ぶ」",
+  "trust": 7900,
+  "unit_id": 1015
+ },
+ "101506": {
+  "comic_filepath": "",
+  "id": 101506,
+  "talk_rank": 6,
+  "title": "学校あるある「放課後の過ごし方」",
+  "trust": 8500,
+  "unit_id": 1015
+ },
+ "101507": {
+  "comic_filepath": "",
+  "id": 101507,
+  "talk_rank": 7,
+  "title": "学校あるある「制服というものの存在について」",
+  "trust": 9200,
+  "unit_id": 1015
+ },
+ "101508": {
+  "comic_filepath": "",
+  "id": 101508,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1015
+ },
+ "101601": {
+  "comic_filepath": "",
+  "id": 101601,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「満月の夜に何かが起きる」",
+  "trust": 5700,
+  "unit_id": 1016
+ },
+ "101602": {
+  "comic_filepath": "",
+  "id": 101602,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「満月の夜に何かが起きる」",
+  "trust": 6400,
+  "unit_id": 1016
+ },
+ "101603": {
+  "comic_filepath": "",
+  "id": 101603,
+  "talk_rank": 3,
+  "title": "学校あるある「ハードル」",
+  "trust": 6900,
+  "unit_id": 1016
+ },
+ "101604": {
+  "comic_filepath": "",
+  "id": 101604,
+  "talk_rank": 4,
+  "title": "学校あるある「美術室」",
+  "trust": 7400,
+  "unit_id": 1016
+ },
+ "101605": {
+  "comic_filepath": "",
+  "id": 101605,
+  "talk_rank": 5,
+  "title": "学校あるある「理科室」",
+  "trust": 7900,
+  "unit_id": 1016
+ },
+ "101606": {
+  "comic_filepath": "",
+  "id": 101606,
+  "talk_rank": 6,
+  "title": "学校あるある「家庭科室（料理）」",
+  "trust": 8500,
+  "unit_id": 1016
+ },
+ "101607": {
+  "comic_filepath": "",
+  "id": 101607,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1016
+ },
+ "101608": {
+  "comic_filepath": "",
+  "id": 101608,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1016
+ },
+ "101701": {
+  "comic_filepath": "",
+  "id": 101701,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「毬をつく少女」",
+  "trust": 5700,
+  "unit_id": 1017
+ },
+ "101702": {
+  "comic_filepath": "",
+  "id": 101702,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「物がなくなる話」",
+  "trust": 6400,
+  "unit_id": 1017
+ },
+ "101703": {
+  "comic_filepath": "",
+  "id": 101703,
+  "talk_rank": 3,
+  "title": "学校あるある「音楽室」",
+  "trust": 6900,
+  "unit_id": 1017
+ },
+ "101704": {
+  "comic_filepath": "",
+  "id": 101704,
+  "talk_rank": 4,
+  "title": "学校あるある「校内清掃」",
+  "trust": 7400,
+  "unit_id": 1017
+ },
+ "101705": {
+  "comic_filepath": "",
+  "id": 101705,
+  "talk_rank": 5,
+  "title": "学校あるある「避難訓練」",
+  "trust": 7900,
+  "unit_id": 1017
+ },
+ "101706": {
+  "comic_filepath": "",
+  "id": 101706,
+  "talk_rank": 6,
+  "title": "学校あるある「給食」",
+  "trust": 8500,
+  "unit_id": 1017
+ },
+ "101707": {
+  "comic_filepath": "",
+  "id": 101707,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1017
+ },
+ "101708": {
+  "comic_filepath": "",
+  "id": 101708,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1017
+ },
+ "101801": {
+  "comic_filepath": "",
+  "id": 101801,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「赤い紙・青い紙」",
+  "trust": 5700,
+  "unit_id": 1018
+ },
+ "101802": {
+  "comic_filepath": "",
+  "id": 101802,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「満月の夜に何かが起きる」",
+  "trust": 6400,
+  "unit_id": 1018
+ },
+ "101803": {
+  "comic_filepath": "",
+  "id": 101803,
+  "talk_rank": 3,
+  "title": "学校あるある「掲示板」",
+  "trust": 6900,
+  "unit_id": 1018
+ },
+ "101804": {
+  "comic_filepath": "",
+  "id": 101804,
+  "talk_rank": 4,
+  "title": "学校あるある「花壇」",
+  "trust": 7400,
+  "unit_id": 1018
+ },
+ "101805": {
+  "comic_filepath": "",
+  "id": 101805,
+  "talk_rank": 5,
+  "title": "学校あるある「制服というものの存在について」",
+  "trust": 7900,
+  "unit_id": 1018
+ },
+ "101806": {
+  "comic_filepath": "",
+  "id": 101806,
+  "talk_rank": 6,
+  "title": "学校あるある「保健室（健康診断）」",
+  "trust": 8500,
+  "unit_id": 1018
+ },
+ "101807": {
+  "comic_filepath": "",
+  "id": 101807,
+  "talk_rank": 7,
+  "title": "学校あるある「保健室（健康診断）」",
+  "trust": 9200,
+  "unit_id": 1018
+ },
+ "101808": {
+  "comic_filepath": "",
+  "id": 101808,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1018
+ },
+ "101901": {
+  "comic_filepath": "",
+  "id": 101901,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「『モナ・リザっぽい』の怪」",
+  "trust": 5700,
+  "unit_id": 1019
+ },
+ "101902": {
+  "comic_filepath": "",
+  "id": 101902,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「満月の夜に何かが起きる」",
+  "trust": 6400,
+  "unit_id": 1019
+ },
+ "101903": {
+  "comic_filepath": "",
+  "id": 101903,
+  "talk_rank": 3,
+  "title": "学校あるある「大時計」",
+  "trust": 6900,
+  "unit_id": 1019
+ },
+ "101904": {
+  "comic_filepath": "",
+  "id": 101904,
+  "talk_rank": 4,
+  "title": "学校あるある「林間学校」",
+  "trust": 7400,
+  "unit_id": 1019
+ },
+ "101905": {
+  "comic_filepath": "",
+  "id": 101905,
+  "talk_rank": 5,
+  "title": "学校あるある「黒板消し」",
+  "trust": 7900,
+  "unit_id": 1019
+ },
+ "101906": {
+  "comic_filepath": "",
+  "id": 101906,
+  "talk_rank": 6,
+  "title": "学校あるある「教科書に落書き」",
+  "trust": 8500,
+  "unit_id": 1019
+ },
+ "101907": {
+  "comic_filepath": "",
+  "id": 101907,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1019
+ },
+ "101908": {
+  "comic_filepath": "",
+  "id": 101908,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1019
+ },
+ "102001": {
+  "comic_filepath": "",
+  "id": 102001,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「家庭科室の包丁の怪」",
+  "trust": 5700,
+  "unit_id": 1020
+ },
+ "102002": {
+  "comic_filepath": "",
+  "id": 102002,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「屋上への階段」",
+  "trust": 6400,
+  "unit_id": 1020
+ },
+ "102003": {
+  "comic_filepath": "",
+  "id": 102003,
+  "talk_rank": 3,
+  "title": "学校あるある「ことわざ、慣用句の学習」",
+  "trust": 6900,
+  "unit_id": 1020
+ },
+ "102004": {
+  "comic_filepath": "",
+  "id": 102004,
+  "talk_rank": 4,
+  "title": "学校あるある「鉛筆削り」",
+  "trust": 7400,
+  "unit_id": 1020
+ },
+ "102005": {
+  "comic_filepath": "",
+  "id": 102005,
+  "talk_rank": 5,
+  "title": "学校あるある「社会科の地図」",
+  "trust": 7900,
+  "unit_id": 1020
+ },
+ "102006": {
+  "comic_filepath": "",
+  "id": 102006,
+  "talk_rank": 6,
+  "title": "学校あるある「運動場（サッカー、トラック走）」",
+  "trust": 8500,
+  "unit_id": 1020
+ },
+ "102007": {
+  "comic_filepath": "",
+  "id": 102007,
+  "talk_rank": 7,
+  "title": "学校あるある「武道場」",
+  "trust": 9200,
+  "unit_id": 1020
+ },
+ "102008": {
+  "comic_filepath": "",
+  "id": 102008,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1020
+ },
+ "102101": {
+  "comic_filepath": "",
+  "id": 102101,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「藁人形」",
+  "trust": 5700,
+  "unit_id": 1021
+ },
+ "102102": {
+  "comic_filepath": "",
+  "id": 102102,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「ひとりでに鳴りだすピアノ」",
+  "trust": 6400,
+  "unit_id": 1021
+ },
+ "102103": {
+  "comic_filepath": "",
+  "id": 102103,
+  "talk_rank": 3,
+  "title": "学校あるある「体育館（バスケットボール）」",
+  "trust": 6900,
+  "unit_id": 1021
+ },
+ "102104": {
+  "comic_filepath": "",
+  "id": 102104,
+  "talk_rank": 4,
+  "title": "学校あるある「大時計」",
+  "trust": 7400,
+  "unit_id": 1021
+ },
+ "102105": {
+  "comic_filepath": "",
+  "id": 102105,
+  "talk_rank": 5,
+  "title": "学校あるある「家庭科室（裁縫）」",
+  "trust": 7900,
+  "unit_id": 1021
+ },
+ "102106": {
+  "comic_filepath": "",
+  "id": 102106,
+  "talk_rank": 6,
+  "title": "学校あるある「花壇」",
+  "trust": 8500,
+  "unit_id": 1021
+ },
+ "102107": {
+  "comic_filepath": "",
+  "id": 102107,
+  "talk_rank": 7,
+  "title": "学校あるある「暗算、算盤、電卓」",
+  "trust": 9200,
+  "unit_id": 1021
+ },
+ "102108": {
+  "comic_filepath": "",
+  "id": 102108,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1021
+ },
+ "102201": {
+  "comic_filepath": "",
+  "id": 102201,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「鏡の呪い」",
+  "trust": 5700,
+  "unit_id": 1022
+ },
+ "102202": {
+  "comic_filepath": "",
+  "id": 102202,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「謎の人物の像」",
+  "trust": 6400,
+  "unit_id": 1022
+ },
+ "102203": {
+  "comic_filepath": "",
+  "id": 102203,
+  "talk_rank": 3,
+  "title": "学校あるある「運動場（サッカー、トラック走）」",
+  "trust": 6900,
+  "unit_id": 1022
+ },
+ "102204": {
+  "comic_filepath": "",
+  "id": 102204,
+  "talk_rank": 4,
+  "title": "学校あるある「定規、分度器」",
+  "trust": 7400,
+  "unit_id": 1022
+ },
+ "102205": {
+  "comic_filepath": "",
+  "id": 102205,
+  "talk_rank": 5,
+  "title": "学校あるある「消しカスを練って遊ぶ」",
+  "trust": 7900,
+  "unit_id": 1022
+ },
+ "102206": {
+  "comic_filepath": "",
+  "id": 102206,
+  "talk_rank": 6,
+  "title": "神社ネタ「おみくじ」",
+  "trust": 8500,
+  "unit_id": 1022
+ },
+ "102207": {
+  "comic_filepath": "",
+  "id": 102207,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1022
+ },
+ "102208": {
+  "comic_filepath": "",
+  "id": 102208,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1022
+ },
+ "102301": {
+  "comic_filepath": "",
+  "id": 102301,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「『モナ・リザっぽい』の怪」",
+  "trust": 5700,
+  "unit_id": 1023
+ },
+ "102302": {
+  "comic_filepath": "",
+  "id": 102302,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「体育倉庫に閉じ込められる」",
+  "trust": 6400,
+  "unit_id": 1023
+ },
+ "102303": {
+  "comic_filepath": "",
+  "id": 102303,
+  "talk_rank": 3,
+  "title": "学校あるある「百葉箱」",
+  "trust": 6900,
+  "unit_id": 1023
+ },
+ "102304": {
+  "comic_filepath": "",
+  "id": 102304,
+  "talk_rank": 4,
+  "title": "学校あるある「コンパスでイタズラ」",
+  "trust": 7400,
+  "unit_id": 1023
+ },
+ "102305": {
+  "comic_filepath": "",
+  "id": 102305,
+  "talk_rank": 5,
+  "title": "学校あるある「コンパスでイタズラ」",
+  "trust": 7900,
+  "unit_id": 1023
+ },
+ "102306": {
+  "comic_filepath": "",
+  "id": 102306,
+  "talk_rank": 6,
+  "title": "学校あるある「家庭科室（料理）」",
+  "trust": 8500,
+  "unit_id": 1023
+ },
+ "102307": {
+  "comic_filepath": "",
+  "id": 102307,
+  "talk_rank": 7,
+  "title": "学校あるある「暗算、算盤、電卓」",
+  "trust": 9200,
+  "unit_id": 1023
+ },
+ "102308": {
+  "comic_filepath": "",
+  "id": 102308,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1023
+ },
+ "102401": {
+  "comic_filepath": "",
+  "id": 102401,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「こっくりさん」",
+  "trust": 5700,
+  "unit_id": 1024
+ },
+ "102402": {
+  "comic_filepath": "",
+  "id": 102402,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「血がわきでるバケツ」",
+  "trust": 6400,
+  "unit_id": 1024
+ },
+ "102403": {
+  "comic_filepath": "",
+  "id": 102403,
+  "talk_rank": 3,
+  "title": "学校あるある「書道」",
+  "trust": 6900,
+  "unit_id": 1024
+ },
+ "102404": {
+  "comic_filepath": "",
+  "id": 102404,
+  "talk_rank": 4,
+  "title": "学校あるある「理科室」",
+  "trust": 7400,
+  "unit_id": 1024
+ },
+ "102405": {
+  "comic_filepath": "",
+  "id": 102405,
+  "talk_rank": 5,
+  "title": "学校あるある「マット」",
+  "trust": 7900,
+  "unit_id": 1024
+ },
+ "102406": {
+  "comic_filepath": "",
+  "id": 102406,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1024
+ },
+ "102407": {
+  "comic_filepath": "",
+  "id": 102407,
+  "talk_rank": 7,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1024
+ },
+ "102408": {
+  "comic_filepath": "",
+  "id": 102408,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1024
+ },
+ "102501": {
+  "comic_filepath": "",
+  "id": 102501,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「古井戸の怪」",
+  "trust": 5700,
+  "unit_id": 1025
+ },
+ "102502": {
+  "comic_filepath": "",
+  "id": 102502,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「血がわきでるバケツ」",
+  "trust": 6400,
+  "unit_id": 1025
+ },
+ "102503": {
+  "comic_filepath": "",
+  "id": 102503,
+  "talk_rank": 3,
+  "title": "学校あるある「武道場」",
+  "trust": 6900,
+  "unit_id": 1025
+ },
+ "102504": {
+  "comic_filepath": "",
+  "id": 102504,
+  "talk_rank": 4,
+  "title": "学校あるある「武道場」",
+  "trust": 7400,
+  "unit_id": 1025
+ },
+ "102505": {
+  "comic_filepath": "",
+  "id": 102505,
+  "talk_rank": 5,
+  "title": "学校あるある「飼育小屋」",
+  "trust": 7900,
+  "unit_id": 1025
+ },
+ "102506": {
+  "comic_filepath": "",
+  "id": 102506,
+  "talk_rank": 6,
+  "title": "学校あるある「飼育小屋」",
+  "trust": 8500,
+  "unit_id": 1025
+ },
+ "102507": {
+  "comic_filepath": "",
+  "id": 102507,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1025
+ },
+ "102508": {
+  "comic_filepath": "",
+  "id": 102508,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1025
+ },
+ "102601": {
+  "comic_filepath": "",
+  "id": 102601,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「赤い紙・青い紙」",
+  "trust": 5700,
+  "unit_id": 1026
+ },
+ "102602": {
+  "comic_filepath": "",
+  "id": 102602,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「トイレの花子さん？」",
+  "trust": 6400,
+  "unit_id": 1026
+ },
+ "102603": {
+  "comic_filepath": "",
+  "id": 102603,
+  "talk_rank": 3,
+  "title": "学校あるある「体育館（バスケットボール）」",
+  "trust": 6900,
+  "unit_id": 1026
+ },
+ "102604": {
+  "comic_filepath": "",
+  "id": 102604,
+  "talk_rank": 4,
+  "title": "学校あるある「国語辞典を引く」",
+  "trust": 7400,
+  "unit_id": 1026
+ },
+ "102605": {
+  "comic_filepath": "",
+  "id": 102605,
+  "talk_rank": 5,
+  "title": "学校あるある「保健室（健康診断）」",
+  "trust": 7900,
+  "unit_id": 1026
+ },
+ "102606": {
+  "comic_filepath": "",
+  "id": 102606,
+  "talk_rank": 6,
+  "title": "学校あるある「図書室」",
+  "trust": 8500,
+  "unit_id": 1026
+ },
+ "102607": {
+  "comic_filepath": "",
+  "id": 102607,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1026
+ },
+ "102608": {
+  "comic_filepath": "",
+  "id": 102608,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1026
+ },
+ "102701": {
+  "comic_filepath": "",
+  "id": 102701,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「ひとりでに鳴りだすピアノ」",
+  "trust": 5700,
+  "unit_id": 1027
+ },
+ "102702": {
+  "comic_filepath": "",
+  "id": 102702,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「謎の人物の像」",
+  "trust": 6400,
+  "unit_id": 1027
+ },
+ "102703": {
+  "comic_filepath": "",
+  "id": 102703,
+  "talk_rank": 3,
+  "title": "学校あるある「掲示板」",
+  "trust": 6900,
+  "unit_id": 1027
+ },
+ "102704": {
+  "comic_filepath": "",
+  "id": 102704,
+  "talk_rank": 4,
+  "title": "学校あるある「消しゴムを落とした」",
+  "trust": 7400,
+  "unit_id": 1027
+ },
+ "102705": {
+  "comic_filepath": "",
+  "id": 102705,
+  "talk_rank": 5,
+  "title": "学校あるある「制服というものの存在について」",
+  "trust": 7900,
+  "unit_id": 1027
+ },
+ "102706": {
+  "comic_filepath": "",
+  "id": 102706,
+  "talk_rank": 6,
+  "title": "神社ネタ「おみくじ」",
+  "trust": 8500,
+  "unit_id": 1027
+ },
+ "102707": {
+  "comic_filepath": "",
+  "id": 102707,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1027
+ },
+ "102708": {
+  "comic_filepath": "",
+  "id": 102708,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1027
+ },
+ "102801": {
+  "comic_filepath": "",
+  "id": 102801,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「メリーさん？」",
+  "trust": 5700,
+  "unit_id": 1028
+ },
+ "102802": {
+  "comic_filepath": "",
+  "id": 102802,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「体育倉庫に閉じ込められる」",
+  "trust": 6400,
+  "unit_id": 1028
+ },
+ "102803": {
+  "comic_filepath": "",
+  "id": 102803,
+  "talk_rank": 3,
+  "title": "学校あるある「かくれんぼ」",
+  "trust": 6900,
+  "unit_id": 1028
+ },
+ "102804": {
+  "comic_filepath": "",
+  "id": 102804,
+  "talk_rank": 4,
+  "title": "学校あるある「プール」",
+  "trust": 7400,
+  "unit_id": 1028
+ },
+ "102805": {
+  "comic_filepath": "",
+  "id": 102805,
+  "talk_rank": 5,
+  "title": "学校あるある「書道」",
+  "trust": 7900,
+  "unit_id": 1028
+ },
+ "102806": {
+  "comic_filepath": "",
+  "id": 102806,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1028
+ },
+ "102807": {
+  "comic_filepath": "",
+  "id": 102807,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1028
+ },
+ "102808": {
+  "comic_filepath": "",
+  "id": 102808,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1028
+ },
+ "102901": {
+  "comic_filepath": "",
+  "id": 102901,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「『モナ・リザっぽい』の怪」",
+  "trust": 5700,
+  "unit_id": 1029
+ },
+ "102902": {
+  "comic_filepath": "",
+  "id": 102902,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「キャラごとに変化。備考に記載」",
+  "trust": 6400,
+  "unit_id": 1029
+ },
+ "102903": {
+  "comic_filepath": "",
+  "id": 102903,
+  "talk_rank": 3,
+  "title": "学校あるある「白線引き」",
+  "trust": 6900,
+  "unit_id": 1029
+ },
+ "102904": {
+  "comic_filepath": "",
+  "id": 102904,
+  "talk_rank": 4,
+  "title": "学校あるある「林間学校」",
+  "trust": 7400,
+  "unit_id": 1029
+ },
+ "102905": {
+  "comic_filepath": "",
+  "id": 102905,
+  "talk_rank": 5,
+  "title": "学校あるある「暗算、算盤、電卓」",
+  "trust": 7900,
+  "unit_id": 1029
+ },
+ "102906": {
+  "comic_filepath": "",
+  "id": 102906,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1029
+ },
+ "102907": {
+  "comic_filepath": "",
+  "id": 102907,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1029
+ },
+ "102908": {
+  "comic_filepath": "",
+  "id": 102908,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1029
+ },
+ "103001": {
+  "comic_filepath": "",
+  "id": 103001,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「トイレの花子さん？」",
+  "trust": 5700,
+  "unit_id": 1030
+ },
+ "103002": {
+  "comic_filepath": "",
+  "id": 103002,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「古井戸の怪」",
+  "trust": 6400,
+  "unit_id": 1030
+ },
+ "103003": {
+  "comic_filepath": "",
+  "id": 103003,
+  "talk_rank": 3,
+  "title": "学校あるある「プール」",
+  "trust": 6900,
+  "unit_id": 1030
+ },
+ "103004": {
+  "comic_filepath": "",
+  "id": 103004,
+  "talk_rank": 4,
+  "title": "学校あるある「美術室」",
+  "trust": 7400,
+  "unit_id": 1030
+ },
+ "103005": {
+  "comic_filepath": "",
+  "id": 103005,
+  "talk_rank": 5,
+  "title": "学校あるある「画鋲を踏んでしまった」",
+  "trust": 7900,
+  "unit_id": 1030
+ },
+ "103006": {
+  "comic_filepath": "",
+  "id": 103006,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1030
+ },
+ "103007": {
+  "comic_filepath": "",
+  "id": 103007,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1030
+ },
+ "103008": {
+  "comic_filepath": "",
+  "id": 103008,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1030
+ },
+ "103101": {
+  "comic_filepath": "",
+  "id": 103101,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「ひとりでに鳴りだすピアノ」",
+  "trust": 5700,
+  "unit_id": 1031
+ },
+ "103102": {
+  "comic_filepath": "",
+  "id": 103102,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「謎の人物の像」",
+  "trust": 6400,
+  "unit_id": 1031
+ },
+ "103103": {
+  "comic_filepath": "",
+  "id": 103103,
+  "talk_rank": 3,
+  "title": "学校あるある「なわとび」",
+  "trust": 6900,
+  "unit_id": 1031
+ },
+ "103104": {
+  "comic_filepath": "",
+  "id": 103104,
+  "talk_rank": 4,
+  "title": "学校あるある「家庭科室（裁縫）」",
+  "trust": 7400,
+  "unit_id": 1031
+ },
+ "103105": {
+  "comic_filepath": "",
+  "id": 103105,
+  "talk_rank": 5,
+  "title": "学校あるある「百葉箱」",
+  "trust": 7900,
+  "unit_id": 1031
+ },
+ "103106": {
+  "comic_filepath": "",
+  "id": 103106,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1031
+ },
+ "103107": {
+  "comic_filepath": "",
+  "id": 103107,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1031
+ },
+ "103108": {
+  "comic_filepath": "",
+  "id": 103108,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1031
+ },
+ "103201": {
+  "comic_filepath": "",
+  "id": 103201,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「描き足される絵」",
+  "trust": 5700,
+  "unit_id": 1032
+ },
+ "103202": {
+  "comic_filepath": "",
+  "id": 103202,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「赤い紙・青い紙」",
+  "trust": 6400,
+  "unit_id": 1032
+ },
+ "103203": {
+  "comic_filepath": "",
+  "id": 103203,
+  "talk_rank": 3,
+  "title": "学校あるある「美術室」",
+  "trust": 6900,
+  "unit_id": 1032
+ },
+ "103204": {
+  "comic_filepath": "",
+  "id": 103204,
+  "talk_rank": 4,
+  "title": "学校あるある「窓ガラスを割ってしまった」",
+  "trust": 7400,
+  "unit_id": 1032
+ },
+ "103205": {
+  "comic_filepath": "",
+  "id": 103205,
+  "talk_rank": 5,
+  "title": "学校あるある「給食」",
+  "trust": 7900,
+  "unit_id": 1032
+ },
+ "103206": {
+  "comic_filepath": "",
+  "id": 103206,
+  "talk_rank": 6,
+  "title": "神社ネタ「柏手」",
+  "trust": 8500,
+  "unit_id": 1032
+ },
+ "103207": {
+  "comic_filepath": "",
+  "id": 103207,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1032
+ },
+ "103208": {
+  "comic_filepath": "",
+  "id": 103208,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1032
+ },
+ "103301": {
+  "comic_filepath": "",
+  "id": 103301,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「メリーさん？」",
+  "trust": 5700,
+  "unit_id": 1033
+ },
+ "103302": {
+  "comic_filepath": "",
+  "id": 103302,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「描き足される絵」",
+  "trust": 6400,
+  "unit_id": 1033
+ },
+ "103303": {
+  "comic_filepath": "",
+  "id": 103303,
+  "talk_rank": 3,
+  "title": "学校あるある「プール」",
+  "trust": 6900,
+  "unit_id": 1033
+ },
+ "103304": {
+  "comic_filepath": "",
+  "id": 103304,
+  "talk_rank": 4,
+  "title": "学校あるある「避難訓練」",
+  "trust": 7400,
+  "unit_id": 1033
+ },
+ "103305": {
+  "comic_filepath": "",
+  "id": 103305,
+  "talk_rank": 5,
+  "title": "学校あるある「窓ガラスを割ってしまった」",
+  "trust": 7900,
+  "unit_id": 1033
+ },
+ "103306": {
+  "comic_filepath": "",
+  "id": 103306,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1033
+ },
+ "103307": {
+  "comic_filepath": "",
+  "id": 103307,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1033
+ },
+ "103308": {
+  "comic_filepath": "",
+  "id": 103308,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1033
+ },
+ "103401": {
+  "comic_filepath": "",
+  "id": 103401,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「ひとりでに鳴りだすピアノ」",
+  "trust": 5700,
+  "unit_id": 1034
+ },
+ "103402": {
+  "comic_filepath": "",
+  "id": 103402,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「キャラごとに変化。備考に記載」",
+  "trust": 6400,
+  "unit_id": 1034
+ },
+ "103403": {
+  "comic_filepath": "",
+  "id": 103403,
+  "talk_rank": 3,
+  "title": "学校あるある「音楽室」",
+  "trust": 6900,
+  "unit_id": 1034
+ },
+ "103404": {
+  "comic_filepath": "",
+  "id": 103404,
+  "talk_rank": 4,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 7400,
+  "unit_id": 1034
+ },
+ "103405": {
+  "comic_filepath": "",
+  "id": 103405,
+  "talk_rank": 5,
+  "title": "学校あるある「外国語の発音」",
+  "trust": 7900,
+  "unit_id": 1034
+ },
+ "103406": {
+  "comic_filepath": "",
+  "id": 103406,
+  "talk_rank": 6,
+  "title": "学校あるある「社会科の地図」",
+  "trust": 8500,
+  "unit_id": 1034
+ },
+ "103407": {
+  "comic_filepath": "",
+  "id": 103407,
+  "talk_rank": 7,
+  "title": "神社ネタ「柏手」",
+  "trust": 9200,
+  "unit_id": 1034
+ },
+ "103408": {
+  "comic_filepath": "",
+  "id": 103408,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1034
+ },
+ "103501": {
+  "comic_filepath": "",
+  "id": 103501,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「鏡の呪い」",
+  "trust": 5700,
+  "unit_id": 1035
+ },
+ "103502": {
+  "comic_filepath": "",
+  "id": 103502,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「勝手に動く人体模型」",
+  "trust": 6400,
+  "unit_id": 1035
+ },
+ "103503": {
+  "comic_filepath": "",
+  "id": 103503,
+  "talk_rank": 3,
+  "title": "学校あるある「リレーバトン」",
+  "trust": 6900,
+  "unit_id": 1035
+ },
+ "103504": {
+  "comic_filepath": "",
+  "id": 103504,
+  "talk_rank": 4,
+  "title": "学校あるある「家庭科室（裁縫）」",
+  "trust": 7400,
+  "unit_id": 1035
+ },
+ "103505": {
+  "comic_filepath": "",
+  "id": 103505,
+  "talk_rank": 5,
+  "title": "学校あるある「忘れ物、落とし物置き場」",
+  "trust": 7900,
+  "unit_id": 1035
+ },
+ "103506": {
+  "comic_filepath": "",
+  "id": 103506,
+  "talk_rank": 6,
+  "title": "学校あるある「創作ダンス」",
+  "trust": 8500,
+  "unit_id": 1035
+ },
+ "103507": {
+  "comic_filepath": "",
+  "id": 103507,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1035
+ },
+ "103508": {
+  "comic_filepath": "",
+  "id": 103508,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1035
+ },
+ "103601": {
+  "comic_filepath": "",
+  "id": 103601,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「勝手に動く人体模型」",
+  "trust": 5700,
+  "unit_id": 1036
+ },
+ "103602": {
+  "comic_filepath": "",
+  "id": 103602,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「謎の人物の像」",
+  "trust": 6400,
+  "unit_id": 1036
+ },
+ "103603": {
+  "comic_filepath": "",
+  "id": 103603,
+  "talk_rank": 3,
+  "title": "学校あるある「画鋲を踏んでしまった」",
+  "trust": 6900,
+  "unit_id": 1036
+ },
+ "103604": {
+  "comic_filepath": "",
+  "id": 103604,
+  "talk_rank": 4,
+  "title": "学校あるある「保健室（健康診断）」",
+  "trust": 7400,
+  "unit_id": 1036
+ },
+ "103605": {
+  "comic_filepath": "",
+  "id": 103605,
+  "talk_rank": 5,
+  "title": "学校あるある「家庭科室（料理）」",
+  "trust": 7900,
+  "unit_id": 1036
+ },
+ "103606": {
+  "comic_filepath": "",
+  "id": 103606,
+  "talk_rank": 6,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1036
+ },
+ "103607": {
+  "comic_filepath": "",
+  "id": 103607,
+  "talk_rank": 7,
+  "title": "学校あるある「校内清掃」",
+  "trust": 9200,
+  "unit_id": 1036
+ },
+ "103608": {
+  "comic_filepath": "",
+  "id": 103608,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1036
+ },
+ "103701": {
+  "comic_filepath": "",
+  "id": 103701,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「体育倉庫に閉じ込められる」",
+  "trust": 5700,
+  "unit_id": 1037
+ },
+ "103702": {
+  "comic_filepath": "",
+  "id": 103702,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「家庭科室の包丁の怪」",
+  "trust": 6400,
+  "unit_id": 1037
+ },
+ "103703": {
+  "comic_filepath": "",
+  "id": 103703,
+  "talk_rank": 3,
+  "title": "学校あるある「花壇」",
+  "trust": 6900,
+  "unit_id": 1037
+ },
+ "103704": {
+  "comic_filepath": "",
+  "id": 103704,
+  "talk_rank": 4,
+  "title": "学校あるある「運動場（サッカー、トラック走）」",
+  "trust": 7400,
+  "unit_id": 1037
+ },
+ "103705": {
+  "comic_filepath": "",
+  "id": 103705,
+  "talk_rank": 5,
+  "title": "学校あるある「プール」",
+  "trust": 7900,
+  "unit_id": 1037
+ },
+ "103706": {
+  "comic_filepath": "",
+  "id": 103706,
+  "talk_rank": 6,
+  "title": "学校あるある「放課後の過ごし方」",
+  "trust": 8500,
+  "unit_id": 1037
+ },
+ "103707": {
+  "comic_filepath": "",
+  "id": 103707,
+  "talk_rank": 7,
+  "title": "神社ネタ「大幣（お祓い棒）」",
+  "trust": 9200,
+  "unit_id": 1037
+ },
+ "103708": {
+  "comic_filepath": "",
+  "id": 103708,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1037
+ },
+ "103801": {
+  "comic_filepath": "",
+  "id": 103801,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「物がなくなる話」",
+  "trust": 5700,
+  "unit_id": 1038
+ },
+ "103802": {
+  "comic_filepath": "",
+  "id": 103802,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「キャラごとに変化。備考に記載」",
+  "trust": 6400,
+  "unit_id": 1038
+ },
+ "103803": {
+  "comic_filepath": "",
+  "id": 103803,
+  "talk_rank": 3,
+  "title": "学校あるある「書道」",
+  "trust": 6900,
+  "unit_id": 1038
+ },
+ "103804": {
+  "comic_filepath": "",
+  "id": 103804,
+  "talk_rank": 4,
+  "title": "学校あるある「校内清掃」",
+  "trust": 7400,
+  "unit_id": 1038
+ },
+ "103805": {
+  "comic_filepath": "",
+  "id": 103805,
+  "talk_rank": 5,
+  "title": "神社ネタ「鳥居」",
+  "trust": 7900,
+  "unit_id": 1038
+ },
+ "103806": {
+  "comic_filepath": "",
+  "id": 103806,
+  "talk_rank": 6,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 8500,
+  "unit_id": 1038
+ },
+ "103807": {
+  "comic_filepath": "",
+  "id": 103807,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1038
+ },
+ "103808": {
+  "comic_filepath": "",
+  "id": 103808,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1038
+ },
+ "103901": {
+  "comic_filepath": "",
+  "id": 103901,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「こっくりさん」",
+  "trust": 5700,
+  "unit_id": 1039
+ },
+ "103902": {
+  "comic_filepath": "",
+  "id": 103902,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「勝手に動く人体模型」",
+  "trust": 6400,
+  "unit_id": 1039
+ },
+ "103903": {
+  "comic_filepath": "",
+  "id": 103903,
+  "talk_rank": 3,
+  "title": "学校あるある「黒板消し」",
+  "trust": 6900,
+  "unit_id": 1039
+ },
+ "103904": {
+  "comic_filepath": "",
+  "id": 103904,
+  "talk_rank": 4,
+  "title": "神社ネタ「お守り」",
+  "trust": 7400,
+  "unit_id": 1039
+ },
+ "103905": {
+  "comic_filepath": "",
+  "id": 103905,
+  "talk_rank": 5,
+  "title": "学校あるある「理科室」",
+  "trust": 7900,
+  "unit_id": 1039
+ },
+ "103906": {
+  "comic_filepath": "",
+  "id": 103906,
+  "talk_rank": 6,
+  "title": "学校あるある「理科室」",
+  "trust": 8500,
+  "unit_id": 1039
+ },
+ "103907": {
+  "comic_filepath": "",
+  "id": 103907,
+  "talk_rank": 7,
+  "title": "日常ネタ「キャラごとに変化」",
+  "trust": 9200,
+  "unit_id": 1039
+ },
+ "103908": {
+  "comic_filepath": "",
+  "id": 103908,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1039
+ },
+ "104001": {
+  "comic_filepath": "",
+  "id": 104001,
+  "talk_rank": 1,
+  "title": "怪談シリーズ「赤い紙・青い紙」",
+  "trust": 5700,
+  "unit_id": 1040
+ },
+ "104002": {
+  "comic_filepath": "",
+  "id": 104002,
+  "talk_rank": 2,
+  "title": "怪談シリーズ「古井戸の怪」",
+  "trust": 6400,
+  "unit_id": 1040
+ },
+ "104003": {
+  "comic_filepath": "",
+  "id": 104003,
+  "talk_rank": 3,
+  "title": "学校あるある「教科書に落書き」",
+  "trust": 6900,
+  "unit_id": 1040
+ },
+ "104004": {
+  "comic_filepath": "",
+  "id": 104004,
+  "talk_rank": 4,
+  "title": "学校あるある「プール」",
+  "trust": 7400,
+  "unit_id": 1040
+ },
+ "104005": {
+  "comic_filepath": "",
+  "id": 104005,
+  "talk_rank": 5,
+  "title": "学校あるある「プール」",
+  "trust": 7900,
+  "unit_id": 1040
+ },
+ "104006": {
+  "comic_filepath": "",
+  "id": 104006,
+  "talk_rank": 6,
+  "title": "学校あるある「放課後の過ごし方」",
+  "trust": 8500,
+  "unit_id": 1040
+ },
+ "104007": {
+  "comic_filepath": "",
+  "id": 104007,
+  "talk_rank": 7,
+  "title": "学校あるある「鉛筆削り」",
+  "trust": 9200,
+  "unit_id": 1040
+ },
+ "104008": {
+  "comic_filepath": "",
+  "id": 104008,
+  "talk_rank": 8,
+  "title": "能力ネタ「キャラごとに変化」",
+  "trust": 9900,
+  "unit_id": 1040
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "1": {
+  "exp": 100,
+  "id": 1,
+  "item_id": 111,
+  "need_time": 7200,
+  "same_type_exp_rate": 150,
+  "skill_type": 1
+ },
+ "2": {
+  "exp": 300,
+  "id": 2,
+  "item_id": 112,
+  "need_time": 14400,
+  "same_type_exp_rate": 150,
+  "skill_type": 1
+ },
+ "3": {
+  "exp": 800,
+  "id": 3,
+  "item_id": 113,
+  "need_time": 28800,
+  "same_type_exp_rate": 150,
+  "skill_type": 1
+ },
+ "4": {
+  "exp": 100,
+  "id": 4,
+  "item_id": 121,
+  "need_time": 7200,
+  "same_type_exp_rate": 150,
+  "skill_type": 2
+ },
+ "5": {
+  "exp": 300,
+  "id": 5,
+  "item_id": 122,
+  "need_time": 14400,
+  "same_type_exp_rate": 150,
+  "skill_type": 2
+ },
+ "6": {
+  "exp": 800,
+  "id": 6,
+  "item_id": 123,
+  "need_time": 28800,
+  "same_type_exp_rate": 150,
+  "skill_type": 2
+ },
+ "7": {
+  "exp": 100,
+  "id": 7,
+  "item_id": 131,
+  "need_time": 7200,
+  "same_type_exp_rate": 150,
+  "skill_type": 3
+ },
+ "8": {
+  "exp": 300,
+  "id": 8,
+  "item_id": 132,
+  "need_time": 14400,
+  "same_type_exp_rate": 150,
+  "skill_type": 3
+ },
+ "9": {
+  "exp": 800,
+  "id": 9,
+  "item_id": 133,
+  "need_time": 28800,
+  "same_type_exp_rate": 150,
+  "skill_type": 3
+ }
+}

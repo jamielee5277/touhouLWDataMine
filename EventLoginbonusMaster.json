@@ -1,0 +1,142 @@
+{
+ "1001": {
+  "background_image": "Event_LoginBonus_bg",
+  "day_count": 7,
+  "event_id": 1001,
+  "front_image": "Event_LogInBonus_title_01_000000",
+  "id": 1001,
+  "reward_group_id": 202004,
+  "unit_position_id": 10370108,
+  "unit_speech_group_id": 27
+ },
+ "1011": {
+  "background_image": "Event_LoginBonus_Release_bg",
+  "day_count": 10,
+  "event_id": 1011,
+  "front_image": "Event_LoginBonus_Release_title_01",
+  "id": 1011,
+  "reward_group_id": 20200427,
+  "unit_position_id": 10090108,
+  "unit_speech_group_id": 28
+ },
+ "1021": {
+  "background_image": "Event_LoginBonus_bg_reitaisai",
+  "day_count": 10,
+  "event_id": 1021,
+  "front_image": "Event_LogInBonus_title_reitaisai",
+  "id": 1021,
+  "reward_group_id": 20200508,
+  "unit_position_id": 10010101,
+  "unit_speech_group_id": 29
+ },
+ "1041": {
+  "background_image": "Event_LoginBonus_bg_hanjin_1041",
+  "day_count": 7,
+  "event_id": 1041,
+  "front_image": "Event_LogInBonus_title_hanjin_1041",
+  "id": 1041,
+  "reward_group_id": 20200519,
+  "unit_position_id": 10070201,
+  "unit_speech_group_id": 32
+ },
+ "1044": {
+  "background_image": "Event_LoginBonus_bg_1044",
+  "day_count": 7,
+  "event_id": 1044,
+  "front_image": "Event_LogInBonus_title_1044",
+  "id": 1044,
+  "reward_group_id": 20200527,
+  "unit_position_id": 10040201,
+  "unit_speech_group_id": 33
+ },
+ "1091": {
+  "background_image": "Event_LoginBonus_bg_1091",
+  "day_count": 7,
+  "event_id": 1091,
+  "front_image": "Event_LogInBonus_title_1091",
+  "id": 1091,
+  "reward_group_id": 20200622,
+  "unit_position_id": 10360201,
+  "unit_speech_group_id": 34
+ },
+ "1094": {
+  "background_image": "Event_LoginBonus_bg_1094",
+  "day_count": 7,
+  "event_id": 1094,
+  "front_image": "Event_LogInBonus_title_1094",
+  "id": 1094,
+  "reward_group_id": 20200630,
+  "unit_position_id": 10240201,
+  "unit_speech_group_id": 35
+ },
+ "2000": {
+  "background_image": "Event_LoginBonus_bg_2000",
+  "day_count": 10,
+  "event_id": 2000,
+  "front_image": "Event_LogInBonus_title_2000",
+  "id": 2000,
+  "reward_group_id": 20200605,
+  "unit_position_id": 10020101,
+  "unit_speech_group_id": 30
+ },
+ "2030": {
+  "background_image": "Event_LoginBonus_bg_2030",
+  "day_count": 10,
+  "event_id": 2030,
+  "front_image": "Event_LogInBonus_title_2030",
+  "id": 2030,
+  "reward_group_id": 20200701,
+  "unit_position_id": 10020101,
+  "unit_speech_group_id": 42
+ },
+ "2071": {
+  "background_image": "Event_LoginBonus_bg_2071",
+  "day_count": 7,
+  "event_id": 2071,
+  "front_image": "Event_LogInBonus_title_2071",
+  "id": 2071,
+  "reward_group_id": 20200722,
+  "unit_position_id": 10060201,
+  "unit_speech_group_id": 44
+ },
+ "2074": {
+  "background_image": "Event_LoginBonus_bg_2074",
+  "day_count": 7,
+  "event_id": 2074,
+  "front_image": "Event_LogInBonus_title_2074",
+  "id": 2074,
+  "reward_group_id": 20200730,
+  "unit_position_id": 10320201,
+  "unit_speech_group_id": 45
+ },
+ "2080": {
+  "background_image": "Event_LoginBonus_bg_2080",
+  "day_count": 10,
+  "event_id": 2080,
+  "front_image": "Event_LogInBonus_title_2080",
+  "id": 2080,
+  "reward_group_id": 20200801,
+  "unit_position_id": 10010101,
+  "unit_speech_group_id": 48
+ },
+ "2090": {
+  "background_image": "Event_LoginBonus_bg_2090",
+  "day_count": 10,
+  "event_id": 2090,
+  "front_image": "Event_LogInBonus_title_2090",
+  "id": 2090,
+  "reward_group_id": 20200817,
+  "unit_position_id": 10020101,
+  "unit_speech_group_id": 49
+ },
+ "2140": {
+  "background_image": "Event_LoginBonus_bg_2140",
+  "day_count": 7,
+  "event_id": 2140,
+  "front_image": "Event_LogInBonus_title_2140",
+  "id": 2140,
+  "reward_group_id": 20200731,
+  "unit_position_id": 10150101,
+  "unit_speech_group_id": 50
+ }
+}

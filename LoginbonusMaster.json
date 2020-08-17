@@ -1,0 +1,142 @@
+{
+ "21474838500": {
+  "day_count": 31,
+  "id": 202005,
+  "month": 5,
+  "reward_group_id": 31,
+  "year": 2020
+ },
+ "25769805796": {
+  "day_count": 30,
+  "id": 202006,
+  "month": 6,
+  "reward_group_id": 30,
+  "year": 2020
+ },
+ "30064773092": {
+  "day_count": 31,
+  "id": 202007,
+  "month": 7,
+  "reward_group_id": 31,
+  "year": 2020
+ },
+ "34359740388": {
+  "day_count": 31,
+  "id": 202008,
+  "month": 8,
+  "reward_group_id": 31,
+  "year": 2020
+ },
+ "38654707684": {
+  "day_count": 30,
+  "id": 202009,
+  "month": 9,
+  "reward_group_id": 30,
+  "year": 2020
+ },
+ "42949674980": {
+  "day_count": 31,
+  "id": 202010,
+  "month": 10,
+  "reward_group_id": 31,
+  "year": 2020
+ },
+ "47244642276": {
+  "day_count": 30,
+  "id": 202011,
+  "month": 11,
+  "reward_group_id": 30,
+  "year": 2020
+ },
+ "51539609572": {
+  "day_count": 31,
+  "id": 202012,
+  "month": 12,
+  "reward_group_id": 31,
+  "year": 2020
+ },
+ "4294969317": {
+  "day_count": 31,
+  "id": 202101,
+  "month": 1,
+  "reward_group_id": 31,
+  "year": 2021
+ },
+ "8589936613": {
+  "day_count": 28,
+  "id": 202102,
+  "month": 2,
+  "reward_group_id": 28,
+  "year": 2021
+ },
+ "12884903909": {
+  "day_count": 31,
+  "id": 202103,
+  "month": 3,
+  "reward_group_id": 31,
+  "year": 2021
+ },
+ "17179871205": {
+  "day_count": 30,
+  "id": 202104,
+  "month": 4,
+  "reward_group_id": 30,
+  "year": 2021
+ },
+ "21474838501": {
+  "day_count": 31,
+  "id": 202105,
+  "month": 5,
+  "reward_group_id": 31,
+  "year": 2021
+ },
+ "25769805797": {
+  "day_count": 30,
+  "id": 202106,
+  "month": 6,
+  "reward_group_id": 30,
+  "year": 2021
+ },
+ "30064773093": {
+  "day_count": 31,
+  "id": 202107,
+  "month": 7,
+  "reward_group_id": 31,
+  "year": 2021
+ },
+ "34359740389": {
+  "day_count": 31,
+  "id": 202108,
+  "month": 8,
+  "reward_group_id": 31,
+  "year": 2021
+ },
+ "38654707685": {
+  "day_count": 30,
+  "id": 202109,
+  "month": 9,
+  "reward_group_id": 30,
+  "year": 2021
+ },
+ "42949674981": {
+  "day_count": 31,
+  "id": 202110,
+  "month": 10,
+  "reward_group_id": 31,
+  "year": 2021
+ },
+ "47244642277": {
+  "day_count": 30,
+  "id": 202111,
+  "month": 11,
+  "reward_group_id": 30,
+  "year": 2021
+ },
+ "51539609573": {
+  "day_count": 31,
+  "id": 202112,
+  "month": 12,
+  "reward_group_id": 31,
+  "year": 2021
+ }
+}

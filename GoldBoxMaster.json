@@ -1,0 +1,102 @@
+{
+ "1": {
+  "consume_gold": 0,
+  "gathering_gold": 60,
+  "gathering_time": 1200,
+  "gold_limit_stock": 900,
+  "id": 1,
+  "level": 1,
+  "need_player_level": 1,
+  "need_time": 0
+ },
+ "2": {
+  "consume_gold": 100,
+  "gathering_gold": 64,
+  "gathering_time": 1200,
+  "gold_limit_stock": 1800,
+  "id": 2,
+  "level": 2,
+  "need_player_level": 1,
+  "need_time": 10
+ },
+ "3": {
+  "consume_gold": 500,
+  "gathering_gold": 68,
+  "gathering_time": 1200,
+  "gold_limit_stock": 2800,
+  "id": 3,
+  "level": 3,
+  "need_player_level": 10,
+  "need_time": 900
+ },
+ "4": {
+  "consume_gold": 1000,
+  "gathering_gold": 72,
+  "gathering_time": 1200,
+  "gold_limit_stock": 3800,
+  "id": 4,
+  "level": 4,
+  "need_player_level": 20,
+  "need_time": 3600
+ },
+ "5": {
+  "consume_gold": 2500,
+  "gathering_gold": 76,
+  "gathering_time": 1200,
+  "gold_limit_stock": 4800,
+  "id": 5,
+  "level": 5,
+  "need_player_level": 30,
+  "need_time": 7200
+ },
+ "6": {
+  "consume_gold": 5000,
+  "gathering_gold": 80,
+  "gathering_time": 1200,
+  "gold_limit_stock": 5800,
+  "id": 6,
+  "level": 6,
+  "need_player_level": 40,
+  "need_time": 14400
+ },
+ "7": {
+  "consume_gold": 10000,
+  "gathering_gold": 84,
+  "gathering_time": 1200,
+  "gold_limit_stock": 6800,
+  "id": 7,
+  "level": 7,
+  "need_player_level": 50,
+  "need_time": 28800
+ },
+ "8": {
+  "consume_gold": 20000,
+  "gathering_gold": 88,
+  "gathering_time": 1200,
+  "gold_limit_stock": 7900,
+  "id": 8,
+  "level": 8,
+  "need_player_level": 60,
+  "need_time": 43200
+ },
+ "9": {
+  "consume_gold": 30000,
+  "gathering_gold": 92,
+  "gathering_time": 1200,
+  "gold_limit_stock": 8900,
+  "id": 9,
+  "level": 9,
+  "need_player_level": 70,
+  "need_time": 64800
+ },
+ "10": {
+  "consume_gold": 40000,
+  "gathering_gold": 100,
+  "gathering_time": 1200,
+  "gold_limit_stock": 10000,
+  "id": 10,
+  "level": 10,
+  "need_player_level": 80,
+  "need_time": 86400
+ }
+}

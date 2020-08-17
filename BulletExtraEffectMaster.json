@@ -1,0 +1,4912 @@
+{
+ "1": {
+  "description": "自分の「陽気攻撃力」を1ランク上げる。",
+  "id": 1,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "2": {
+  "description": "自分の「陽気防御力」を1ランク上げる。",
+  "id": 2,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "3": {
+  "description": "自分の「陰気攻撃力」を1ランク上げる。",
+  "id": 3,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "4": {
+  "description": "自分の「陰気防御力」を1ランク上げる。",
+  "id": 4,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "5": {
+  "description": "自分の「速力」を1ランク上げる。",
+  "id": 5,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "6": {
+  "description": "自分の「命中」を1ランク上げる。",
+  "id": 6,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "7": {
+  "description": "自分の「回避」を1ランク上げる。",
+  "id": 7,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "8": {
+  "description": "自分の「クリティカル攻撃」を1ランク上げる。",
+  "id": 8,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "9": {
+  "description": "自分の「クリティカル防御」を1ランク上げる。",
+  "id": 9,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "10": {
+  "description": "自分の「クリティカル命中」を1ランク上げる。",
+  "id": 10,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "11": {
+  "description": "自分の「クリティカル回避」を1ランク上げる。",
+  "id": 11,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "12": {
+  "description": "自分の「注目」を1ランク上げる。",
+  "id": 12,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "13": {
+  "description": "自分の「陽気攻撃力」を1ランク下げる。",
+  "id": 13,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "14": {
+  "description": "自分の「陽気防御力」を1ランク下げる。",
+  "id": 14,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "15": {
+  "description": "自分の「陰気攻撃力」を1ランク下げる。",
+  "id": 15,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "16": {
+  "description": "自分の「陰気防御力」を1ランク下げる。",
+  "id": 16,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "17": {
+  "description": "自分の「速力」を1ランク下げる。",
+  "id": 17,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "18": {
+  "description": "自分の「命中」を1ランク下げる。",
+  "id": 18,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "19": {
+  "description": "自分の「回避」を1ランク下げる。",
+  "id": 19,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "20": {
+  "description": "自分の「クリティカル攻撃」を1ランク下げる。",
+  "id": 20,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "21": {
+  "description": "自分の「クリティカル防御」を1ランク下げる。",
+  "id": 21,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "22": {
+  "description": "自分の「クリティカル命中」を1ランク下げる。",
+  "id": 22,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "23": {
+  "description": "自分の「クリティカル回避」を1ランク下げる。",
+  "id": 23,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "24": {
+  "description": "自分の「注目」を1ランク下げる。",
+  "id": 24,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "25": {
+  "description": "自分の「結界」に結界異常「燃焼」を付与。",
+  "id": 25,
+  "name": "焼夷",
+  "subtype": 1,
+  "target": 1,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "26": {
+  "description": "自分の「結界」に結界異常「凍結」を付与。",
+  "id": 26,
+  "name": "冷却",
+  "subtype": 2,
+  "target": 1,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "27": {
+  "description": "自分の「結界」に結界異常「帯電」を付与。",
+  "id": 27,
+  "name": "荷電",
+  "subtype": 3,
+  "target": 1,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "28": {
+  "description": "自分の「結界」に結界異常「毒霧」を付与。",
+  "id": 28,
+  "name": "噴毒",
+  "subtype": 4,
+  "target": 1,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "29": {
+  "description": "自分の「結界」に結界異常「暗闇」を付与。",
+  "id": 29,
+  "name": "煙幕",
+  "subtype": 5,
+  "target": 1,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "30": {
+  "description": "自分に「スタン」（行動キャンセル）効果。",
+  "id": 30,
+  "name": "衝撃",
+  "subtype": 1,
+  "target": 1,
+  "turn": 1,
+  "type": 7,
+  "value": 1
+ },
+ "31": {
+  "description": "自分に「ディレイ」（行動順後退）効果。",
+  "id": 31,
+  "name": "粘着",
+  "subtype": 2,
+  "target": 1,
+  "turn": 1,
+  "type": 7,
+  "value": 1
+ },
+ "32": {
+  "description": "自分の「陽気攻撃力」を1ランク上げる。",
+  "id": 32,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "33": {
+  "description": "自分の「陽気防御力」を1ランク上げる。",
+  "id": 33,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "34": {
+  "description": "自分の「陰気攻撃力」を1ランク上げる。",
+  "id": 34,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "35": {
+  "description": "自分の「陰気防御力」を1ランク上げる。",
+  "id": 35,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "36": {
+  "description": "自分の「速力」を1ランク上げる。",
+  "id": 36,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "37": {
+  "description": "自分の「命中」を1ランク上げる。",
+  "id": 37,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "38": {
+  "description": "自分の「回避」を1ランク上げる。",
+  "id": 38,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "39": {
+  "description": "自分の「クリティカル攻撃」を1ランク上げる。",
+  "id": 39,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "40": {
+  "description": "自分の「クリティカル防御」を1ランク上げる。",
+  "id": 40,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "41": {
+  "description": "自分の「クリティカル命中」を1ランク上げる。",
+  "id": 41,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "42": {
+  "description": "自分の「クリティカル回避」を1ランク上げる。",
+  "id": 42,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "43": {
+  "description": "自分の「注目」を1ランク上げる。",
+  "id": 43,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "44": {
+  "description": "自分の「陽気攻撃力」を1ランク下げる。",
+  "id": 44,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "45": {
+  "description": "自分の「陽気防御力」を1ランク下げる。",
+  "id": 45,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "46": {
+  "description": "自分の「陰気攻撃力」を1ランク下げる。",
+  "id": 46,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "47": {
+  "description": "自分の「陰気防御力」を1ランク下げる。",
+  "id": 47,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "48": {
+  "description": "自分の「速力」を1ランク下げる。",
+  "id": 48,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "49": {
+  "description": "自分の「命中」を1ランク下げる。",
+  "id": 49,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "50": {
+  "description": "自分の「回避」を1ランク下げる。",
+  "id": 50,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "51": {
+  "description": "自分の「クリティカル攻撃」を1ランク下げる。",
+  "id": 51,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "52": {
+  "description": "自分の「クリティカル防御」を1ランク下げる。",
+  "id": 52,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "53": {
+  "description": "自分の「クリティカル命中」を1ランク下げる。",
+  "id": 53,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "54": {
+  "description": "自分の「クリティカル回避」を1ランク下げる。",
+  "id": 54,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "55": {
+  "description": "自分の「注目」を1ランク下げる。",
+  "id": 55,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "56": {
+  "description": "自分の「結界」に結界異常「燃焼」を付与。",
+  "id": 56,
+  "name": "焼夷",
+  "subtype": 1,
+  "target": 1,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "57": {
+  "description": "自分の「結界」に結界異常「凍結」を付与。",
+  "id": 57,
+  "name": "冷却",
+  "subtype": 2,
+  "target": 1,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "58": {
+  "description": "自分の「結界」に結界異常「帯電」を付与。",
+  "id": 58,
+  "name": "荷電",
+  "subtype": 3,
+  "target": 1,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "59": {
+  "description": "自分の「結界」に結界異常「毒霧」を付与。",
+  "id": 59,
+  "name": "噴毒",
+  "subtype": 4,
+  "target": 1,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "60": {
+  "description": "自分の「結界」に結界異常「暗闇」を付与。",
+  "id": 60,
+  "name": "煙幕",
+  "subtype": 5,
+  "target": 1,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "61": {
+  "description": "自分に「スタン」（行動キャンセル）効果。",
+  "id": 61,
+  "name": "衝撃",
+  "subtype": 1,
+  "target": 1,
+  "turn": 2,
+  "type": 7,
+  "value": 1
+ },
+ "62": {
+  "description": "自分に「ディレイ」（行動順後退）効果。",
+  "id": 62,
+  "name": "粘着",
+  "subtype": 2,
+  "target": 1,
+  "turn": 2,
+  "type": 7,
+  "value": 1
+ },
+ "63": {
+  "description": "自分の「陽気攻撃力」を1ランク上げる。",
+  "id": 63,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "64": {
+  "description": "自分の「陽気防御力」を1ランク上げる。",
+  "id": 64,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "65": {
+  "description": "自分の「陰気攻撃力」を1ランク上げる。",
+  "id": 65,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "66": {
+  "description": "自分の「陰気防御力」を1ランク上げる。",
+  "id": 66,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "67": {
+  "description": "自分の「速力」を1ランク上げる。",
+  "id": 67,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "68": {
+  "description": "自分の「命中」を1ランク上げる。",
+  "id": 68,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "69": {
+  "description": "自分の「回避」を1ランク上げる。",
+  "id": 69,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "70": {
+  "description": "自分の「クリティカル攻撃」を1ランク上げる。",
+  "id": 70,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "71": {
+  "description": "自分の「クリティカル防御」を1ランク上げる。",
+  "id": 71,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "72": {
+  "description": "自分の「クリティカル命中」を1ランク上げる。",
+  "id": 72,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "73": {
+  "description": "自分の「クリティカル回避」を1ランク上げる。",
+  "id": 73,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "74": {
+  "description": "自分の「注目」を1ランク上げる。",
+  "id": 74,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "75": {
+  "description": "自分の「陽気攻撃力」を1ランク下げる。",
+  "id": 75,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "76": {
+  "description": "自分の「陽気防御力」を1ランク下げる。",
+  "id": 76,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "77": {
+  "description": "自分の「陰気攻撃力」を1ランク下げる。",
+  "id": 77,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "78": {
+  "description": "自分の「陰気防御力」を1ランク下げる。",
+  "id": 78,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "79": {
+  "description": "自分の「速力」を1ランク下げる。",
+  "id": 79,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "80": {
+  "description": "自分の「命中」を1ランク下げる。",
+  "id": 80,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "81": {
+  "description": "自分の「回避」を1ランク下げる。",
+  "id": 81,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "82": {
+  "description": "自分の「クリティカル攻撃」を1ランク下げる。",
+  "id": 82,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "83": {
+  "description": "自分の「クリティカル防御」を1ランク下げる。",
+  "id": 83,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "84": {
+  "description": "自分の「クリティカル命中」を1ランク下げる。",
+  "id": 84,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "85": {
+  "description": "自分の「クリティカル回避」を1ランク下げる。",
+  "id": 85,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "86": {
+  "description": "自分の「注目」を1ランク下げる。",
+  "id": 86,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "87": {
+  "description": "自分の「結界」に結界異常「燃焼」を付与。",
+  "id": 87,
+  "name": "焼夷",
+  "subtype": 1,
+  "target": 1,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "88": {
+  "description": "自分の「結界」に結界異常「凍結」を付与。",
+  "id": 88,
+  "name": "冷却",
+  "subtype": 2,
+  "target": 1,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "89": {
+  "description": "自分の「結界」に結界異常「帯電」を付与。",
+  "id": 89,
+  "name": "荷電",
+  "subtype": 3,
+  "target": 1,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "90": {
+  "description": "自分の「結界」に結界異常「毒霧」を付与。",
+  "id": 90,
+  "name": "噴毒",
+  "subtype": 4,
+  "target": 1,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "91": {
+  "description": "自分の「結界」に結界異常「暗闇」を付与。",
+  "id": 91,
+  "name": "煙幕",
+  "subtype": 5,
+  "target": 1,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "92": {
+  "description": "自分に「スタン」（行動キャンセル）効果。",
+  "id": 92,
+  "name": "衝撃",
+  "subtype": 1,
+  "target": 1,
+  "turn": 3,
+  "type": 7,
+  "value": 1
+ },
+ "93": {
+  "description": "自分に「ディレイ」（行動順後退）効果。",
+  "id": 93,
+  "name": "粘着",
+  "subtype": 2,
+  "target": 1,
+  "turn": 3,
+  "type": 7,
+  "value": 1
+ },
+ "94": {
+  "description": "対象の「陽気攻撃力」を1ランク上げる。",
+  "id": 94,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "95": {
+  "description": "対象の「陽気防御力」を1ランク上げる。",
+  "id": 95,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "96": {
+  "description": "対象の「陰気攻撃力」を1ランク上げる。",
+  "id": 96,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "97": {
+  "description": "対象の「陰気防御力」を1ランク上げる。",
+  "id": 97,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "98": {
+  "description": "対象の「速力」を1ランク上げる。",
+  "id": 98,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "99": {
+  "description": "対象の「命中」を1ランク上げる。",
+  "id": 99,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "100": {
+  "description": "対象の「回避」を1ランク上げる。",
+  "id": 100,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "101": {
+  "description": "対象の「クリティカル攻撃」を1ランク上げる。",
+  "id": 101,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "102": {
+  "description": "対象の「クリティカル防御」を1ランク上げる。",
+  "id": 102,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "103": {
+  "description": "対象の「クリティカル命中」を1ランク上げる。",
+  "id": 103,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "104": {
+  "description": "対象の「クリティカル回避」を1ランク上げる。",
+  "id": 104,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "105": {
+  "description": "対象の「注目」を1ランク上げる。",
+  "id": 105,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 1
+ },
+ "106": {
+  "description": "対象の「陽気攻撃力」を1ランク下げる。",
+  "id": 106,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "107": {
+  "description": "対象の「陽気防御力」を1ランク下げる。",
+  "id": 107,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "108": {
+  "description": "対象の「陰気攻撃力」を1ランク下げる。",
+  "id": 108,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "109": {
+  "description": "対象の「陰気防御力」を1ランク下げる。",
+  "id": 109,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "110": {
+  "description": "対象の「速力」を1ランク下げる。",
+  "id": 110,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "111": {
+  "description": "対象の「命中」を1ランク下げる。",
+  "id": 111,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "112": {
+  "description": "対象の「回避」を1ランク下げる。",
+  "id": 112,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "113": {
+  "description": "対象の「クリティカル攻撃」を1ランク下げる。",
+  "id": 113,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "114": {
+  "description": "対象の「クリティカル防御」を1ランク下げる。",
+  "id": 114,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "115": {
+  "description": "対象の「クリティカル命中」を1ランク下げる。",
+  "id": 115,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "116": {
+  "description": "対象の「クリティカル回避」を1ランク下げる。",
+  "id": 116,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "117": {
+  "description": "対象の「注目」を1ランク下げる。",
+  "id": 117,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 1
+ },
+ "118": {
+  "description": "対象の「結界」に結界異常「燃焼」を付与。",
+  "id": 118,
+  "name": "焼夷",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "119": {
+  "description": "対象の「結界」に結界異常「凍結」を付与。",
+  "id": 119,
+  "name": "冷却",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "120": {
+  "description": "対象の「結界」に結界異常「帯電」を付与。",
+  "id": 120,
+  "name": "荷電",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "121": {
+  "description": "対象の「結界」に結界異常「毒霧」を付与。",
+  "id": 121,
+  "name": "噴毒",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "122": {
+  "description": "対象の「結界」に結界異常「暗闇」を付与。",
+  "id": 122,
+  "name": "煙幕",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 1
+ },
+ "123": {
+  "description": "対象に「スタン」（行動キャンセル）効果。",
+  "id": 123,
+  "name": "衝撃",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 7,
+  "value": 1
+ },
+ "124": {
+  "description": "対象に「ディレイ」（行動順後退）効果。",
+  "id": 124,
+  "name": "粘着",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 7,
+  "value": 1
+ },
+ "125": {
+  "description": "対象の「陽気攻撃力」を1ランク上げる。",
+  "id": 125,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "126": {
+  "description": "対象の「陽気防御力」を1ランク上げる。",
+  "id": 126,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "127": {
+  "description": "対象の「陰気攻撃力」を1ランク上げる。",
+  "id": 127,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "128": {
+  "description": "対象の「陰気防御力」を1ランク上げる。",
+  "id": 128,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "129": {
+  "description": "対象の「速力」を1ランク上げる。",
+  "id": 129,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "130": {
+  "description": "対象の「命中」を1ランク上げる。",
+  "id": 130,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "131": {
+  "description": "対象の「回避」を1ランク上げる。",
+  "id": 131,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "132": {
+  "description": "対象の「クリティカル攻撃」を1ランク上げる。",
+  "id": 132,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "133": {
+  "description": "対象の「クリティカル防御」を1ランク上げる。",
+  "id": 133,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "134": {
+  "description": "対象の「クリティカル命中」を1ランク上げる。",
+  "id": 134,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "135": {
+  "description": "対象の「クリティカル回避」を1ランク上げる。",
+  "id": 135,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "136": {
+  "description": "対象の「注目」を1ランク上げる。",
+  "id": 136,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 1
+ },
+ "137": {
+  "description": "対象の「陽気攻撃力」を1ランク下げる。",
+  "id": 137,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "138": {
+  "description": "対象の「陽気防御力」を1ランク下げる。",
+  "id": 138,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "139": {
+  "description": "対象の「陰気攻撃力」を1ランク下げる。",
+  "id": 139,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "140": {
+  "description": "対象の「陰気防御力」を1ランク下げる。",
+  "id": 140,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "141": {
+  "description": "対象の「速力」を1ランク下げる。",
+  "id": 141,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "142": {
+  "description": "対象の「命中」を1ランク下げる。",
+  "id": 142,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "143": {
+  "description": "対象の「回避」を1ランク下げる。",
+  "id": 143,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "144": {
+  "description": "対象の「クリティカル攻撃」を1ランク下げる。",
+  "id": 144,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "145": {
+  "description": "対象の「クリティカル防御」を1ランク下げる。",
+  "id": 145,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "146": {
+  "description": "対象の「クリティカル命中」を1ランク下げる。",
+  "id": 146,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "147": {
+  "description": "対象の「クリティカル回避」を1ランク下げる。",
+  "id": 147,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "148": {
+  "description": "対象の「注目」を1ランク下げる。",
+  "id": 148,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 1
+ },
+ "149": {
+  "description": "対象の「結界」に結界異常「燃焼」を付与。",
+  "id": 149,
+  "name": "焼夷",
+  "subtype": 1,
+  "target": 2,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "150": {
+  "description": "対象の「結界」に結界異常「凍結」を付与。",
+  "id": 150,
+  "name": "冷却",
+  "subtype": 2,
+  "target": 2,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "151": {
+  "description": "対象の「結界」に結界異常「帯電」を付与。",
+  "id": 151,
+  "name": "荷電",
+  "subtype": 3,
+  "target": 2,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "152": {
+  "description": "対象の「結界」に結界異常「毒霧」を付与。",
+  "id": 152,
+  "name": "噴毒",
+  "subtype": 4,
+  "target": 2,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "153": {
+  "description": "対象の「結界」に結界異常「暗闇」を付与。",
+  "id": 153,
+  "name": "煙幕",
+  "subtype": 5,
+  "target": 2,
+  "turn": 2,
+  "type": 6,
+  "value": 1
+ },
+ "154": {
+  "description": "対象に「スタン」（行動キャンセル）効果。",
+  "id": 154,
+  "name": "衝撃",
+  "subtype": 1,
+  "target": 2,
+  "turn": 2,
+  "type": 7,
+  "value": 1
+ },
+ "155": {
+  "description": "対象に「ディレイ」（行動順後退）効果。",
+  "id": 155,
+  "name": "粘着",
+  "subtype": 2,
+  "target": 2,
+  "turn": 2,
+  "type": 7,
+  "value": 1
+ },
+ "156": {
+  "description": "対象の「陽気攻撃力」を1ランク上げる。",
+  "id": 156,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "157": {
+  "description": "対象の「陽気防御力」を1ランク上げる。",
+  "id": 157,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "158": {
+  "description": "対象の「陰気攻撃力」を1ランク上げる。",
+  "id": 158,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "159": {
+  "description": "対象の「陰気防御力」を1ランク上げる。",
+  "id": 159,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "160": {
+  "description": "対象の「速力」を1ランク上げる。",
+  "id": 160,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "161": {
+  "description": "対象の「命中」を1ランク上げる。",
+  "id": 161,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "162": {
+  "description": "対象の「回避」を1ランク上げる。",
+  "id": 162,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "163": {
+  "description": "対象の「クリティカル攻撃」を1ランク上げる。",
+  "id": 163,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "164": {
+  "description": "対象の「クリティカル防御」を1ランク上げる。",
+  "id": 164,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "165": {
+  "description": "対象の「クリティカル命中」を1ランク上げる。",
+  "id": 165,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "166": {
+  "description": "対象の「クリティカル回避」を1ランク上げる。",
+  "id": 166,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "167": {
+  "description": "対象の「注目」を1ランク上げる。",
+  "id": 167,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 1
+ },
+ "168": {
+  "description": "対象の「陽気攻撃力」を1ランク下げる。",
+  "id": 168,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "169": {
+  "description": "対象の「陽気防御力」を1ランク下げる。",
+  "id": 169,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "170": {
+  "description": "対象の「陰気攻撃力」を1ランク下げる。",
+  "id": 170,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "171": {
+  "description": "対象の「陰気防御力」を1ランク下げる。",
+  "id": 171,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "172": {
+  "description": "対象の「速力」を1ランク下げる。",
+  "id": 172,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "173": {
+  "description": "対象の「命中」を1ランク下げる。",
+  "id": 173,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "174": {
+  "description": "対象の「回避」を1ランク下げる。",
+  "id": 174,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "175": {
+  "description": "対象の「クリティカル攻撃」を1ランク下げる。",
+  "id": 175,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "176": {
+  "description": "対象の「クリティカル防御」を1ランク下げる。",
+  "id": 176,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "177": {
+  "description": "対象の「クリティカル命中」を1ランク下げる。",
+  "id": 177,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "178": {
+  "description": "対象の「クリティカル回避」を1ランク下げる。",
+  "id": 178,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "179": {
+  "description": "対象の「注目」を1ランク下げる。",
+  "id": 179,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 1
+ },
+ "180": {
+  "description": "対象の「結界」に結界異常「燃焼」を付与。",
+  "id": 180,
+  "name": "焼夷",
+  "subtype": 1,
+  "target": 2,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "181": {
+  "description": "対象の「結界」に結界異常「凍結」を付与。",
+  "id": 181,
+  "name": "冷却",
+  "subtype": 2,
+  "target": 2,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "182": {
+  "description": "対象の「結界」に結界異常「帯電」を付与。",
+  "id": 182,
+  "name": "荷電",
+  "subtype": 3,
+  "target": 2,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "183": {
+  "description": "対象の「結界」に結界異常「毒霧」を付与。",
+  "id": 183,
+  "name": "噴毒",
+  "subtype": 4,
+  "target": 2,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "184": {
+  "description": "対象の「結界」に結界異常「暗闇」を付与。",
+  "id": 184,
+  "name": "煙幕",
+  "subtype": 5,
+  "target": 2,
+  "turn": 3,
+  "type": 6,
+  "value": 1
+ },
+ "185": {
+  "description": "対象に「スタン」（行動キャンセル）効果。",
+  "id": 185,
+  "name": "衝撃",
+  "subtype": 1,
+  "target": 2,
+  "turn": 3,
+  "type": 7,
+  "value": 1
+ },
+ "186": {
+  "description": "対象に「ディレイ」（行動順後退）効果。",
+  "id": 186,
+  "name": "粘着",
+  "subtype": 2,
+  "target": 2,
+  "turn": 3,
+  "type": 7,
+  "value": 1
+ },
+ "187": {
+  "description": "自分の「陽気攻撃力」を2ランク上げる。",
+  "id": 187,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "188": {
+  "description": "自分の「陽気防御力」を2ランク上げる。",
+  "id": 188,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "189": {
+  "description": "自分の「陰気攻撃力」を2ランク上げる。",
+  "id": 189,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "190": {
+  "description": "自分の「陰気防御力」を2ランク上げる。",
+  "id": 190,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "191": {
+  "description": "自分の「速力」を2ランク上げる。",
+  "id": 191,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "192": {
+  "description": "自分の「命中」を2ランク上げる。",
+  "id": 192,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "193": {
+  "description": "自分の「回避」を2ランク上げる。",
+  "id": 193,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "194": {
+  "description": "自分の「クリティカル攻撃」を2ランク上げる。",
+  "id": 194,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "195": {
+  "description": "自分の「クリティカル防御」を2ランク上げる。",
+  "id": 195,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "196": {
+  "description": "自分の「クリティカル命中」を2ランク上げる。",
+  "id": 196,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "197": {
+  "description": "自分の「クリティカル回避」を2ランク上げる。",
+  "id": 197,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "198": {
+  "description": "自分の「注目」を2ランク上げる。",
+  "id": 198,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "199": {
+  "description": "自分の「陽気攻撃力」を2ランク下げる。",
+  "id": 199,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "200": {
+  "description": "自分の「陽気防御力」を2ランク下げる。",
+  "id": 200,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "201": {
+  "description": "自分の「陰気攻撃力」を2ランク下げる。",
+  "id": 201,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "202": {
+  "description": "自分の「陰気防御力」を2ランク下げる。",
+  "id": 202,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "203": {
+  "description": "自分の「速力」を2ランク下げる。",
+  "id": 203,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "204": {
+  "description": "自分の「命中」を2ランク下げる。",
+  "id": 204,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "205": {
+  "description": "自分の「回避」を2ランク下げる。",
+  "id": 205,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "206": {
+  "description": "自分の「クリティカル攻撃」を2ランク下げる。",
+  "id": 206,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "207": {
+  "description": "自分の「クリティカル防御」を2ランク下げる。",
+  "id": 207,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "208": {
+  "description": "自分の「クリティカル命中」を2ランク下げる。",
+  "id": 208,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "209": {
+  "description": "自分の「クリティカル回避」を2ランク下げる。",
+  "id": 209,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "210": {
+  "description": "自分の「注目」を2ランク下げる。",
+  "id": 210,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "211": {
+  "description": "自分の「陽気攻撃力」を2ランク上げる。",
+  "id": 211,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "212": {
+  "description": "自分の「陽気防御力」を2ランク上げる。",
+  "id": 212,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "213": {
+  "description": "自分の「陰気攻撃力」を2ランク上げる。",
+  "id": 213,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "214": {
+  "description": "自分の「陰気防御力」を2ランク上げる。",
+  "id": 214,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "215": {
+  "description": "自分の「速力」を2ランク上げる。",
+  "id": 215,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "216": {
+  "description": "自分の「命中」を2ランク上げる。",
+  "id": 216,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "217": {
+  "description": "自分の「回避」を2ランク上げる。",
+  "id": 217,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "218": {
+  "description": "自分の「クリティカル攻撃」を2ランク上げる。",
+  "id": 218,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "219": {
+  "description": "自分の「クリティカル防御」を2ランク上げる。",
+  "id": 219,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "220": {
+  "description": "自分の「クリティカル命中」を2ランク上げる。",
+  "id": 220,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "221": {
+  "description": "自分の「クリティカル回避」を2ランク上げる。",
+  "id": 221,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "222": {
+  "description": "自分の「注目」を2ランク上げる。",
+  "id": 222,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "223": {
+  "description": "自分の「陽気攻撃力」を2ランク下げる。",
+  "id": 223,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "224": {
+  "description": "自分の「陽気防御力」を2ランク下げる。",
+  "id": 224,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "225": {
+  "description": "自分の「陰気攻撃力」を2ランク下げる。",
+  "id": 225,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "226": {
+  "description": "自分の「陰気防御力」を2ランク下げる。",
+  "id": 226,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "227": {
+  "description": "自分の「速力」を2ランク下げる。",
+  "id": 227,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "228": {
+  "description": "自分の「命中」を2ランク下げる。",
+  "id": 228,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "229": {
+  "description": "自分の「回避」を2ランク下げる。",
+  "id": 229,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "230": {
+  "description": "自分の「クリティカル攻撃」を2ランク下げる。",
+  "id": 230,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "231": {
+  "description": "自分の「クリティカル防御」を2ランク下げる。",
+  "id": 231,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "232": {
+  "description": "自分の「クリティカル命中」を2ランク下げる。",
+  "id": 232,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "233": {
+  "description": "自分の「クリティカル回避」を2ランク下げる。",
+  "id": 233,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "234": {
+  "description": "自分の「注目」を2ランク下げる。",
+  "id": 234,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "235": {
+  "description": "自分の「陽気攻撃力」を2ランク上げる。",
+  "id": 235,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "236": {
+  "description": "自分の「陽気防御力」を2ランク上げる。",
+  "id": 236,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "237": {
+  "description": "自分の「陰気攻撃力」を2ランク上げる。",
+  "id": 237,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "238": {
+  "description": "自分の「陰気防御力」を2ランク上げる。",
+  "id": 238,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "239": {
+  "description": "自分の「速力」を2ランク上げる。",
+  "id": 239,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "240": {
+  "description": "自分の「命中」を2ランク上げる。",
+  "id": 240,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "241": {
+  "description": "自分の「回避」を2ランク上げる。",
+  "id": 241,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "242": {
+  "description": "自分の「クリティカル攻撃」を2ランク上げる。",
+  "id": 242,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "243": {
+  "description": "自分の「クリティカル防御」を2ランク上げる。",
+  "id": 243,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "244": {
+  "description": "自分の「クリティカル命中」を2ランク上げる。",
+  "id": 244,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "245": {
+  "description": "自分の「クリティカル回避」を2ランク上げる。",
+  "id": 245,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "246": {
+  "description": "自分の「注目」を2ランク上げる。",
+  "id": 246,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "247": {
+  "description": "自分の「陽気攻撃力」を2ランク下げる。",
+  "id": 247,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "248": {
+  "description": "自分の「陽気防御力」を2ランク下げる。",
+  "id": 248,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "249": {
+  "description": "自分の「陰気攻撃力」を2ランク下げる。",
+  "id": 249,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "250": {
+  "description": "自分の「陰気防御力」を2ランク下げる。",
+  "id": 250,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "251": {
+  "description": "自分の「速力」を2ランク下げる。",
+  "id": 251,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "252": {
+  "description": "自分の「命中」を2ランク下げる。",
+  "id": 252,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "253": {
+  "description": "自分の「回避」を2ランク下げる。",
+  "id": 253,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "254": {
+  "description": "自分の「クリティカル攻撃」を2ランク下げる。",
+  "id": 254,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "255": {
+  "description": "自分の「クリティカル防御」を2ランク下げる。",
+  "id": 255,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "256": {
+  "description": "自分の「クリティカル命中」を2ランク下げる。",
+  "id": 256,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "257": {
+  "description": "自分の「クリティカル回避」を2ランク下げる。",
+  "id": 257,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "258": {
+  "description": "自分の「注目」を2ランク下げる。",
+  "id": 258,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "259": {
+  "description": "対象の「陽気攻撃力」を2ランク上げる。",
+  "id": 259,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "260": {
+  "description": "対象の「陽気防御力」を2ランク上げる。",
+  "id": 260,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "261": {
+  "description": "対象の「陰気攻撃力」を2ランク上げる。",
+  "id": 261,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "262": {
+  "description": "対象の「陰気防御力」を2ランク上げる。",
+  "id": 262,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "263": {
+  "description": "対象の「速力」を2ランク上げる。",
+  "id": 263,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "264": {
+  "description": "対象の「命中」を2ランク上げる。",
+  "id": 264,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "265": {
+  "description": "対象の「回避」を2ランク上げる。",
+  "id": 265,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "266": {
+  "description": "対象の「クリティカル攻撃」を2ランク上げる。",
+  "id": 266,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "267": {
+  "description": "対象の「クリティカル防御」を2ランク上げる。",
+  "id": 267,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "268": {
+  "description": "対象の「クリティカル命中」を2ランク上げる。",
+  "id": 268,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "269": {
+  "description": "対象の「クリティカル回避」を2ランク上げる。",
+  "id": 269,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "270": {
+  "description": "対象の「注目」を2ランク上げる。",
+  "id": 270,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 2
+ },
+ "271": {
+  "description": "対象の「陽気攻撃力」を2ランク下げる。",
+  "id": 271,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "272": {
+  "description": "対象の「陽気防御力」を2ランク下げる。",
+  "id": 272,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "273": {
+  "description": "対象の「陰気攻撃力」を2ランク下げる。",
+  "id": 273,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "274": {
+  "description": "対象の「陰気防御力」を2ランク下げる。",
+  "id": 274,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "275": {
+  "description": "対象の「速力」を2ランク下げる。",
+  "id": 275,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "276": {
+  "description": "対象の「命中」を2ランク下げる。",
+  "id": 276,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "277": {
+  "description": "対象の「回避」を2ランク下げる。",
+  "id": 277,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "278": {
+  "description": "対象の「クリティカル攻撃」を2ランク下げる。",
+  "id": 278,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "279": {
+  "description": "対象の「クリティカル防御」を2ランク下げる。",
+  "id": 279,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "280": {
+  "description": "対象の「クリティカル命中」を2ランク下げる。",
+  "id": 280,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "281": {
+  "description": "対象の「クリティカル回避」を2ランク下げる。",
+  "id": 281,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "282": {
+  "description": "対象の「注目」を2ランク下げる。",
+  "id": 282,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 2
+ },
+ "283": {
+  "description": "対象の「結界」に結界異常「燃焼」を付与。",
+  "id": 283,
+  "name": "焼夷",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 2
+ },
+ "284": {
+  "description": "対象の「結界」に結界異常「凍結」を付与。",
+  "id": 284,
+  "name": "冷却",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 2
+ },
+ "285": {
+  "description": "対象の「結界」に結界異常「帯電」を付与。",
+  "id": 285,
+  "name": "荷電",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 2
+ },
+ "286": {
+  "description": "対象の「結界」に結界異常「毒霧」を付与。",
+  "id": 286,
+  "name": "噴毒",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 2
+ },
+ "287": {
+  "description": "対象の「結界」に結界異常「暗闇」を付与。",
+  "id": 287,
+  "name": "煙幕",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 2
+ },
+ "288": {
+  "description": "対象に「スタン」（行動キャンセル）効果。",
+  "id": 288,
+  "name": "衝撃",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 7,
+  "value": 2
+ },
+ "289": {
+  "description": "対象に「ディレイ」（行動順後退）効果。",
+  "id": 289,
+  "name": "粘着",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 7,
+  "value": 2
+ },
+ "290": {
+  "description": "対象の「陽気攻撃力」を2ランク上げる。",
+  "id": 290,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "291": {
+  "description": "対象の「陽気防御力」を2ランク上げる。",
+  "id": 291,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "292": {
+  "description": "対象の「陰気攻撃力」を2ランク上げる。",
+  "id": 292,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "293": {
+  "description": "対象の「陰気防御力」を2ランク上げる。",
+  "id": 293,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "294": {
+  "description": "対象の「速力」を2ランク上げる。",
+  "id": 294,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "295": {
+  "description": "対象の「命中」を2ランク上げる。",
+  "id": 295,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "296": {
+  "description": "対象の「回避」を2ランク上げる。",
+  "id": 296,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "297": {
+  "description": "対象の「クリティカル攻撃」を2ランク上げる。",
+  "id": 297,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "298": {
+  "description": "対象の「クリティカル防御」を2ランク上げる。",
+  "id": 298,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "299": {
+  "description": "対象の「クリティカル命中」を2ランク上げる。",
+  "id": 299,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "300": {
+  "description": "対象の「クリティカル回避」を2ランク上げる。",
+  "id": 300,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "301": {
+  "description": "対象の「注目」を2ランク上げる。",
+  "id": 301,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 2
+ },
+ "302": {
+  "description": "対象の「陽気攻撃力」を2ランク下げる。",
+  "id": 302,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "303": {
+  "description": "対象の「陽気防御力」を2ランク下げる。",
+  "id": 303,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "304": {
+  "description": "対象の「陰気攻撃力」を2ランク下げる。",
+  "id": 304,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "305": {
+  "description": "対象の「陰気防御力」を2ランク下げる。",
+  "id": 305,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "306": {
+  "description": "対象の「速力」を2ランク下げる。",
+  "id": 306,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "307": {
+  "description": "対象の「命中」を2ランク下げる。",
+  "id": 307,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "308": {
+  "description": "対象の「回避」を2ランク下げる。",
+  "id": 308,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "309": {
+  "description": "対象の「クリティカル攻撃」を2ランク下げる。",
+  "id": 309,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "310": {
+  "description": "対象の「クリティカル防御」を2ランク下げる。",
+  "id": 310,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "311": {
+  "description": "対象の「クリティカル命中」を2ランク下げる。",
+  "id": 311,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "312": {
+  "description": "対象の「クリティカル回避」を2ランク下げる。",
+  "id": 312,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "313": {
+  "description": "対象の「注目」を2ランク下げる。",
+  "id": 313,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 2
+ },
+ "314": {
+  "description": "対象の「陽気攻撃力」を2ランク上げる。",
+  "id": 314,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "315": {
+  "description": "対象の「陽気防御力」を2ランク上げる。",
+  "id": 315,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "316": {
+  "description": "対象の「陰気攻撃力」を2ランク上げる。",
+  "id": 316,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "317": {
+  "description": "対象の「陰気防御力」を2ランク上げる。",
+  "id": 317,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "318": {
+  "description": "対象の「速力」を2ランク上げる。",
+  "id": 318,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "319": {
+  "description": "対象の「命中」を2ランク上げる。",
+  "id": 319,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "320": {
+  "description": "対象の「回避」を2ランク上げる。",
+  "id": 320,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "321": {
+  "description": "対象の「クリティカル攻撃」を2ランク上げる。",
+  "id": 321,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "322": {
+  "description": "対象の「クリティカル防御」を2ランク上げる。",
+  "id": 322,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "323": {
+  "description": "対象の「クリティカル命中」を2ランク上げる。",
+  "id": 323,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "324": {
+  "description": "対象の「クリティカル回避」を2ランク上げる。",
+  "id": 324,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "325": {
+  "description": "対象の「注目」を2ランク上げる。",
+  "id": 325,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 2
+ },
+ "326": {
+  "description": "対象の「陽気攻撃力」を2ランク下げる。",
+  "id": 326,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "327": {
+  "description": "対象の「陽気防御力」を2ランク下げる。",
+  "id": 327,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "328": {
+  "description": "対象の「陰気攻撃力」を2ランク下げる。",
+  "id": 328,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "329": {
+  "description": "対象の「陰気防御力」を2ランク下げる。",
+  "id": 329,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "330": {
+  "description": "対象の「速力」を2ランク下げる。",
+  "id": 330,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "331": {
+  "description": "対象の「命中」を2ランク下げる。",
+  "id": 331,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "332": {
+  "description": "対象の「回避」を2ランク下げる。",
+  "id": 332,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "333": {
+  "description": "対象の「クリティカル攻撃」を2ランク下げる。",
+  "id": 333,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "334": {
+  "description": "対象の「クリティカル防御」を2ランク下げる。",
+  "id": 334,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "335": {
+  "description": "対象の「クリティカル命中」を2ランク下げる。",
+  "id": 335,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "336": {
+  "description": "対象の「クリティカル回避」を2ランク下げる。",
+  "id": 336,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "337": {
+  "description": "対象の「注目」を2ランク下げる。",
+  "id": 337,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 2
+ },
+ "338": {
+  "description": "自分の「陽気攻撃力」を3ランク上げる。",
+  "id": 338,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "339": {
+  "description": "自分の「陽気防御力」を3ランク上げる。",
+  "id": 339,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "340": {
+  "description": "自分の「陰気攻撃力」を3ランク上げる。",
+  "id": 340,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "341": {
+  "description": "自分の「陰気防御力」を3ランク上げる。",
+  "id": 341,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "342": {
+  "description": "自分の「速力」を3ランク上げる。",
+  "id": 342,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "343": {
+  "description": "自分の「命中」を3ランク上げる。",
+  "id": 343,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "344": {
+  "description": "自分の「回避」を3ランク上げる。",
+  "id": 344,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "345": {
+  "description": "自分の「クリティカル攻撃」を3ランク上げる。",
+  "id": 345,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "346": {
+  "description": "自分の「クリティカル防御」を3ランク上げる。",
+  "id": 346,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "347": {
+  "description": "自分の「クリティカル命中」を3ランク上げる。",
+  "id": 347,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "348": {
+  "description": "自分の「クリティカル回避」を3ランク上げる。",
+  "id": 348,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "349": {
+  "description": "自分の「注目」を3ランク上げる。",
+  "id": 349,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "350": {
+  "description": "自分の「陽気攻撃力」を3ランク下げる。",
+  "id": 350,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "351": {
+  "description": "自分の「陽気防御力」を3ランク下げる。",
+  "id": 351,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "352": {
+  "description": "自分の「陰気攻撃力」を3ランク下げる。",
+  "id": 352,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "353": {
+  "description": "自分の「陰気防御力」を3ランク下げる。",
+  "id": 353,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "354": {
+  "description": "自分の「速力」を3ランク下げる。",
+  "id": 354,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "355": {
+  "description": "自分の「命中」を3ランク下げる。",
+  "id": 355,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "356": {
+  "description": "自分の「回避」を3ランク下げる。",
+  "id": 356,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "357": {
+  "description": "自分の「クリティカル攻撃」を3ランク下げる。",
+  "id": 357,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "358": {
+  "description": "自分の「クリティカル防御」を3ランク下げる。",
+  "id": 358,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "359": {
+  "description": "自分の「クリティカル命中」を3ランク下げる。",
+  "id": 359,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "360": {
+  "description": "自分の「クリティカル回避」を3ランク下げる。",
+  "id": 360,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "361": {
+  "description": "自分の「注目」を3ランク下げる。",
+  "id": 361,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "362": {
+  "description": "自分の「陽気攻撃力」を3ランク上げる。",
+  "id": 362,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "363": {
+  "description": "自分の「陽気防御力」を3ランク上げる。",
+  "id": 363,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "364": {
+  "description": "自分の「陰気攻撃力」を3ランク上げる。",
+  "id": 364,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "365": {
+  "description": "自分の「陰気防御力」を3ランク上げる。",
+  "id": 365,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "366": {
+  "description": "自分の「速力」を3ランク上げる。",
+  "id": 366,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "367": {
+  "description": "自分の「命中」を3ランク上げる。",
+  "id": 367,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "368": {
+  "description": "自分の「回避」を3ランク上げる。",
+  "id": 368,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "369": {
+  "description": "自分の「クリティカル攻撃」を3ランク上げる。",
+  "id": 369,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "370": {
+  "description": "自分の「クリティカル防御」を3ランク上げる。",
+  "id": 370,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "371": {
+  "description": "自分の「クリティカル命中」を3ランク上げる。",
+  "id": 371,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "372": {
+  "description": "自分の「クリティカル回避」を3ランク上げる。",
+  "id": 372,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "373": {
+  "description": "自分の「注目」を3ランク上げる。",
+  "id": 373,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "374": {
+  "description": "自分の「陽気攻撃力」を3ランク下げる。",
+  "id": 374,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "375": {
+  "description": "自分の「陽気防御力」を3ランク下げる。",
+  "id": 375,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "376": {
+  "description": "自分の「陰気攻撃力」を3ランク下げる。",
+  "id": 376,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "377": {
+  "description": "自分の「陰気防御力」を3ランク下げる。",
+  "id": 377,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "378": {
+  "description": "自分の「速力」を3ランク下げる。",
+  "id": 378,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "379": {
+  "description": "自分の「命中」を3ランク下げる。",
+  "id": 379,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "380": {
+  "description": "自分の「回避」を3ランク下げる。",
+  "id": 380,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "381": {
+  "description": "自分の「クリティカル攻撃」を3ランク下げる。",
+  "id": 381,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "382": {
+  "description": "自分の「クリティカル防御」を3ランク下げる。",
+  "id": 382,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "383": {
+  "description": "自分の「クリティカル命中」を3ランク下げる。",
+  "id": 383,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "384": {
+  "description": "自分の「クリティカル回避」を3ランク下げる。",
+  "id": 384,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "385": {
+  "description": "自分の「注目」を3ランク下げる。",
+  "id": 385,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "386": {
+  "description": "自分の「陽気攻撃力」を3ランク上げる。",
+  "id": 386,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "387": {
+  "description": "自分の「陽気防御力」を3ランク上げる。",
+  "id": 387,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "388": {
+  "description": "自分の「陰気攻撃力」を3ランク上げる。",
+  "id": 388,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "389": {
+  "description": "自分の「陰気防御力」を3ランク上げる。",
+  "id": 389,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "390": {
+  "description": "自分の「速力」を3ランク上げる。",
+  "id": 390,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "391": {
+  "description": "自分の「命中」を3ランク上げる。",
+  "id": 391,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "392": {
+  "description": "自分の「回避」を3ランク上げる。",
+  "id": 392,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "393": {
+  "description": "自分の「クリティカル攻撃」を3ランク上げる。",
+  "id": 393,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "394": {
+  "description": "自分の「クリティカル防御」を3ランク上げる。",
+  "id": 394,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "395": {
+  "description": "自分の「クリティカル命中」を3ランク上げる。",
+  "id": 395,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "396": {
+  "description": "自分の「クリティカル回避」を3ランク上げる。",
+  "id": 396,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "397": {
+  "description": "自分の「注目」を3ランク上げる。",
+  "id": 397,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 1,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "398": {
+  "description": "自分の「陽気攻撃力」を3ランク下げる。",
+  "id": 398,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "399": {
+  "description": "自分の「陽気防御力」を3ランク下げる。",
+  "id": 399,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "400": {
+  "description": "自分の「陰気攻撃力」を3ランク下げる。",
+  "id": 400,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "401": {
+  "description": "自分の「陰気防御力」を3ランク下げる。",
+  "id": 401,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "402": {
+  "description": "自分の「速力」を3ランク下げる。",
+  "id": 402,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "403": {
+  "description": "自分の「命中」を3ランク下げる。",
+  "id": 403,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "404": {
+  "description": "自分の「回避」を3ランク下げる。",
+  "id": 404,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "405": {
+  "description": "自分の「クリティカル攻撃」を3ランク下げる。",
+  "id": 405,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "406": {
+  "description": "自分の「クリティカル防御」を3ランク下げる。",
+  "id": 406,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "407": {
+  "description": "自分の「クリティカル命中」を3ランク下げる。",
+  "id": 407,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "408": {
+  "description": "自分の「クリティカル回避」を3ランク下げる。",
+  "id": 408,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "409": {
+  "description": "自分の「注目」を3ランク下げる。",
+  "id": 409,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 1,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "410": {
+  "description": "対象の「陽気攻撃力」を3ランク上げる。",
+  "id": 410,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "411": {
+  "description": "対象の「陽気防御力」を3ランク上げる。",
+  "id": 411,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "412": {
+  "description": "対象の「陰気攻撃力」を3ランク上げる。",
+  "id": 412,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "413": {
+  "description": "対象の「陰気防御力」を3ランク上げる。",
+  "id": 413,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "414": {
+  "description": "対象の「速力」を3ランク上げる。",
+  "id": 414,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "415": {
+  "description": "対象の「命中」を3ランク上げる。",
+  "id": 415,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "416": {
+  "description": "対象の「回避」を3ランク上げる。",
+  "id": 416,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "417": {
+  "description": "対象の「クリティカル攻撃」を3ランク上げる。",
+  "id": 417,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "418": {
+  "description": "対象の「クリティカル防御」を3ランク上げる。",
+  "id": 418,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "419": {
+  "description": "対象の「クリティカル命中」を3ランク上げる。",
+  "id": 419,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "420": {
+  "description": "対象の「クリティカル回避」を3ランク上げる。",
+  "id": 420,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "421": {
+  "description": "対象の「注目」を3ランク上げる。",
+  "id": 421,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 1,
+  "type": 1,
+  "value": 3
+ },
+ "422": {
+  "description": "対象の「陽気攻撃力」を3ランク下げる。",
+  "id": 422,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "423": {
+  "description": "対象の「陽気防御力」を3ランク下げる。",
+  "id": 423,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "424": {
+  "description": "対象の「陰気攻撃力」を3ランク下げる。",
+  "id": 424,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "425": {
+  "description": "対象の「陰気防御力」を3ランク下げる。",
+  "id": 425,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "426": {
+  "description": "対象の「速力」を3ランク下げる。",
+  "id": 426,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "427": {
+  "description": "対象の「命中」を3ランク下げる。",
+  "id": 427,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "428": {
+  "description": "対象の「回避」を3ランク下げる。",
+  "id": 428,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "429": {
+  "description": "対象の「クリティカル攻撃」を3ランク下げる。",
+  "id": 429,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "430": {
+  "description": "対象の「クリティカル防御」を3ランク下げる。",
+  "id": 430,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "431": {
+  "description": "対象の「クリティカル命中」を3ランク下げる。",
+  "id": 431,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "432": {
+  "description": "対象の「クリティカル回避」を3ランク下げる。",
+  "id": 432,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "433": {
+  "description": "対象の「注目」を3ランク下げる。",
+  "id": 433,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 1,
+  "type": 2,
+  "value": 3
+ },
+ "434": {
+  "description": "対象の「結界」に結界異常「燃焼」を付与。",
+  "id": 434,
+  "name": "焼夷",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 3
+ },
+ "435": {
+  "description": "対象の「結界」に結界異常「凍結」を付与。",
+  "id": 435,
+  "name": "冷却",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 3
+ },
+ "436": {
+  "description": "対象の「結界」に結界異常「帯電」を付与。",
+  "id": 436,
+  "name": "荷電",
+  "subtype": 3,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 3
+ },
+ "437": {
+  "description": "対象の「結界」に結界異常「毒霧」を付与。",
+  "id": 437,
+  "name": "噴毒",
+  "subtype": 4,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 3
+ },
+ "438": {
+  "description": "対象の「結界」に結界異常「暗闇」を付与。",
+  "id": 438,
+  "name": "煙幕",
+  "subtype": 5,
+  "target": 2,
+  "turn": 1,
+  "type": 6,
+  "value": 3
+ },
+ "439": {
+  "description": "対象に「スタン」（行動キャンセル）効果。",
+  "id": 439,
+  "name": "衝撃",
+  "subtype": 1,
+  "target": 2,
+  "turn": 1,
+  "type": 7,
+  "value": 3
+ },
+ "440": {
+  "description": "対象に「ディレイ」（行動順後退）効果。",
+  "id": 440,
+  "name": "粘着",
+  "subtype": 2,
+  "target": 2,
+  "turn": 1,
+  "type": 7,
+  "value": 3
+ },
+ "441": {
+  "description": "対象の「陽気攻撃力」を3ランク上げる。",
+  "id": 441,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "442": {
+  "description": "対象の「陽気防御力」を3ランク上げる。",
+  "id": 442,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "443": {
+  "description": "対象の「陰気攻撃力」を3ランク上げる。",
+  "id": 443,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "444": {
+  "description": "対象の「陰気防御力」を3ランク上げる。",
+  "id": 444,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "445": {
+  "description": "対象の「速力」を3ランク上げる。",
+  "id": 445,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "446": {
+  "description": "対象の「命中」を3ランク上げる。",
+  "id": 446,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "447": {
+  "description": "対象の「回避」を3ランク上げる。",
+  "id": 447,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "448": {
+  "description": "対象の「クリティカル攻撃」を3ランク上げる。",
+  "id": 448,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "449": {
+  "description": "対象の「クリティカル防御」を3ランク上げる。",
+  "id": 449,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "450": {
+  "description": "対象の「クリティカル命中」を3ランク上げる。",
+  "id": 450,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "451": {
+  "description": "対象の「クリティカル回避」を3ランク上げる。",
+  "id": 451,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "452": {
+  "description": "対象の「注目」を3ランク上げる。",
+  "id": 452,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 2,
+  "type": 1,
+  "value": 3
+ },
+ "453": {
+  "description": "対象の「陽気攻撃力」を3ランク下げる。",
+  "id": 453,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "454": {
+  "description": "対象の「陽気防御力」を3ランク下げる。",
+  "id": 454,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "455": {
+  "description": "対象の「陰気攻撃力」を3ランク下げる。",
+  "id": 455,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "456": {
+  "description": "対象の「陰気防御力」を3ランク下げる。",
+  "id": 456,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "457": {
+  "description": "対象の「速力」を3ランク下げる。",
+  "id": 457,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "458": {
+  "description": "対象の「命中」を3ランク下げる。",
+  "id": 458,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "459": {
+  "description": "対象の「回避」を3ランク下げる。",
+  "id": 459,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "460": {
+  "description": "対象の「クリティカル攻撃」を3ランク下げる。",
+  "id": 460,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "461": {
+  "description": "対象の「クリティカル防御」を3ランク下げる。",
+  "id": 461,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "462": {
+  "description": "対象の「クリティカル命中」を3ランク下げる。",
+  "id": 462,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "463": {
+  "description": "対象の「クリティカル回避」を3ランク下げる。",
+  "id": 463,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "464": {
+  "description": "対象の「注目」を3ランク下げる。",
+  "id": 464,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 2,
+  "type": 2,
+  "value": 3
+ },
+ "465": {
+  "description": "対象の「陽気攻撃力」を3ランク上げる。",
+  "id": 465,
+  "name": "陽攻△",
+  "subtype": 1,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "466": {
+  "description": "対象の「陽気防御力」を3ランク上げる。",
+  "id": 466,
+  "name": "陽防△",
+  "subtype": 2,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "467": {
+  "description": "対象の「陰気攻撃力」を3ランク上げる。",
+  "id": 467,
+  "name": "陰攻△",
+  "subtype": 3,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "468": {
+  "description": "対象の「陰気防御力」を3ランク上げる。",
+  "id": 468,
+  "name": "陰防△",
+  "subtype": 4,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "469": {
+  "description": "対象の「速力」を3ランク上げる。",
+  "id": 469,
+  "name": "速力△",
+  "subtype": 5,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "470": {
+  "description": "対象の「命中」を3ランク上げる。",
+  "id": 470,
+  "name": "命中△",
+  "subtype": 6,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "471": {
+  "description": "対象の「回避」を3ランク上げる。",
+  "id": 471,
+  "name": "回避△",
+  "subtype": 7,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "472": {
+  "description": "対象の「クリティカル攻撃」を3ランク上げる。",
+  "id": 472,
+  "name": "CRI攻撃△",
+  "subtype": 8,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "473": {
+  "description": "対象の「クリティカル防御」を3ランク上げる。",
+  "id": 473,
+  "name": "CRI防御△",
+  "subtype": 9,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "474": {
+  "description": "対象の「クリティカル命中」を3ランク上げる。",
+  "id": 474,
+  "name": "CRI命中△",
+  "subtype": 10,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "475": {
+  "description": "対象の「クリティカル回避」を3ランク上げる。",
+  "id": 475,
+  "name": "CRI回避△",
+  "subtype": 11,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "476": {
+  "description": "対象の「注目」を3ランク上げる。",
+  "id": 476,
+  "name": "注目△",
+  "subtype": 12,
+  "target": 2,
+  "turn": 3,
+  "type": 1,
+  "value": 3
+ },
+ "477": {
+  "description": "対象の「陽気攻撃力」を3ランク下げる。",
+  "id": 477,
+  "name": "陽攻▼",
+  "subtype": 1,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "478": {
+  "description": "対象の「陽気防御力」を3ランク下げる。",
+  "id": 478,
+  "name": "陽防▼",
+  "subtype": 2,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "479": {
+  "description": "対象の「陰気攻撃力」を3ランク下げる。",
+  "id": 479,
+  "name": "陰攻▼",
+  "subtype": 3,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "480": {
+  "description": "対象の「陰気防御力」を3ランク下げる。",
+  "id": 480,
+  "name": "陰防▼",
+  "subtype": 4,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "481": {
+  "description": "対象の「速力」を3ランク下げる。",
+  "id": 481,
+  "name": "速力▼",
+  "subtype": 5,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "482": {
+  "description": "対象の「命中」を3ランク下げる。",
+  "id": 482,
+  "name": "命中▼",
+  "subtype": 6,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "483": {
+  "description": "対象の「回避」を3ランク下げる。",
+  "id": 483,
+  "name": "回避▼",
+  "subtype": 7,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "484": {
+  "description": "対象の「クリティカル攻撃」を3ランク下げる。",
+  "id": 484,
+  "name": "CRI攻撃▼",
+  "subtype": 8,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "485": {
+  "description": "対象の「クリティカル防御」を3ランク下げる。",
+  "id": 485,
+  "name": "CRI防御▼",
+  "subtype": 9,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "486": {
+  "description": "対象の「クリティカル命中」を3ランク下げる。",
+  "id": 486,
+  "name": "CRI命中▼",
+  "subtype": 10,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "487": {
+  "description": "対象の「クリティカル回避」を3ランク下げる。",
+  "id": 487,
+  "name": "CRI回避▼",
+  "subtype": 11,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "488": {
+  "description": "対象の「注目」を3ランク下げる。",
+  "id": 488,
+  "name": "注目▼",
+  "subtype": 12,
+  "target": 2,
+  "turn": 3,
+  "type": 2,
+  "value": 3
+ },
+ "9991": {
+  "description": "毒霧",
+  "id": 9991,
+  "name": "検証用バレット効果1",
+  "subtype": 4,
+  "target": 2,
+  "turn": 3,
+  "type": 6,
+  "value": 3
+ },
+ "9992": {
+  "description": "速力▼",
+  "id": 9992,
+  "name": "検証用バレット効果2",
+  "subtype": 5,
+  "target": 2,
+  "turn": 10,
+  "type": 2,
+  "value": 3
+ },
+ "9993": {
+  "description": "注目▼",
+  "id": 9993,
+  "name": "検証用バレット効果3",
+  "subtype": 12,
+  "target": 2,
+  "turn": 10,
+  "type": 2,
+  "value": 3
+ }
+}

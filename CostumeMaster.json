@@ -1,0 +1,714 @@
+{
+ "100101": {
+  "album_visible": 1,
+  "description": "博麗霊夢の普段着。\n大きな赤いリボンと紅白の巫女服。",
+  "file_id": 1,
+  "id": 100101,
+  "name": "博麗神社の巫女さん",
+  "unit_id": 1001
+ },
+ "100102": {
+  "album_visible": 1,
+  "description": "八雲紫が外の世界の資料を参考にして、\n霊夢のために用意した制服衣装。",
+  "file_id": 2,
+  "id": 100102,
+  "name": "悠々自適なクラス委員",
+  "unit_id": 1001
+ },
+ "100201": {
+  "album_visible": 1,
+  "description": "霧雨魔理沙の普段着。\nトンガリ帽子とエプロンにベスト。",
+  "file_id": 1,
+  "id": 100201,
+  "name": "普通の魔法使い",
+  "unit_id": 1002
+ },
+ "100202": {
+  "album_visible": 1,
+  "description": "八雲紫が外の世界の資料を参考にして、\n魔理沙のために用意した制服衣装。",
+  "file_id": 2,
+  "id": 100202,
+  "name": "大胆不敵な問題児",
+  "unit_id": 1002
+ },
+ "100203": {
+  "album_visible": 1,
+  "description": "阿求から貸与された書生用の衣装。\nススキの意匠が込められた、威風な服。",
+  "file_id": 3,
+  "id": 100203,
+  "name": "稗田邸に出入りする魔法使い",
+  "unit_id": 1002
+ },
+ "100301": {
+  "album_visible": 1,
+  "description": "レミリア・スカーレットの普段着。\nピンクで揃えた帽子と衣服。",
+  "file_id": 1,
+  "id": 100301,
+  "name": "永遠に紅い幼き月",
+  "unit_id": 1003
+ },
+ "100303": {
+  "album_visible": 1,
+  "description": "とある披露会で着用したドレス。\n咲夜が用意した物なのかもしれない。",
+  "file_id": 3,
+  "id": 100303,
+  "name": "披露会の主催者",
+  "unit_id": 1003
+ },
+ "100401": {
+  "album_visible": 1,
+  "description": "フランドール・スカーレットの普段着。\n白の帽子に真紅の衣服。",
+  "file_id": 1,
+  "id": 100401,
+  "name": "悪魔の妹",
+  "unit_id": 1004
+ },
+ "100402": {
+  "album_visible": 1,
+  "description": "咲夜の不在中に悪魔の妹がお手伝い。\n咲夜と基本同型だが、かわいい配色。",
+  "file_id": 2,
+  "id": 100402,
+  "name": "悪魔的お手伝いさん",
+  "unit_id": 1004
+ },
+ "100501": {
+  "album_visible": 1,
+  "description": "十六夜咲夜の普段着。\n青白基調のメイド服。",
+  "file_id": 1,
+  "id": 100501,
+  "name": "紅魔館のメイド",
+  "unit_id": 1005
+ },
+ "100503": {
+  "album_visible": 1,
+  "description": "十六夜咲夜の庭作業時の服装。\n細いストライプの入った濃緑色の上着。",
+  "file_id": 3,
+  "id": 100503,
+  "name": "電光石火のメイド",
+  "unit_id": 1005
+ },
+ "100601": {
+  "album_visible": 1,
+  "description": "パチュリー・ノーレッジの普段着。\n薄紫色のゆったりワンピース。",
+  "file_id": 1,
+  "id": 100601,
+  "name": "知識と日陰の少女",
+  "unit_id": 1006
+ },
+ "100602": {
+  "album_visible": 1,
+  "description": "阿求から貸与された書生用の衣装。\n藤の花の意匠が込められた、聡明な服。",
+  "file_id": 2,
+  "id": 100602,
+  "name": "稗田邸に出入りする大図書館",
+  "unit_id": 1006
+ },
+ "100701": {
+  "album_visible": 1,
+  "description": "紅美鈴の普段着。\n淡緑色の華人風衣装。",
+  "file_id": 1,
+  "id": 100701,
+  "name": "華人小娘",
+  "unit_id": 1007
+ },
+ "100702": {
+  "album_visible": 1,
+  "description": "咲夜の不在中にメイドを務める美鈴。\n咲夜と基本同型だが、一部が中華風。",
+  "file_id": 2,
+  "id": 100702,
+  "name": "華人女僕",
+  "unit_id": 1007
+ },
+ "100801": {
+  "album_visible": 1,
+  "description": "小悪魔の普段着。\n白いシャツに黒いベスト。",
+  "file_id": 1,
+  "id": 100801,
+  "name": "名もなき小さな悪魔",
+  "unit_id": 1008
+ },
+ "100901": {
+  "album_visible": 1,
+  "description": "八雲紫の普段着。\n深紫色に染まった賢者のドレス。",
+  "file_id": 1,
+  "id": 100901,
+  "name": "境目に潜む妖怪",
+  "unit_id": 1009
+ },
+ "100902": {
+  "album_visible": 1,
+  "description": "八雲紫が外の世界の資料を参考にして、\n自らのために用意した制服衣装。",
+  "file_id": 2,
+  "id": 100902,
+  "name": "仙姿玉質な生徒会長",
+  "unit_id": 1009
+ },
+ "101001": {
+  "album_visible": 1,
+  "description": "西行寺幽々子の普段着。\n軽やかに舞う水色の着物。",
+  "file_id": 1,
+  "id": 101001,
+  "name": "幽冥楼閣の亡霊少女",
+  "unit_id": 1010
+ },
+ "101101": {
+  "album_visible": 1,
+  "description": "魂魄妖夢の普段着。\n青緑色のベストとスカート。",
+  "file_id": 1,
+  "id": 101101,
+  "name": "幽霊と人間のハーフ",
+  "unit_id": 1011
+ },
+ "101102": {
+  "album_visible": 1,
+  "description": "紅魔館でメイドをする事になった妖夢。\n咲夜から指定メイド服が貸与された。",
+  "file_id": 2,
+  "id": 101102,
+  "name": "魂魄妖夢 戦慄のメイド侍 ",
+  "unit_id": 1011
+ },
+ "101201": {
+  "album_visible": 1,
+  "description": "リリーホワイトの普段着。\n春の日差しのような純白ワンピース。",
+  "file_id": 1,
+  "id": 101201,
+  "name": "春を運ぶ妖精",
+  "unit_id": 1012
+ },
+ "101301": {
+  "album_visible": 1,
+  "description": "八雲藍の普段着。\n藍色の前掛けの漢服風衣装。",
+  "file_id": 1,
+  "id": 101301,
+  "name": "すきま妖怪の式",
+  "unit_id": 1013
+ },
+ "101401": {
+  "album_visible": 1,
+  "description": "橙の普段着。\n赤いワンピースと緑の帽子。",
+  "file_id": 1,
+  "id": 101401,
+  "name": "すきま妖怪の式の式",
+  "unit_id": 1014
+ },
+ "101501": {
+  "album_visible": 1,
+  "description": "鈴仙・優曇華院・イナバの普段着。\nツーピースのブレザー服。",
+  "file_id": 1,
+  "id": 101501,
+  "name": "狂気の月の兎",
+  "unit_id": 1015
+ },
+ "101503": {
+  "album_visible": 1,
+  "description": "にとりが用意した一般兵用模擬戦服。\n標準ラインナップとして設計された。",
+  "file_id": 3,
+  "id": 101503,
+  "name": "玉兎二等兵",
+  "unit_id": 1015
+ },
+ "101601": {
+  "album_visible": 1,
+  "description": "綿月豊姫の普段着。\n紺色のサロペットスカート風衣装。",
+  "file_id": 1,
+  "id": 101601,
+  "name": "海と山を繋ぐ月の姫",
+  "unit_id": 1016
+ },
+ "101701": {
+  "album_visible": 1,
+  "description": "綿月依姫の普段着。\n朱色のサロペットスカート風衣装。",
+  "file_id": 1,
+  "id": 101701,
+  "name": "神霊の依り憑く月の姫",
+  "unit_id": 1017
+ },
+ "101801": {
+  "album_visible": 1,
+  "description": "八意永琳の普段着。\n紺色と朱色のツートン衣装。",
+  "file_id": 1,
+  "id": 101801,
+  "name": "月の頭脳",
+  "unit_id": 1018
+ },
+ "101901": {
+  "album_visible": 1,
+  "description": "蓬莱山輝夜の普段着。\n桃色のトップスに赤いロングスカート。",
+  "file_id": 1,
+  "id": 101901,
+  "name": "永遠と須臾の罪人",
+  "unit_id": 1019
+ },
+ "102001": {
+  "album_visible": 1,
+  "description": "藤原妹紅の普段着。\n白いシャツに赤いもんぺ風袴。",
+  "file_id": 1,
+  "id": 102001,
+  "name": "蓬莱の人の形",
+  "unit_id": 1020
+ },
+ "102101": {
+  "album_visible": 1,
+  "description": "清蘭の普段着。\n浅葱色のワンピース。",
+  "file_id": 1,
+  "id": 102101,
+  "name": "浅葱色のイーグルラヴィ",
+  "unit_id": 1021
+ },
+ "102201": {
+  "album_visible": 1,
+  "description": "鈴瑚の普段着。\n橘色のシャツにカボチャパンツ。",
+  "file_id": 1,
+  "id": 102201,
+  "name": "橘色のイーグルラヴィ",
+  "unit_id": 1022
+ },
+ "102301": {
+  "album_visible": 1,
+  "description": "レイセンの普段着。\n白いワイシャツに紺のジャケット。",
+  "file_id": 1,
+  "id": 102301,
+  "name": "普通の月の兎",
+  "unit_id": 1023
+ },
+ "102401": {
+  "album_visible": 1,
+  "description": "聖白蓮の普段着。\n白黒のゴシック風ドレス。",
+  "file_id": 1,
+  "id": 102401,
+  "name": "封印された大魔法使い",
+  "unit_id": 1024
+ },
+ "102402": {
+  "album_visible": 1,
+  "description": "にとりが用意したバイク兵用模擬戦服。\nメットの兎はチーム識別用のデカール。",
+  "file_id": 2,
+  "id": 102402,
+  "name": "うさみみバイク兵",
+  "unit_id": 1024
+ },
+ "102501": {
+  "album_visible": 1,
+  "description": "茨木華扇の普段着。\n茨模様の前掛けと緑色のスカート。",
+  "file_id": 1,
+  "id": 102501,
+  "name": "片腕有角の仙人",
+  "unit_id": 1025
+ },
+ "102502": {
+  "album_visible": 1,
+  "description": "八雲紫が外の世界の資料を参考にして、\n華扇のために用意した制服衣装。",
+  "file_id": 2,
+  "id": 102502,
+  "name": "堅牢無比の風紀委員長",
+  "unit_id": 1025
+ },
+ "102601": {
+  "album_visible": 1,
+  "description": "本居小鈴の普段着。\n市松模様の着物にフリルエプロン。",
+  "file_id": 1,
+  "id": 102601,
+  "name": "判読眼のビブロフィリア",
+  "unit_id": 1026
+ },
+ "102701": {
+  "album_visible": 1,
+  "description": "宇佐見蓮子の普段着。\n黒ケープが特徴的なスタイル。",
+  "file_id": 1,
+  "id": 102701,
+  "name": "秘封倶楽部のフィジシスト",
+  "unit_id": 1027
+ },
+ "102801": {
+  "album_visible": 1,
+  "description": "マエリベリー・ハーンの普段着。\n薄紫色のガウン風衣装。",
+  "file_id": 1,
+  "id": 102801,
+  "name": "秘封倶楽部のサイコアナリスト",
+  "unit_id": 1028
+ },
+ "102901": {
+  "album_visible": 1,
+  "description": "稗田阿求の普段着。\n若草色の着物に黄色の中振袖。",
+  "file_id": 1,
+  "id": 102901,
+  "name": "幻想郷の記憶",
+  "unit_id": 1029
+ },
+ "103001": {
+  "album_visible": 1,
+  "description": "チルノの普段着。\n白のシャツに青のワンピース。",
+  "file_id": 1,
+  "id": 103001,
+  "name": "湖上の氷精",
+  "unit_id": 1030
+ },
+ "103101": {
+  "album_visible": 1,
+  "description": "大妖精の普段着。\n白のシャツに空色のワンピース。",
+  "file_id": 1,
+  "id": 103101,
+  "name": "名もなき大きな妖精",
+  "unit_id": 1031
+ },
+ "103201": {
+  "album_visible": 1,
+  "description": "アリス・マーガトロイドの普段着。\n青い袖なしワンピース。",
+  "file_id": 1,
+  "id": 103201,
+  "name": "七色の人形使い",
+  "unit_id": 1032
+ },
+ "103202": {
+  "album_visible": 1,
+  "description": "阿求から貸与された書生用の衣装。\n女貞花の意匠が込められた、可憐な服。",
+  "file_id": 2,
+  "id": 103202,
+  "name": "稗田邸に出入りする人形使い",
+  "unit_id": 1032
+ },
+ "103301": {
+  "album_visible": 1,
+  "description": "サニーミルクの普段着。\n白の長袖ブラウスに赤ロングスカート。",
+  "file_id": 1,
+  "id": 103301,
+  "name": "輝ける日の光",
+  "unit_id": 1033
+ },
+ "103401": {
+  "album_visible": 1,
+  "description": "ルナチャイルドの普段着。\n白地に黒リボンの長袖ワンピース。",
+  "file_id": 1,
+  "id": 103401,
+  "name": "静かなる月の光",
+  "unit_id": 1034
+ },
+ "103501": {
+  "album_visible": 1,
+  "description": "スターサファイアの普段着。\n白の長袖ブラウスに暗青色のワンピース。",
+  "file_id": 1,
+  "id": 103501,
+  "name": "降り注ぐ星の光",
+  "unit_id": 1035
+ },
+ "103601": {
+  "album_visible": 1,
+  "description": "メディスン・メランコリーの普段着。\n黒のフリルシャツに赤いロングスカート。",
+  "file_id": 1,
+  "id": 103601,
+  "name": "小さなスイートポイズン",
+  "unit_id": 1036
+ },
+ "103602": {
+  "album_visible": 1,
+  "description": "にとりが用意した衛生兵用模擬戦服。\n元にした情報が錯綜し、ナース風に。",
+  "file_id": 2,
+  "id": 103602,
+  "name": "うさみみ衛生兵",
+  "unit_id": 1036
+ },
+ "103701": {
+  "album_visible": 1,
+  "description": "東風谷早苗の普段着。\n白地に青の巫女服。",
+  "file_id": 1,
+  "id": 103701,
+  "name": "祀られる風の人間",
+  "unit_id": 1037
+ },
+ "103702": {
+  "album_visible": 1,
+  "description": "八雲紫が外の世界の資料を参考にして、\n早苗のために用意した制服衣装。",
+  "file_id": 2,
+  "id": 103702,
+  "name": "天真爛漫な科学部部員",
+  "unit_id": 1037
+ },
+ "103801": {
+  "album_visible": 1,
+  "description": "八坂神奈子の普段着。\n赤シャツ・黒スカートに注連縄スタイル。",
+  "file_id": 1,
+  "id": 103801,
+  "name": "山坂と湖の権化",
+  "unit_id": 1038
+ },
+ "103901": {
+  "album_visible": 1,
+  "description": "洩矢諏訪子の普段着。\n壺装束風衣装にケロケロスタイル。",
+  "file_id": 1,
+  "id": 103901,
+  "name": "土着神の頂点",
+  "unit_id": 1039
+ },
+ "104001": {
+  "album_visible": 1,
+  "description": "河城にとりの普段着。\n白ブラウス、水色の上着、便利スカート。",
+  "file_id": 1,
+  "id": 104001,
+  "name": "超妖怪弾頭",
+  "unit_id": 1040
+ },
+ "104201": {
+  "album_visible": 1,
+  "description": "因幡てゐ衣装01",
+  "file_id": 1,
+  "id": 104201,
+  "name": "因幡てゐ衣装01",
+  "unit_id": 1042
+ },
+ "104301": {
+  "album_visible": 1,
+  "description": "宇佐見菫子衣装01",
+  "file_id": 1,
+  "id": 104301,
+  "name": "宇佐見菫子衣装01",
+  "unit_id": 1043
+ },
+ "104401": {
+  "album_visible": 1,
+  "description": "射命丸文衣装01",
+  "file_id": 1,
+  "id": 104401,
+  "name": "射命丸文衣装01",
+  "unit_id": 1044
+ },
+ "104501": {
+  "album_visible": 1,
+  "description": "姫海棠はたて衣装01",
+  "file_id": 1,
+  "id": 104501,
+  "name": "姫海棠はたて衣装01",
+  "unit_id": 1045
+ },
+ "104601": {
+  "album_visible": 1,
+  "description": "犬走椛衣装01",
+  "file_id": 1,
+  "id": 104601,
+  "name": "犬走椛衣装01",
+  "unit_id": 1046
+ },
+ "104701": {
+  "album_visible": 1,
+  "description": "坂田ネムノ衣装01",
+  "file_id": 1,
+  "id": 104701,
+  "name": "坂田ネムノ衣装01",
+  "unit_id": 1047
+ },
+ "104801": {
+  "album_visible": 1,
+  "description": "伊吹萃香衣装01",
+  "file_id": 1,
+  "id": 104801,
+  "name": "伊吹萃香衣装01",
+  "unit_id": 1048
+ },
+ "104802": {
+  "album_visible": 0,
+  "description": "伊吹萃香衣装02",
+  "file_id": 2,
+  "id": 104802,
+  "name": "伊吹萃香衣装02",
+  "unit_id": 1048
+ },
+ "104901": {
+  "album_visible": 1,
+  "description": "星熊勇儀衣装01",
+  "file_id": 1,
+  "id": 104901,
+  "name": "星熊勇儀衣装01",
+  "unit_id": 1049
+ },
+ "105001": {
+  "album_visible": 1,
+  "description": "古明地さとり衣装01",
+  "file_id": 1,
+  "id": 105001,
+  "name": "古明地さとり衣装01",
+  "unit_id": 1050
+ },
+ "105101": {
+  "album_visible": 1,
+  "description": "古明地こいし衣装01",
+  "file_id": 1,
+  "id": 105101,
+  "name": "古明地こいし衣装01",
+  "unit_id": 1051
+ },
+ "105201": {
+  "album_visible": 1,
+  "description": "火焔猫燐衣装01",
+  "file_id": 1,
+  "id": 105201,
+  "name": "火焔猫燐衣装01",
+  "unit_id": 1052
+ },
+ "105301": {
+  "album_visible": 1,
+  "description": "霊烏路空衣装01",
+  "file_id": 1,
+  "id": 105301,
+  "name": "霊烏路空衣装01",
+  "unit_id": 1053
+ },
+ "105401": {
+  "album_visible": 1,
+  "description": "小野塚小町衣装01",
+  "file_id": 1,
+  "id": 105401,
+  "name": "小野塚小町衣装01",
+  "unit_id": 1054
+ },
+ "105501": {
+  "album_visible": 1,
+  "description": "四季映姫・ヤマザナドゥ衣装01",
+  "file_id": 1,
+  "id": 105501,
+  "name": "四季映姫・ヤマザナドゥ衣装01",
+  "unit_id": 1055
+ },
+ "105601": {
+  "album_visible": 1,
+  "description": "ヘカーティア・ラピスラズリ衣装01",
+  "file_id": 1,
+  "id": 105601,
+  "name": "ヘカーティア・ラピスラズリ衣装01",
+  "unit_id": 1056
+ },
+ "105701": {
+  "album_visible": 1,
+  "description": "純狐衣装01",
+  "file_id": 1,
+  "id": 105701,
+  "name": "純狐衣装01",
+  "unit_id": 1057
+ },
+ "105801": {
+  "album_visible": 1,
+  "description": "クラウンピース衣装01",
+  "file_id": 1,
+  "id": 105801,
+  "name": "クラウンピース衣装01",
+  "unit_id": 1058
+ },
+ "105901": {
+  "album_visible": 1,
+  "description": "秋静葉衣装01",
+  "file_id": 1,
+  "id": 105901,
+  "name": "秋静葉衣装01",
+  "unit_id": 1059
+ },
+ "106001": {
+  "album_visible": 1,
+  "description": "秋穣子の普段着。\n袖の広い黄色の上着と赤橙色のエプロン。",
+  "file_id": 1,
+  "id": 106001,
+  "name": "豊かさと稔りの象徴",
+  "unit_id": 1060
+ },
+ "106002": {
+  "album_visible": 1,
+  "description": "静葉が穣子のために用意した一張羅。\n浴衣をベースとして、徹夜で創作した。",
+  "file_id": 2,
+  "id": 106002,
+  "name": "おいもの神様",
+  "unit_id": 1060
+ },
+ "106101": {
+  "album_visible": 1,
+  "description": "鍵山雛衣装01",
+  "file_id": 1,
+  "id": 106101,
+  "name": "鍵山雛衣装01",
+  "unit_id": 1061
+ },
+ "106201": {
+  "album_visible": 1,
+  "description": "ルナサ・プリズムリバー衣装01",
+  "file_id": 1,
+  "id": 106201,
+  "name": "ルナサ・プリズムリバー衣装01",
+  "unit_id": 1062
+ },
+ "106301": {
+  "album_visible": 1,
+  "description": "メルラン・プリズムリバー衣装01",
+  "file_id": 1,
+  "id": 106301,
+  "name": "メルラン・プリズムリバー衣装01",
+  "unit_id": 1063
+ },
+ "106401": {
+  "album_visible": 1,
+  "description": "リリカ・プリズムリバー衣装01",
+  "file_id": 1,
+  "id": 106401,
+  "name": "リリカ・プリズムリバー衣装01",
+  "unit_id": 1064
+ },
+ "106501": {
+  "album_visible": 1,
+  "description": "依神女苑衣装01",
+  "file_id": 1,
+  "id": 106501,
+  "name": "依神女苑衣装01",
+  "unit_id": 1065
+ },
+ "106601": {
+  "album_visible": 1,
+  "description": "依神紫苑衣装01",
+  "file_id": 1,
+  "id": 106601,
+  "name": "依神紫苑衣装01",
+  "unit_id": 1066
+ },
+ "106701": {
+  "album_visible": 1,
+  "description": "九十九弁々衣装01",
+  "file_id": 1,
+  "id": 106701,
+  "name": "九十九弁々衣装01",
+  "unit_id": 1067
+ },
+ "106801": {
+  "album_visible": 1,
+  "description": "九十九八橋衣装01",
+  "file_id": 1,
+  "id": 106801,
+  "name": "九十九八橋衣装01",
+  "unit_id": 1068
+ },
+ "106902": {
+  "album_visible": 0,
+  "description": "摩多羅隠岐奈衣装02",
+  "file_id": 2,
+  "id": 106902,
+  "name": "摩多羅隠岐奈衣装02",
+  "unit_id": 1069
+ },
+ "107201": {
+  "album_visible": 1,
+  "description": "上白沢慧音衣装01",
+  "file_id": 1,
+  "id": 107201,
+  "name": "上白沢慧音衣装01",
+  "unit_id": 1072
+ },
+ "107301": {
+  "album_visible": 1,
+  "description": "ルーミア衣装01",
+  "file_id": 1,
+  "id": 107301,
+  "name": "ルーミア衣装01",
+  "unit_id": 1073
+ },
+ "950301": {
+  "album_visible": 1,
+  "description": "霧雨魔理沙衣装01",
+  "file_id": 1,
+  "id": 950301,
+  "name": "霧雨魔理沙衣装01",
+  "unit_id": 9503
+ }
+}

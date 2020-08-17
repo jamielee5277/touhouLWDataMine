@@ -1,0 +1,524 @@
+{
+ "100101": {
+  "consume_piece": 4,
+  "display_order": 1,
+  "id": 100101,
+  "object_id": 0,
+  "object_type": 6,
+  "object_value": 2,
+  "piece_exchange_group_id": 1
+ },
+ "100102": {
+  "consume_piece": 2,
+  "display_order": 2,
+  "id": 100102,
+  "object_id": 401,
+  "object_type": 12,
+  "object_value": 15,
+  "piece_exchange_group_id": 1
+ },
+ "100103": {
+  "consume_piece": 4,
+  "display_order": 3,
+  "id": 100103,
+  "object_id": 405,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 1
+ },
+ "100104": {
+  "consume_piece": 20,
+  "display_order": 4,
+  "id": 100104,
+  "object_id": 213,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 1
+ },
+ "100105": {
+  "consume_piece": 8,
+  "display_order": 5,
+  "id": 100105,
+  "object_id": 112,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 1
+ },
+ "100106": {
+  "consume_piece": 12,
+  "display_order": 6,
+  "id": 100106,
+  "object_id": 313,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 1
+ },
+ "100107": {
+  "consume_piece": 4,
+  "display_order": 7,
+  "id": 100107,
+  "object_id": 342,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 1
+ },
+ "100201": {
+  "consume_piece": 4,
+  "display_order": 1,
+  "id": 100201,
+  "object_id": 0,
+  "object_type": 6,
+  "object_value": 2,
+  "piece_exchange_group_id": 2
+ },
+ "100202": {
+  "consume_piece": 4,
+  "display_order": 2,
+  "id": 100202,
+  "object_id": 402,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 2
+ },
+ "100203": {
+  "consume_piece": 4,
+  "display_order": 3,
+  "id": 100203,
+  "object_id": 406,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 2
+ },
+ "100204": {
+  "consume_piece": 8,
+  "display_order": 4,
+  "id": 100204,
+  "object_id": 242,
+  "object_type": 12,
+  "object_value": 3,
+  "piece_exchange_group_id": 2
+ },
+ "100205": {
+  "consume_piece": 20,
+  "display_order": 5,
+  "id": 100205,
+  "object_id": 133,
+  "object_type": 12,
+  "object_value": 5,
+  "piece_exchange_group_id": 2
+ },
+ "100206": {
+  "consume_piece": 12,
+  "display_order": 6,
+  "id": 100206,
+  "object_id": 323,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 2
+ },
+ "100207": {
+  "consume_piece": 4,
+  "display_order": 7,
+  "id": 100207,
+  "object_id": 332,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 2
+ },
+ "100301": {
+  "consume_piece": 150,
+  "display_order": 1,
+  "id": 100301,
+  "object_id": 501,
+  "object_type": 12,
+  "object_value": 1,
+  "piece_exchange_group_id": 3
+ },
+ "100302": {
+  "consume_piece": 4,
+  "display_order": 2,
+  "id": 100302,
+  "object_id": 403,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 3
+ },
+ "100303": {
+  "consume_piece": 4,
+  "display_order": 3,
+  "id": 100303,
+  "object_id": 401,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 3
+ },
+ "100304": {
+  "consume_piece": 20,
+  "display_order": 4,
+  "id": 100304,
+  "object_id": 223,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 3
+ },
+ "100305": {
+  "consume_piece": 8,
+  "display_order": 5,
+  "id": 100305,
+  "object_id": 122,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 3
+ },
+ "100306": {
+  "consume_piece": 12,
+  "display_order": 6,
+  "id": 100306,
+  "object_id": 333,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 3
+ },
+ "100307": {
+  "consume_piece": 4,
+  "display_order": 7,
+  "id": 100307,
+  "object_id": 322,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 3
+ },
+ "100401": {
+  "consume_piece": 4,
+  "display_order": 1,
+  "id": 100401,
+  "object_id": 0,
+  "object_type": 6,
+  "object_value": 2,
+  "piece_exchange_group_id": 4
+ },
+ "100402": {
+  "consume_piece": 4,
+  "display_order": 2,
+  "id": 100402,
+  "object_id": 404,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 4
+ },
+ "100403": {
+  "consume_piece": 4,
+  "display_order": 3,
+  "id": 100403,
+  "object_id": 402,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 4
+ },
+ "100404": {
+  "consume_piece": 8,
+  "display_order": 4,
+  "id": 100404,
+  "object_id": 232,
+  "object_type": 12,
+  "object_value": 3,
+  "piece_exchange_group_id": 4
+ },
+ "100405": {
+  "consume_piece": 20,
+  "display_order": 5,
+  "id": 100405,
+  "object_id": 123,
+  "object_type": 12,
+  "object_value": 5,
+  "piece_exchange_group_id": 4
+ },
+ "100406": {
+  "consume_piece": 12,
+  "display_order": 6,
+  "id": 100406,
+  "object_id": 343,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 4
+ },
+ "100407": {
+  "consume_piece": 4,
+  "display_order": 7,
+  "id": 100407,
+  "object_id": 312,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 4
+ },
+ "100501": {
+  "consume_piece": 4,
+  "display_order": 1,
+  "id": 100501,
+  "object_id": 0,
+  "object_type": 6,
+  "object_value": 2,
+  "piece_exchange_group_id": 5
+ },
+ "100502": {
+  "consume_piece": 4,
+  "display_order": 2,
+  "id": 100502,
+  "object_id": 405,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 5
+ },
+ "100503": {
+  "consume_piece": 4,
+  "display_order": 3,
+  "id": 100503,
+  "object_id": 403,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 5
+ },
+ "100504": {
+  "consume_piece": 2,
+  "display_order": 4,
+  "id": 100504,
+  "object_id": 401,
+  "object_type": 12,
+  "object_value": 15,
+  "piece_exchange_group_id": 5
+ },
+ "100505": {
+  "consume_piece": 20,
+  "display_order": 5,
+  "id": 100505,
+  "object_id": 233,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 5
+ },
+ "100506": {
+  "consume_piece": 8,
+  "display_order": 6,
+  "id": 100506,
+  "object_id": 132,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 5
+ },
+ "100507": {
+  "consume_piece": 12,
+  "display_order": 7,
+  "id": 100507,
+  "object_id": 353,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 5
+ },
+ "100508": {
+  "consume_piece": 4,
+  "display_order": 8,
+  "id": 100508,
+  "object_id": 382,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 5
+ },
+ "100601": {
+  "consume_piece": 100,
+  "display_order": 1,
+  "id": 100601,
+  "object_id": 702,
+  "object_type": 12,
+  "object_value": 1,
+  "piece_exchange_group_id": 6
+ },
+ "100602": {
+  "consume_piece": 4,
+  "display_order": 2,
+  "id": 100602,
+  "object_id": 406,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 6
+ },
+ "100603": {
+  "consume_piece": 4,
+  "display_order": 3,
+  "id": 100603,
+  "object_id": 404,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 6
+ },
+ "100604": {
+  "consume_piece": 4,
+  "display_order": 4,
+  "id": 100604,
+  "object_id": 402,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 6
+ },
+ "100605": {
+  "consume_piece": 8,
+  "display_order": 5,
+  "id": 100605,
+  "object_id": 222,
+  "object_type": 12,
+  "object_value": 3,
+  "piece_exchange_group_id": 6
+ },
+ "100606": {
+  "consume_piece": 20,
+  "display_order": 6,
+  "id": 100606,
+  "object_id": 113,
+  "object_type": 12,
+  "object_value": 5,
+  "piece_exchange_group_id": 6
+ },
+ "100607": {
+  "consume_piece": 12,
+  "display_order": 7,
+  "id": 100607,
+  "object_id": 363,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 6
+ },
+ "100608": {
+  "consume_piece": 4,
+  "display_order": 8,
+  "id": 100608,
+  "object_id": 372,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 6
+ },
+ "100701": {
+  "consume_piece": 4,
+  "display_order": 1,
+  "id": 100701,
+  "object_id": 0,
+  "object_type": 6,
+  "object_value": 2,
+  "piece_exchange_group_id": 7
+ },
+ "100702": {
+  "consume_piece": 8,
+  "display_order": 2,
+  "id": 100702,
+  "object_id": 605,
+  "object_type": 12,
+  "object_value": 2,
+  "piece_exchange_group_id": 7
+ },
+ "100703": {
+  "consume_piece": 4,
+  "display_order": 3,
+  "id": 100703,
+  "object_id": 405,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 7
+ },
+ "100704": {
+  "consume_piece": 4,
+  "display_order": 4,
+  "id": 100704,
+  "object_id": 403,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 7
+ },
+ "100705": {
+  "consume_piece": 20,
+  "display_order": 5,
+  "id": 100705,
+  "object_id": 243,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 7
+ },
+ "100706": {
+  "consume_piece": 12,
+  "display_order": 6,
+  "id": 100706,
+  "object_id": 373,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 7
+ },
+ "100707": {
+  "consume_piece": 4,
+  "display_order": 7,
+  "id": 100707,
+  "object_id": 362,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 7
+ },
+ "100801": {
+  "consume_piece": 150,
+  "display_order": 1,
+  "id": 100801,
+  "object_id": 501,
+  "object_type": 12,
+  "object_value": 1,
+  "piece_exchange_group_id": 8
+ },
+ "100802": {
+  "consume_piece": 12,
+  "display_order": 2,
+  "id": 100802,
+  "object_id": 606,
+  "object_type": 12,
+  "object_value": 2,
+  "piece_exchange_group_id": 8
+ },
+ "100803": {
+  "consume_piece": 4,
+  "display_order": 3,
+  "id": 100803,
+  "object_id": 406,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 8
+ },
+ "100804": {
+  "consume_piece": 4,
+  "display_order": 4,
+  "id": 100804,
+  "object_id": 404,
+  "object_type": 12,
+  "object_value": 10,
+  "piece_exchange_group_id": 8
+ },
+ "100805": {
+  "consume_piece": 8,
+  "display_order": 5,
+  "id": 100805,
+  "object_id": 212,
+  "object_type": 12,
+  "object_value": 3,
+  "piece_exchange_group_id": 8
+ },
+ "100806": {
+  "consume_piece": 12,
+  "display_order": 6,
+  "id": 100806,
+  "object_id": 383,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 8
+ },
+ "100807": {
+  "consume_piece": 4,
+  "display_order": 7,
+  "id": 100807,
+  "object_id": 352,
+  "object_type": 12,
+  "object_value": 6,
+  "piece_exchange_group_id": 8
+ }
+}

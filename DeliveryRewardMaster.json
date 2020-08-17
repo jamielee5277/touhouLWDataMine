@@ -1,0 +1,42 @@
+{
+ "100101": {
+  "add_type": 0,
+  "content_text": "神結晶（有償）",
+  "delivery_id": 1001,
+  "id": 100101,
+  "object_id": 1,
+  "object_type": 4,
+  "object_value": 98,
+  "title_text": "にとりの宅配便"
+ },
+ "100102": {
+  "add_type": 1,
+  "content_text": "神結晶（無償）",
+  "delivery_id": 1001,
+  "id": 100102,
+  "object_id": 0,
+  "object_type": 4,
+  "object_value": 20,
+  "title_text": "にとりの宅配便"
+ },
+ "100103": {
+  "add_type": 1,
+  "content_text": "賽銭",
+  "delivery_id": 1001,
+  "id": 100103,
+  "object_id": 0,
+  "object_type": 3,
+  "object_value": 1000,
+  "title_text": "にとりの宅配便"
+ },
+ "100104": {
+  "add_type": 1,
+  "content_text": "霊P",
+  "delivery_id": 1001,
+  "id": 100104,
+  "object_id": 0,
+  "object_type": 2,
+  "object_value": 200,
+  "title_text": "にとりの宅配便"
+ }
+}

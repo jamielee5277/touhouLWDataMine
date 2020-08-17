@@ -1,0 +1,82 @@
+{
+ "1": {
+  "buy_count": 1,
+  "consume_orb": 20,
+  "id": 1
+ },
+ "2": {
+  "buy_count": 2,
+  "consume_orb": 20,
+  "id": 2
+ },
+ "3": {
+  "buy_count": 3,
+  "consume_orb": 40,
+  "id": 3
+ },
+ "4": {
+  "buy_count": 4,
+  "consume_orb": 40,
+  "id": 4
+ },
+ "5": {
+  "buy_count": 5,
+  "consume_orb": 40,
+  "id": 5
+ },
+ "6": {
+  "buy_count": 6,
+  "consume_orb": 40,
+  "id": 6
+ },
+ "7": {
+  "buy_count": 7,
+  "consume_orb": 80,
+  "id": 7
+ },
+ "8": {
+  "buy_count": 8,
+  "consume_orb": 80,
+  "id": 8
+ },
+ "9": {
+  "buy_count": 9,
+  "consume_orb": 80,
+  "id": 9
+ },
+ "10": {
+  "buy_count": 10,
+  "consume_orb": 80,
+  "id": 10
+ },
+ "11": {
+  "buy_count": 11,
+  "consume_orb": 160,
+  "id": 11
+ },
+ "12": {
+  "buy_count": 12,
+  "consume_orb": 160,
+  "id": 12
+ },
+ "13": {
+  "buy_count": 13,
+  "consume_orb": 160,
+  "id": 13
+ },
+ "14": {
+  "buy_count": 14,
+  "consume_orb": 160,
+  "id": 14
+ },
+ "15": {
+  "buy_count": 15,
+  "consume_orb": 160,
+  "id": 15
+ },
+ "16": {
+  "buy_count": 16,
+  "consume_orb": 160,
+  "id": 16
+ }
+}
